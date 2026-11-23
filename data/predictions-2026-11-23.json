@@ -3969,22 +3969,14 @@
         "name": "Vitibet",
         "status": "ok",
         "note": "WebFetch a renvoyé 403 (fournisseur bloqué) ; la page publique a répondu 200 en HTTP direct, sans contournement de captcha.",
-        "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
-        "lastProbe": {
-          "code": 200,
-          "detail": "HTTP 200"
-        }
+        "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal"
       },
       {
         "id": "windrawwin",
         "name": "WinDrawWin",
         "status": "partial",
         "note": "Page des picks du 23/11/2026 ouverte. Seul le score prévu Brentford–Everton (2-0, Small) était clairement affiché ; les autres affiches n'avaient pas de score prévu extractible de façon sûre.",
-        "url": "https://www.windrawwin.com/us/picks/future/20261123/",
-        "lastProbe": {
-          "code": 403,
-          "detail": "HTTP Error 403: Forbidden"
-        }
+        "url": "https://www.windrawwin.com/us/picks/future/20261123/"
       },
       {
         "id": "predictz",
@@ -4003,11 +3995,7 @@
         "name": "SoccerVista",
         "status": "unavailable",
         "reason": "La page /predictions/ s'ouvre mais ne liste pas les matchs du jour dans le HTML (contenu surtout éditorial / probablement chargé dynamiquement). Aucun chiffre extrait.",
-        "url": "https://www.soccervista.com/predictions/",
-        "lastProbe": {
-          "code": 200,
-          "detail": "HTTP 200"
-        }
+        "url": "https://www.soccervista.com/predictions/"
       },
       {
         "id": "opta",
