@@ -1,0 +1,4021 @@
+{
+  "date": "2026-11-23",
+  "dateLabel": "Lundi 23 novembre 2026",
+  "generatedAt": "2026-11-23T20:30:00+00:00",
+  "timezone": "Europe/Paris",
+  "timezoneNote": "Horaires affichés à l’heure de Paris (CET, UTC+1). L’utilisateur est à UTC+0 (Afrique/Casablanca) : retirer une heure.",
+  "scoresRetrievedAt": "2026-11-23T20:25:00+00:00",
+  "scoresNote": "Scores relevés vers 20h25 (Afrique/Casablanca, UTC+0) le 23/11/2026, principalement via BBC Sport (Brentford–Everton, dont le but de Lewis-Potter à la 23e, et score HT Başakşehir 0-1), OnAirScore (autres live et résultats), Goalystats et TheFishy. Mi-temps Hammarby 1-0 : Sweden Herald / SVT ; mi-temps Brøndby 0-1 : Goals365. Cette appli est statique : les scores ne se mettent pas à jour tout seuls.",
+  "sourcesNote": "Pronostics et cotes du matin (page générée vers 10h45, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur soccerstat.co.uk (mises à jour entre 5h04 et 9h18, heure de Paris, selon les matchs), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Pour Başakşehir – Çorum (absent de soccerstat) : cote médiane du marché sur zirveoran.com vers 10h30. Les cotes évoluent jusqu’au coup d’envoi. Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
+  "context": "Pas de match international A aujourd’hui (la trêve s’est terminée le 18/11). Lundi calme dans les grands championnats européens (une affiche en Premier League, Liga et Serie A). Pas de Bundesliga, Ligue 1, Eredivisie ni Primeira Liga (pause jusqu’au 27/11). Huit matchs ont été analysés le matin ; les autres championnats du monde sont listés avec le score s’il a pu être vérifié, sans pronostic ni cote inventés.",
+  "responsibleGambling": {
+    "title": "Jeu responsable — 18 ans et plus",
+    "text": "Les paris sportifs comportent des risques : endettement, isolement, dépendance. Ne misez que ce que vous pouvez vous permettre de perdre. Ces pronostics sont informatifs et ne garantissent aucun gain.",
+    "help": "Besoin d’aide ? Joueurs Info Service : 09 74 75 13 13 (appel non surtaxé, 7j/7, 8h–2h)."
+  },
+  "matches": [
+    {
+      "kickoffParis": "18:00",
+      "kickoffIso": "2026-11-23T17:00:00+00:00",
+      "round": "J12",
+      "venue": "Başakşehir Fatih Terim, Istanbul",
+      "referee": "Direnç Tonusluoğlu",
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "htScore": {
+        "home": 0,
+        "away": 1
+      },
+      "scorerNote": "Çorum : Ramírez 29’, Mahmić 68’. Başakşehir : Shomurodov 77’, Bertuğ Yıldırım 82’, 86’, 90+1’ (hat-trick). Sources : BBC Sport, AA.",
+      "prediction": {
+        "market": "OU",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.17,
+        "confidence": "Élevée",
+        "explanation": "83 % selon le marché, deux équipes qui marquent beaucoup"
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X",
+          "odds": 1.28,
+          "confidence": "Moyenne +",
+          "explanation": "Başakşehir solide à domicile, Çorum sort d’un 0-5"
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent",
+          "odds": 1.51,
+          "confidence": "Moyenne",
+          "explanation": "63 % selon le marché"
+        }
+      ],
+      "odds1x2": {
+        "home": 1.91,
+        "draw": 3.75,
+        "away": 3.63
+      },
+      "markets": {
+        "1X": 1.28,
+        "over15": 1.17,
+        "over25": 1.57,
+        "under35": 1.53,
+        "bttsYes": 1.51
+      },
+      "form": "Başakşehir (9e, 17 pts avant le match) : 5V-2N-4D ; 2-1 à Göztepe et 5-2 contre Samsunspor sur ses 2 derniers ; à domicile cette saison : 4V-1N-1D (16-7). Çorum (11e, 16 pts, promu) : 5V-1N-5D, vient de prendre 0-5 contre Fenerbahçe ; 3 victoires en 5 déplacements (dont 5-1 à Samsun et 3-0 à Gaziantep), mais 2-6 à Beşiktaş.",
+      "absences": "Başakşehir : Yusuf Sarı (blessé), Stancic. Çorum : Berat Özdemir (blessé), Thiam, Cemali Sertel. Aucun suspendu (ajansspor.com). Kemen, Ba et Umut Güneş à 3 jaunes (menacés de suspension).",
+      "h2h": "Non disponible (pas de confrontation récente en Süper Lig, Çorum étant promu).",
+      "stats": "Probabilités marché (matin) : 49,5 % / 24,5 % / 26 %. Plus de 2,5 buts : 60,5 % ; BTTS : 63 %. Matchs de Başakşehir à domicile : 3,8 buts en moyenne. Buteurs / passeurs (cotes) : non disponible. Attention : ajansspor.com affichait 1,68 / 3,41 / 3,34 et +2,5 à 1,40 — les sources divergeaient.",
+      "sources": "Cotes : médiane marché zirveoran.com (10 bookmakers) vers 10h30 (Paris). Absents/forme : ajansspor.com, TFF. Score : BBC Sport.",
+      "isTop": true,
+      "scoreSource": "BBC Sport (FT et HT 0-1) ; Anadolu Ajansı / Hürriyet (gols)",
+      "id": "basaksehir-corum",
+      "country": "Turquie",
+      "countryCode": "TR",
+      "league": "Süper Lig",
+      "home": "Başakşehir",
+      "away": "Çorum FK",
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "url": "https://www.forebet.com/en/football-match-previews/32259-basaksehir-aim-to-extend-home-edge-over-arca-corum-fk-in-super-lig-clash",
+          "reason": "Page inaccessible (HTTP 403). Aucun pourcentage Forebet retenu."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "pred1x2": "1",
+          "probs": {
+            "home": 56,
+            "draw": 24,
+            "away": 20
+          },
+          "correctScore": "2-1",
+          "tip": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 1,
+        "summary": "1/1 source indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "kickoffParis": "19:00",
+      "kickoffIso": "2026-11-23T18:00:00+00:00",
+      "round": "J29",
+      "venue": "3Arena, Stockholm (toit fermé, plus de 30 000 billets vendus)",
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "htScore": {
+        "home": 1,
+        "away": 0
+      },
+      "scorerNote": "Paulos Abraham ouvre le score juste avant la pause (SVT / Sweden Herald) ; il termine avec 1 but et 2 passes (SVT). Autres buteurs : non détaillés ici de façon assez fiable.",
+      "prediction": {
+        "market": "1X",
+        "label": "Double chance 1X",
+        "odds": 1.07,
+        "confidence": "Très élevée",
+        "explanation": "Hammarby quasi intraitable à domicile, Göteborg très diminué"
+      },
+      "otherPicks": [
+        {
+          "market": "OU",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.14,
+          "confidence": "Très élevée",
+          "explanation": "Hammarby marque près de 3 buts par match à domicile"
+        },
+        {
+          "market": "1",
+          "label": "Hammarby gagnant",
+          "odds": 1.22,
+          "confidence": "Élevée",
+          "explanation": "Course au titre, 5 victoires de suite, 4 absents adverses"
+        }
+      ],
+      "odds1x2": {
+        "home": 1.22,
+        "draw": 7.01,
+        "away": 12.5
+      },
+      "markets": {
+        "1X": 1.07,
+        "over15": 1.14,
+        "over25": 1.44,
+        "under35": 1.75,
+        "bttsYes": 1.95,
+        "bttsNo": 1.95,
+        "cornersOver105": 1.92,
+        "cornersUnder105": 1.88
+      },
+      "form": "Hammarby (2e, 58 pts en 28 matchs) : 5 victoires de suite (11-2), dont 2-1 à Malmö et 4-1 contre Elfsborg ; à domicile 11V-1N-2D (40-8). Göteborg (10e, 39 pts) : aucune victoire sur ses 5 derniers (4 nuls), 4V-4N-6D à l’extérieur (19-32).",
+      "absences": "Hammarby : Boudri (saison terminée), O. J. Hagen, Hedlöf ; Johansson Schellhas incertain. Göteborg : Bager et Heintz (suspendus), S. Larsson (blessé), Bergmark Wiberg, Erlingmark ; Fenger incertain.",
+      "h2h": "24 matchs recensés par soccerstat : Hammarby 13 V, 6 N, 5 D. Hammarby a gagné les 3 derniers (dernier : Göteborg 0-1 Hammarby, 09/05/2026).",
+      "stats": "Enjeu : Sirius menait avec 61 pts (29 matchs) ; une victoire ramenait Hammarby à égalité avec une bien meilleure différence de buts (+37). Paulos Abraham : 17 buts (co-meilleur buteur), Victor Lind : 10. Probabilités marché : 78 % pour Hammarby. Cote buteur Abraham : non trouvée. Corners +10,5 : 1,92 / −10,5 : 1,88. Cartons : non disponible. Autre cote DBET (via tvmatchen.nu, 22/11) : 1,25 / 5,75 / 11,00.",
+      "sources": "soccerstat.co.uk (cotes, forme, absents, H2H), tvmatchen.nu (DBET, absents, enjeu). Score : BBC Sport, SVT.",
+      "isTop": true,
+      "scoreSource": "BBC Sport / Goalystats (FT 3-1) ; Sweden Herald et SVT (HT 1-0, Abraham juste avant la pause)",
+      "id": "hammarby-goteborg",
+      "country": "Suède",
+      "countryCode": "SE",
+      "league": "Allsvenskan",
+      "home": "Hammarby",
+      "away": "IFK Göteborg",
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/hammarby-if-ifk-g%C3%B6teborg-2448541",
+          "pred1x2": "1",
+          "probs": {
+            "home": 49,
+            "draw": 35,
+            "away": 16
+          },
+          "correctScore": "2-0",
+          "over25": {
+            "pred": "Under",
+            "under": 51,
+            "over": 49
+          },
+          "btts": {
+            "pred": "No",
+            "yes": 49,
+            "no": 51
+          },
+          "doubleChance": "1X",
+          "doubleChanceProb": 84,
+          "avgGoals": 2.45,
+          "note": "La fiche indique aussi « Our algorithm prediction: Under 2.5 goals »."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "pred1x2": "1",
+          "probs": {
+            "home": 68,
+            "draw": 19,
+            "away": 13
+          },
+          "correctScore": "2-1",
+          "tip": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "2/2 sources indiquent 1 · double chance citée : 1X (1/2) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "kickoffParis": "19:00",
+      "kickoffIso": "2026-11-23T18:00:00+00:00",
+      "round": "J29",
+      "venue": "Gamla Ullevi (signalé par plusieurs sources pour cette affiche)",
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": "Mentionné ce matin comme trop incertain pour un pari prudent : Kalmar 13e, 26 pts, 1 seule victoire en 14 déplacements (données du matin, avant le match).",
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Programme : page du matin. Score : BBC Sport.",
+      "isTop": false,
+      "scoreSource": "BBC Sport / Goalystats / Sportily (Örgryte 3-2 Kalmar)",
+      "id": "orgryte-kalmar",
+      "country": "Suède",
+      "countryCode": "SE",
+      "league": "Allsvenskan",
+      "home": "Örgryte",
+      "away": "Kalmar",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "19:00",
+      "kickoffIso": "2026-11-23T18:00:00+00:00",
+      "round": "J15",
+      "venue": "Brøndby Stadion",
+      "referee": "Jacob Karlsen",
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "htScore": {
+        "home": 0,
+        "away": 1
+      },
+      "scorerNote": "Midtjylland : Cho Gue-sung (fin de première période, Flashscore / Goals365), CSC Frederik Alves 76’ (Flashscore).",
+      "prediction": {
+        "market": "OU",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.18,
+        "confidence": "Élevée",
+        "explanation": "Deux attaques efficaces, H2H ouverts"
+      },
+      "otherPicks": [
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent",
+          "odds": 1.5,
+          "confidence": "Moyenne",
+          "explanation": "65 % selon le marché"
+        },
+        {
+          "market": "CRN",
+          "label": "Plus de 9,5 corners",
+          "odds": 1.75,
+          "confidence": "Moyenne-faible",
+          "explanation": "54 % selon le marché"
+        }
+      ],
+      "odds1x2": {
+        "home": 2.58,
+        "draw": 4.0,
+        "away": 2.6
+      },
+      "markets": {
+        "1X": 1.53,
+        "X2": 1.57,
+        "over15": 1.18,
+        "over25": 1.57,
+        "under35": 1.62,
+        "bttsYes": 1.5,
+        "cornersOver95": 1.75,
+        "cornersUnder95": 2.08
+      },
+      "form": "Brøndby (5e, 22 pts) : 7V-1N-6D (23-21), 5V-2D à domicile (14-9) ; 1-0 perdu à Copenhague le 08/11. Midtjylland (2e, 32 pts) : invaincu en championnat (9V-5N), 4V-3N à l’extérieur (13-8) ; mais 1-6 contre l’Ajax et 2-2 contre Sønderjyske récemment.",
+      "absences": "Brøndby : Binks, Kohlert. Midtjylland : Bakker, Erlić, Gogorza, M. Jensen, Junior Brumado, D. Martínez, Ólafsson (7 absents).",
+      "h2h": "60 matchs : Brøndby 26 V, 12 N, 22 D. Dernier : Midtjylland 4-1 Brøndby (14/09/2026) ; duels souvent prolifiques (2-3, 1-2).",
+      "stats": "Probabilités marché : 38 % / 24 % / 38 %. Plus de 2,5 buts : 62 % ; BTTS : 65 %. Plus de 9,5 corners : 54 %. Cartons : non disponible.",
+      "sources": "soccerstat.co.uk (cotes, forme, absents, H2H). Score : BBC Sport, Flashscore.",
+      "isTop": true,
+      "scoreSource": "BBC Sport (FT 0-2) ; Goals365 (HT 0-1) ; Flashscore (Cho Gue-sung puis CSC Alves 76’)",
+      "id": "brondby-midtjylland",
+      "country": "Danemark",
+      "countryCode": "DK",
+      "league": "Superliga",
+      "home": "Brøndby",
+      "away": "FC Midtjylland",
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/br%C3%B8ndby-midtjylland-2469586",
+          "pred1x2": "2",
+          "probs": {
+            "home": 25,
+            "draw": 31,
+            "away": 44
+          },
+          "correctScore": "1-2",
+          "over25": {
+            "pred": "Over",
+            "under": 37,
+            "over": 63
+          },
+          "btts": {
+            "pred": "Yes",
+            "yes": 73,
+            "no": 27
+          },
+          "doubleChance": "X2",
+          "doubleChanceProb": 75,
+          "avgGoals": 3.15
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "pred1x2": "1",
+          "probs": {
+            "home": 38,
+            "draw": 26,
+            "away": 36
+          },
+          "correctScore": "2-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": 50,
+        "label": "Moyen",
+        "majority1x2": null,
+        "agreement": 0.5,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "pas de majorité 1N2 (sources partagées) · double chance citée : X2 (1/2) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "kickoffParis": "20:30",
+      "kickoffIso": "2026-11-23T19:30:00+00:00",
+      "round": "J15",
+      "venue": "Alfonso Murube, Ceuta",
+      "referee": "Eder Mallo",
+      "status": "HT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "htScore": {
+        "home": 2,
+        "away": 2
+      },
+      "scorerNote": null,
+      "prediction": {
+        "market": "X2",
+        "label": "Double chance X2",
+        "odds": 1.3,
+        "confidence": "Élevée",
+        "explanation": "Le leader face à la lanterne rouge en série de 5 défaites"
+      },
+      "otherPicks": [
+        {
+          "market": "OU",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.21,
+          "confidence": "Élevée",
+          "explanation": "78 % selon le marché, les 2 derniers H2H ont donné 5 et 6 buts"
+        },
+        {
+          "market": "2",
+          "label": "Almería gagnant",
+          "odds": 1.97,
+          "confidence": "Moyenne-faible",
+          "explanation": "Écart énorme au classement, mais Ceuta a gagné le dernier duel à domicile"
+        }
+      ],
+      "odds1x2": {
+        "home": 4.33,
+        "draw": 3.96,
+        "away": 1.97
+      },
+      "markets": {
+        "X2": 1.3,
+        "over15": 1.21,
+        "over25": 1.68,
+        "under35": 1.55,
+        "bttsYes": 1.62,
+        "cornersOver95": 2.0,
+        "cornersUnder95": 1.82
+      },
+      "form": "Ceuta (5 pts en 14 matchs, dernier) : 5 défaites de suite (1-12), 1V-1N-5D à domicile (6-12). Almería (leader, 32 pts) : invaincu sur ses 5 derniers (2-1 contre Andorra, 1-0 à Girona) ; 4V-1N-2D à l’extérieur (9-5).",
+      "absences": "Aucun absent signalé de part et d’autre (soccerstat ; à vérifier).",
+      "h2h": "2 matchs : Almería 4-2 Ceuta (01/02/2026), Ceuta 3-2 Almería (26/11/2025).",
+      "stats": "Probabilités marché : 22 % / 25 % / 53 %. Plus de 2,5 buts : 58 %. Buteurs : non disponible. Cartons : non disponible.",
+      "sources": "soccerstat.co.uk, adceutafc.com (horaire). Score live : OnAirScore.",
+      "isTop": true,
+      "scoreSource": "OnAirScore vers 20h25 (UTC) : 2-2 à la mi-temps",
+      "id": "ceuta-almeria",
+      "country": "Espagne",
+      "countryCode": "ES",
+      "league": "Liga 2 (Hypermotion)",
+      "home": "AD Ceuta",
+      "away": "Almería",
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/ad-ceuta-ud-almer%C3%ADa-2509449",
+          "pred1x2": "2",
+          "probs": {
+            "home": 22,
+            "draw": 15,
+            "away": 63
+          },
+          "correctScore": "0-2",
+          "over25": {
+            "pred": "Under",
+            "under": 53,
+            "over": 47
+          },
+          "btts": {
+            "pred": "No",
+            "yes": 46,
+            "no": 54
+          },
+          "doubleChance": "X2",
+          "doubleChanceProb": 85,
+          "avgGoals": 2.33
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "pred1x2": "2",
+          "probs": {
+            "home": 25,
+            "draw": 28,
+            "away": 47
+          },
+          "correctScore": "1-2",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "2",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 2,
+        "summary": "2/2 sources indiquent 2 · double chance citée : X2 (2/2) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-23T19:45:00+00:00",
+      "round": "J13",
+      "venue": "Stade de la Beaujoire, Nantes",
+      "referee": "Ahmed Taleb",
+      "status": "LIVE",
+      "minute": 38,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "1X",
+        "label": "Double chance 1X",
+        "odds": 1.12,
+        "confidence": "Élevée",
+        "explanation": "Grenoble très faible à l’extérieur"
+      },
+      "otherPicks": [
+        {
+          "market": "OU",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.32,
+          "confidence": "Élevée",
+          "explanation": "Nantes marque 1 but par match à domicile"
+        },
+        {
+          "market": "1",
+          "label": "Nantes gagnant",
+          "odds": 1.5,
+          "confidence": "Moyenne-faible",
+          "explanation": "Favori, mais seulement 1 victoire à domicile"
+        }
+      ],
+      "odds1x2": {
+        "home": 1.5,
+        "draw": 4.3,
+        "away": 7.6
+      },
+      "markets": {
+        "1X": 1.12,
+        "over15": 1.34,
+        "over25": 2.02,
+        "under25": 1.9,
+        "under35": 1.32,
+        "bttsNo": 1.73,
+        "cornersUnder105": 1.75
+      },
+      "form": "Nantes (14e, 12 pts) : 3V-3N-6D ; seulement 1V-2N-3D à domicile (6-10), mais a gagné 2-0 à Pau le 07/11. Grenoble (17e, 11 pts) : 4 défaites sur ses 5 derniers avant de battre Reims 3-2 ; 2V-4D à l’extérieur (7-12).",
+      "absences": "Aucun absent signalé (soccerstat ; à vérifier).",
+      "h2h": "2 matchs anciens (2010-2011) : 1 victoire chacun.",
+      "stats": "Probabilités marché : 63 % / 22 % / 15 %. Moins de 2,5 buts légèrement favori (52 %). Buteurs : non disponible. Cartons : non disponible.",
+      "sources": "soccerstat.co.uk, LFP (horaire). Score live : OnAirScore.",
+      "isTop": true,
+      "scoreSource": "OnAirScore / TheFishy vers 20h25 (UTC) : 0-0, 38e",
+      "id": "nantes-grenoble",
+      "country": "France",
+      "countryCode": "FR",
+      "league": "Ligue 2",
+      "home": "Nantes",
+      "away": "Grenoble",
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/nantes-grenoble-2497615",
+          "pred1x2": "1",
+          "probs": {
+            "home": 49,
+            "draw": 26,
+            "away": 25
+          },
+          "correctScore": "2-1",
+          "over25": {
+            "pred": "Over",
+            "under": 47,
+            "over": 53
+          },
+          "btts": {
+            "pred": "Yes",
+            "yes": 54,
+            "no": 46
+          },
+          "doubleChance": "1X",
+          "doubleChanceProb": 75,
+          "avgGoals": 2.67
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "pred1x2": "1",
+          "probs": {
+            "home": 56,
+            "draw": 25,
+            "away": 19
+          },
+          "correctScore": "2-1",
+          "tip": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "2/2 sources indiquent 1 · double chance citée : 1X (1/2) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-23T19:45:00+00:00",
+      "round": "J13",
+      "venue": "Stade Auguste-Bonal",
+      "referee": "Karim Abed",
+      "status": "LIVE",
+      "minute": 38,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": "Sochaux : Louicius Deedson 5’, passe de Samy Baghdadi (football.fr).",
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": "Mentionné ce matin comme trop incertain pour un pari prudent.",
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Programme : LFP / page du matin. Score : OnAirScore, football.fr. Arbitre : football.fr.",
+      "isTop": false,
+      "scoreSource": "OnAirScore / TheFishy vers 20h25 (UTC) : 1-0, 38e. football.fr : Louicius Deedson 5’ (passe de Baghdadi).",
+      "id": "sochaux-dunkerque",
+      "country": "France",
+      "countryCode": "FR",
+      "league": "Ligue 2",
+      "home": "Sochaux",
+      "away": "Dunkerque",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-23T19:45:00+00:00",
+      "round": "J12",
+      "venue": "U-Power Stadium (Brianteo), Monza",
+      "referee": "Doveri",
+      "status": "LIVE",
+      "minute": 38,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "OU",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.19,
+        "confidence": "Élevée",
+        "explanation": "Deux des pires défenses du championnat"
+      },
+      "otherPicks": [
+        {
+          "market": "X2",
+          "label": "Double chance X2",
+          "odds": 1.32,
+          "confidence": "Moyenne +",
+          "explanation": "Monza en série de 4 défaites, Fiorentina en reprise"
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent",
+          "odds": 1.53,
+          "confidence": "Moyenne",
+          "explanation": "Fiorentina sans clean sheet cette saison"
+        }
+      ],
+      "odds1x2": {
+        "home": 3.8,
+        "draw": 4.07,
+        "away": 2.0
+      },
+      "markets": {
+        "X2": 1.32,
+        "over15": 1.19,
+        "over25": 1.63,
+        "under35": 1.6,
+        "bttsYes": 1.53,
+        "cornersUnder95": 1.79,
+        "cardsOver35": 1.83
+      },
+      "form": "Monza (18e, 7 pts) : 2V-1N-8D (17-25), 4 défaites de suite (Torino, Napoli, Bologne, Atalanta). Fiorentina (15e, 9 pts) : 2V-3N-6D (17-25), 3 matchs sans défaite (2-2 contre l’Atalanta et la Juve, 4-2 à Sassuolo) ; ses 2 victoires sont venues à l’extérieur.",
+      "absences": "Monza : Folorunsho, Maye, Ngonge. Fiorentina : Parisi, Pongračić, Sottil. Aucun suspendu (Lega Serie A). Ndour et Atta annoncés aptes par Vanoli.",
+      "h2h": "Lega Serie A : 7 précédents à Monza, 3 V Monza, 1 N, 3 V Fiorentina. Derniers : Monza 2-1 (13/01/2025), 2-2 (01/09/2024).",
+      "stats": "Les deux défenses ont encaissé 25 buts (parmi les pires de Serie A) ; la Fiorentina n’a encore gardé aucune cage inviolée. Probabilités marché : 26 % / 25 % / 49 %. BTTS : 62 %. Buteurs : non disponible.",
+      "sources": "soccerstat.co.uk, Lega Serie A, LaPresse. Score live : OnAirScore, BBC Sport.",
+      "isTop": true,
+      "scoreSource": "OnAirScore vers 20h25 (UTC) : 0-0, 38e ; BBC Sport : 0-0, 36e (un peu plus tôt)",
+      "id": "monza-fiorentina",
+      "country": "Italie",
+      "countryCode": "IT",
+      "league": "Serie A",
+      "home": "Monza",
+      "away": "Fiorentina",
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/monza-fiorentina-2496601",
+          "pred1x2": "1",
+          "probs": {
+            "home": 35,
+            "draw": 32,
+            "away": 33
+          },
+          "correctScore": "2-1",
+          "over25": {
+            "pred": "Over",
+            "under": 31,
+            "over": 69
+          },
+          "btts": {
+            "pred": "Yes",
+            "yes": 72,
+            "no": 28
+          },
+          "doubleChance": "12",
+          "doubleChanceProb": 68,
+          "avgGoals": 3.45,
+          "note": "Probabilités 1X2 très serrées (35/32/33). La fiche indique aussi « Our algorithm prediction: Over 2.5 goals »."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "pred1x2": "2",
+          "probs": {
+            "home": 33,
+            "draw": 29,
+            "away": 38
+          },
+          "correctScore": "1-1",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": 50,
+        "label": "Moyen",
+        "majority1x2": null,
+        "agreement": 0.5,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 2,
+        "summary": "pas de majorité 1N2 (sources partagées) · double chance citée : 12 (1/2) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-23T19:45:00+00:00",
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "LIVE",
+      "minute": 36,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": "Mentionné ce matin comme trop incertain pour un pari prudent.",
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Programme : page du matin. Score : OnAirScore.",
+      "isTop": false,
+      "scoreSource": "OnAirScore vers 20h25 (UTC) : 0-0, 36e",
+      "id": "orleans-thionville",
+      "country": "France",
+      "countryCode": "FR",
+      "league": "National (Ligue 3)",
+      "home": "Orléans",
+      "away": "Thionville Lusitanos",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-23T20:00:00+00:00",
+      "round": "J11",
+      "venue": "Gtech Community Stadium, Londres",
+      "referee": "Craig Pawson",
+      "status": "LIVE",
+      "minute": 23,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": "Brentford : Keane Lewis-Potter 23’ (BBC Sport).",
+      "prediction": {
+        "market": "OU",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.27,
+        "confidence": "Moyenne +",
+        "explanation": "75 % selon le marché"
+      },
+      "otherPicks": [
+        {
+          "market": "OU",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.42,
+          "confidence": "Moyenne +",
+          "explanation": "Everton défensif à l’extérieur (4-5 en 5 déplacements)"
+        },
+        {
+          "market": "1X",
+          "label": "Double chance 1X",
+          "odds": 1.42,
+          "confidence": "Moyenne",
+          "explanation": "Brentford solide à domicile mais privé de Thiago"
+        }
+      ],
+      "odds1x2": {
+        "home": 2.37,
+        "draw": 3.71,
+        "away": 3.13
+      },
+      "markets": {
+        "1X": 1.42,
+        "X2": 1.66,
+        "over15": 1.27,
+        "over25": 1.89,
+        "under35": 1.42,
+        "bttsYes": 1.67,
+        "cornersUnder105": 1.77,
+        "cardsOver35": 1.83
+      },
+      "form": "Brentford (10e, 14 pts ce matin ; BBC indiquait aussi 9e / 15 pts selon le décompte) : 3V-5N-2D (16-11), 3V-1N-1D à domicile (10-3) ; battu 2-0 à Brighton. Everton (7e, 16 pts, 17 pts selon le bandeau BBC) : 4V-4N-2D (12-10), 2 victoires de suite (1-0 à Newcastle, 3-1 contre Coventry), mais 0 but marqué à Arsenal et contre Chelsea.",
+      "absences": "Brentford : Igor Thiago (suspendu, rouge à Brighton), N. Collins, Dasilva, Furo, R. Henry, Hickey ; F. Carvalho incertain. Everton : aucun absent signalé ce matin. BBC (compos) : Wilson titulaire côté Brentford, Grealish sur le banc d’Everton.",
+      "h2h": "11 matchs (soccerstat) : Brentford 3 V, 4 N, 4 D. Derniers : 2-2 (11/04/2026), Everton 2-4 Brentford (04/01/2026).",
+      "stats": "Thierno Barry (Everton) : 6 buts en PL, 4 sur ses 3 derniers matchs, meilleur xG de la ligue (9,53) — données du matin. Callum Wilson pourrait remplacer Thiago (confirmé titulaire par BBC). Probabilités marché : 41 % / 28 % / 31 %. Score le plus probable : 1-1. Cotes buteurs : non relevées.",
+      "sources": "soccerstat.co.uk, brentfordfc.com, BBC Sport (horaire, score, compos).",
+      "isTop": true,
+      "scoreSource": "BBC Sport live : Keane Lewis-Potter 23’ (annonce du but à 20h22 GMT). Le bandeau du résumé BBC était encore à 0-0 au même moment ; le fil live et les « Key Events » confirment le 1-0.",
+      "id": "brentford-everton",
+      "country": "Angleterre",
+      "countryCode": "EN",
+      "league": "Premier League",
+      "home": "Brentford",
+      "away": "Everton",
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/brentford-everton-2495653",
+          "pred1x2": "X",
+          "probs": {
+            "home": 32,
+            "draw": 43,
+            "away": 25
+          },
+          "correctScore": "1-1",
+          "over25": {
+            "pred": "Under",
+            "under": 52,
+            "over": 48
+          },
+          "btts": {
+            "pred": "Yes",
+            "yes": 66,
+            "no": 34
+          },
+          "doubleChance": "1X",
+          "doubleChanceProb": 75,
+          "avgGoals": 2.38
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "pred1x2": "1",
+          "probs": {
+            "home": 48,
+            "draw": 26,
+            "away": 26
+          },
+          "correctScore": "2-1",
+          "tip": "1"
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "ok",
+          "url": "https://www.windrawwin.com/us/picks/future/20261123/",
+          "pred1x2": "1",
+          "correctScore": "2-0",
+          "confidence": "Small"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": 67,
+        "label": "Moyen +",
+        "majority1x2": "1",
+        "agreement": 0.667,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 3,
+        "summary": "2/3 sources indiquent 1 · double chance citée : 1X (1/3) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-23T20:00:00+00:00",
+      "round": "J13",
+      "venue": "Ciutat de València",
+      "referee": "Hernández Maeso",
+      "status": "LIVE",
+      "minute": 22,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "OU",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.23,
+        "confidence": "Moyenne +",
+        "explanation": "78 % selon le marché, Levante encaisse beaucoup"
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X",
+          "odds": 1.4,
+          "confidence": "Moyenne",
+          "explanation": "Levante largement dominant dans les H2H"
+        },
+        {
+          "market": "OU",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.5,
+          "confidence": "Moyenne",
+          "explanation": "64 % selon le marché, match à enjeu donc prudent"
+        }
+      ],
+      "odds1x2": {
+        "home": 2.26,
+        "draw": 3.82,
+        "away": 3.37
+      },
+      "markets": {
+        "1X": 1.4,
+        "over15": 1.23,
+        "over25": 1.74,
+        "under35": 1.5,
+        "bttsYes": 1.6,
+        "cornersUnder95": 1.85,
+        "cardsUnder45": 1.7
+      },
+      "form": "Levante (18e, 11 pts) : 2V-5N-5D (16-21), 2V-1N-2D à domicile (13-12). Elche (19e, 10 pts) : 2V-4N-6D (14-20), 2 défaites de suite sans marquer (Valence, Betis) ; 2V-3N-1D à l’extérieur (10-6).",
+      "absences": "Levante : aucun absent signalé. Elche : M. Aguado, A. Boayar, Y. Santiago.",
+      "h2h": "Soccerstat : 9 matchs, Levante 6 V, 3 N, 0 D sur cette série (texte du site incohérent avec une victoire 2-0 d’Elche le 29/08/2025). Dernier : Levante 3-2 Elche (23/01/2026).",
+      "stats": "Derby régional de bas de tableau. Probabilités marché : 43,5 % / 26,5 % / 30 %. BTTS : 60 %. Buteurs : non disponible.",
+      "sources": "soccerstat.co.uk, laliga.com. Score live : BBC Sport, OnAirScore.",
+      "isTop": true,
+      "scoreSource": "BBC Sport : 0-0, 21e ; OnAirScore : 0-0, 22e, vers 20h25 (UTC)",
+      "id": "levante-elche",
+      "country": "Espagne",
+      "countryCode": "ES",
+      "league": "Liga",
+      "home": "Levante",
+      "away": "Elche",
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/levante-elche-2495291",
+          "pred1x2": "X",
+          "probs": {
+            "home": 30,
+            "draw": 46,
+            "away": 24
+          },
+          "correctScore": "1-1",
+          "over25": {
+            "pred": "Under",
+            "under": 55,
+            "over": 45
+          },
+          "btts": {
+            "pred": "Yes",
+            "yes": 55,
+            "no": 45
+          },
+          "doubleChance": "1X",
+          "doubleChanceProb": 76,
+          "avgGoals": 2.27
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "pred1x2": "1",
+          "probs": {
+            "home": 44,
+            "draw": 28,
+            "away": 28
+          },
+          "correctScore": "2-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1X",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "2/2 sources indiquent 1X · double chance citée : 1X (2/2) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-23T20:00:00+00:00",
+      "round": "1/8",
+      "venue": "Estadio Juan Carmelo Zerillo",
+      "referee": null,
+      "status": "LIVE",
+      "minute": 22,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Horaire : StreamRadar, MatchScan, FBref. Score : OnAirScore.",
+      "isTop": false,
+      "scoreSource": "OnAirScore vers 20h25 (UTC) : 1-0, 22e. Horaire : StreamRadar 15h00 ET = 21h00 Paris ; FBref / MatchScan.",
+      "id": "gimnasia-newells",
+      "country": "Argentine",
+      "countryCode": "AR",
+      "league": "Liga Profesional (huitième de finale)",
+      "home": "Gimnasia La Plata",
+      "away": "Newell's Old Boys",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "23:30",
+      "kickoffIso": "2026-11-23T22:30:00+00:00",
+      "round": "J36",
+      "venue": "Estádio José Pinheiro Borda (Beira-Rio)",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "BBC Sport, FBref, Sportily, MatchScan.",
+      "isTop": false,
+      "scoreSource": "BBC Sport / FBref / Sportily (coup d’envoi 22h30 UK = 23h30 Paris)",
+      "id": "internacional-vitoria",
+      "country": "Brésil",
+      "countryCode": "BR",
+      "league": "Brasileirão Série A",
+      "home": "Internacional",
+      "away": "Vitória",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "00:00",
+      "kickoffIso": "2026-11-23T23:00:00+00:00",
+      "round": "J36",
+      "venue": "Estádio Nilton Santos",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "BBC Sport, FBref, Sportily.",
+      "isTop": false,
+      "scoreSource": "BBC Sport / FBref (20h00 heure locale = 00h00 Paris le 24/11)",
+      "id": "botafogo-sao-paulo",
+      "country": "Brésil",
+      "countryCode": "BR",
+      "league": "Brasileirão Série A",
+      "home": "Botafogo",
+      "away": "São Paulo",
+      "dateNote": "Coup d’envoi le 24/11 à 00h00, heure de Paris (encore listé au programme du 23/11 au Brésil).",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "01:00",
+      "kickoffIso": "2026-11-24T00:00:00+00:00",
+      "round": "J36",
+      "venue": "Estádio do Morumbi (selon FBref)",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "FBref.",
+      "isTop": false,
+      "scoreSource": "FBref : 21h00 heure locale, 23/11 = 01h00 Paris le 24/11",
+      "id": "santos-gremio",
+      "country": "Brésil",
+      "countryCode": "BR",
+      "league": "Brasileirão Série A",
+      "home": "Santos",
+      "away": "Grêmio",
+      "dateNote": "Coup d’envoi le 24/11 à 01h00, heure de Paris.",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "18:00",
+      "kickoffIso": "2026-11-23T17:00:00+00:00",
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 2-1). Horaire annoncé ce matin : 18h00 Paris.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 2-1). Horaire annoncé ce matin : 18h00 Paris.",
+      "id": "bodrum-vanspor",
+      "country": "Turquie",
+      "countryCode": "TR",
+      "league": "1. Lig",
+      "home": "Bodrum",
+      "away": "Vanspor",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "19:00",
+      "kickoffIso": "2026-11-23T18:00:00+00:00",
+      "round": "J15",
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "BBC Sport / OnAirScore / Sportily (FT 2-1). Horaire : MatchScan / StreamRadar 13h00 ET = 19h00 Paris.",
+      "isTop": false,
+      "scoreSource": "BBC Sport / OnAirScore / Sportily (FT 2-1). Horaire : MatchScan / StreamRadar 13h00 ET = 19h00 Paris.",
+      "id": "wieczysta-motor",
+      "country": "Pologne",
+      "countryCode": "PL",
+      "league": "Ekstraklasa",
+      "home": "Wieczysta Kraków",
+      "away": "Motor Lublin",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "19:00",
+      "kickoffIso": "2026-11-23T18:00:00+00:00",
+      "round": "J16",
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore / Sportily (FT 1-3). Horaire : MatchScan / StreamRadar 13h00 ET = 19h00 Paris.",
+      "isTop": false,
+      "scoreSource": "OnAirScore / Sportily (FT 1-3). Horaire : MatchScan / StreamRadar 13h00 ET = 19h00 Paris.",
+      "id": "sepsi-rapid",
+      "country": "Roumanie",
+      "countryCode": "RO",
+      "league": "Liga I",
+      "home": "Sepsi Sfântu Gheorghe",
+      "away": "Rapid Bucarest",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "16:00",
+      "kickoffIso": "2026-11-23T15:00:00+00:00",
+      "round": "J11",
+      "venue": "Stadio Theodoros Kolokotronis",
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "BBC Sport / OnAirScore (FT 0-1). Horaire : StreamRadar 10h00 ET = 16h00 Paris ; FBref 17h00 (probablement heure locale, non utilisée).",
+      "isTop": false,
+      "scoreSource": "BBC Sport / OnAirScore (FT 0-1). Horaire : StreamRadar 10h00 ET = 16h00 Paris ; FBref 17h00 (probablement heure locale, non utilisée).",
+      "id": "asteras-aris",
+      "country": "Grèce",
+      "countryCode": "GR",
+      "league": "Super League",
+      "home": "Asteras Tripolis",
+      "away": "Aris Thessalonique",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "17:00",
+      "kickoffIso": "2026-11-23T16:00:00+00:00",
+      "round": "J15",
+      "venue": "Huvepharma Arena",
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Goalystats / OnAirScore (FT 1-0). Horaire : StreamRadar 11h00 ET = 17h00 Paris.",
+      "isTop": false,
+      "scoreSource": "Goalystats / OnAirScore (FT 1-0). Horaire : StreamRadar 11h00 ET = 17h00 Paris.",
+      "id": "ludogorets-dunav",
+      "country": "Bulgarie",
+      "countryCode": "BG",
+      "league": "Parva Liga",
+      "home": "Ludogorets",
+      "away": "Dunav Ruse",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "18:00",
+      "kickoffIso": "2026-11-23T17:00:00+00:00",
+      "round": "J14",
+      "venue": "Gradski Stadion Ivan Kušek Apaš",
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "BBC Sport / OnAirScore (FT 1-0). Horaire : StreamRadar 12h00 ET = 18h00 Paris.",
+      "isTop": false,
+      "scoreSource": "BBC Sport / OnAirScore (FT 1-0). Horaire : StreamRadar 12h00 ET = 18h00 Paris.",
+      "id": "slaven-osijek",
+      "country": "Croatie",
+      "countryCode": "HR",
+      "league": "HNL",
+      "home": "Slaven Belupo",
+      "away": "Osijek",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore / Goalystats (FT 1-1). Horaire : non disponible de façon sûre.",
+      "isTop": false,
+      "scoreSource": "OnAirScore / Goalystats (FT 1-1). Horaire : non disponible de façon sûre.",
+      "id": "lnz-polessya",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "league": "Premier Liga",
+      "home": "LNZ Cherkasy",
+      "away": "Polessya",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 0-1). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 0-1). Horaire : non disponible.",
+      "id": "chornomorets-epitsentr",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "league": "Premier Liga",
+      "home": "Chornomorets",
+      "away": "Epitsentr Dunayivtsi",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "17:30",
+      "kickoffIso": "2026-11-23T16:30:00+00:00",
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 2-0). Horaire : StreamRadar 11h30 ET = 17h30 Paris.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 2-0). Horaire : StreamRadar 11h30 ET = 17h30 Paris.",
+      "id": "koper-aluminij",
+      "country": "Slovénie",
+      "countryCode": "SI",
+      "league": "Prva Liga",
+      "home": "Koper",
+      "away": "Aluminij",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Goalystats / OnAirScore (FT 1-2). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "Goalystats / OnAirScore (FT 1-2). Horaire : non disponible.",
+      "id": "ypsonas-anorthosis",
+      "country": "Chypre",
+      "countryCode": "CY",
+      "league": "First Division",
+      "home": "Krasava Ypsonas",
+      "away": "Anorthosis",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "17:45",
+      "kickoffIso": "2026-11-23T16:45:00+00:00",
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 0-1). Horaire : StreamRadar 11h45 ET = 17h45 Paris.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 0-1). Horaire : StreamRadar 11h45 ET = 17h45 Paris.",
+      "id": "ben-aknoun-usm",
+      "country": "Algérie",
+      "countryCode": "DZ",
+      "league": "Ligue 1",
+      "home": "Ben Aknoun",
+      "away": "USM Alger",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 1-1). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 1-1). Horaire : non disponible.",
+      "id": "kabylie-mca",
+      "country": "Algérie",
+      "countryCode": "DZ",
+      "league": "Ligue 1",
+      "home": "JS Kabylie",
+      "away": "MC Alger",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "16:00",
+      "kickoffIso": "2026-11-23T15:00:00+00:00",
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 1-2). Horaire : StreamRadar 10h00 ET = 16h00 Paris.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 1-2). Horaire : StreamRadar 10h00 ET = 16h00 Paris.",
+      "id": "el-gouna-zamalek",
+      "country": "Égypte",
+      "countryCode": "EG",
+      "league": "Premier League",
+      "home": "El Gouna",
+      "away": "Zamalek",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 1-1). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 1-1). Horaire : non disponible.",
+      "id": "wadi-degla-ittihad",
+      "country": "Égypte",
+      "countryCode": "EG",
+      "league": "Premier League",
+      "home": "Wadi Degla",
+      "away": "Al Ittihad",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 0-2). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 0-2). Horaire : non disponible.",
+      "id": "ahly-pyramids",
+      "country": "Égypte",
+      "countryCode": "EG",
+      "league": "Premier League",
+      "home": "Al Ahly",
+      "away": "Pyramids",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": "1/8",
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Sportily / OnAirScore (FT 2-1). Horaire : non disponible de façon sûre.",
+      "isTop": false,
+      "scoreSource": "Sportily / OnAirScore (FT 2-1). Horaire : non disponible de façon sûre.",
+      "id": "instituto-huracan",
+      "country": "Argentine",
+      "countryCode": "AR",
+      "league": "Liga Profesional (huitième de finale)",
+      "home": "Instituto Córdoba",
+      "away": "Huracán",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": "J17",
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "BBC Sport / Sportily / OnAirScore (FT 2-2). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "BBC Sport / Sportily / OnAirScore (FT 2-2). Horaire : non disponible.",
+      "id": "queretaro-necaxa",
+      "country": "Mexique",
+      "countryCode": "MX",
+      "league": "Liga MX Apertura",
+      "home": "Querétaro",
+      "away": "Necaxa",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 1-0). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 1-0). Horaire : non disponible.",
+      "id": "chivas-cruz-azul",
+      "country": "Mexique",
+      "countryCode": "MX",
+      "league": "Liga MX",
+      "home": "Chivas Guadalajara",
+      "away": "Cruz Azul",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": "1/8",
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "BBC Sport / Goalystats / Sportily (FT 2-0). Horaire européen : dans la nuit, non converti ici.",
+      "isTop": false,
+      "scoreSource": "BBC Sport / Goalystats / Sportily (FT 2-0). Horaire européen : dans la nuit, non converti ici.",
+      "id": "whitecaps-rsl",
+      "country": "Canada / États-Unis",
+      "countryCode": "CA",
+      "league": "MLS (huitième de finale)",
+      "home": "Vancouver Whitecaps",
+      "away": "Real Salt Lake",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 1-2). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 1-2). Horaire : non disponible.",
+      "id": "limache-serena",
+      "country": "Chili",
+      "countryCode": "CL",
+      "league": "Liga de Primera",
+      "home": "Deportes Limache",
+      "away": "Deportes La Serena",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "20:00",
+      "kickoffIso": "2026-11-23T19:00:00+00:00",
+      "round": "J26",
+      "venue": "Estadio Jesús Bermúdez",
+      "referee": null,
+      "status": "LIVE",
+      "minute": 62,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore : 0-1, 62e, vers 20h25 UTC. Horaire : FBref 15h00 locale (UTC−4) = 20h00 Paris.",
+      "isTop": false,
+      "scoreSource": "OnAirScore : 0-1, 62e, vers 20h25 UTC. Horaire : FBref 15h00 locale (UTC−4) = 20h00 Paris.",
+      "id": "oruro-guabira",
+      "country": "Bolivie",
+      "countryCode": "BO",
+      "league": "División Profesional",
+      "home": "Real Oruro",
+      "away": "Guabirá",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 0-3). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 0-3). Horaire : non disponible.",
+      "id": "san-antonio-always-ready",
+      "country": "Bolivie",
+      "countryCode": "BO",
+      "league": "División Profesional",
+      "home": "San Antonio Bulo Bulo",
+      "away": "Always Ready",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "21:30",
+      "kickoffIso": "2026-11-23T20:30:00+00:00",
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "HT",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "htScore": {
+        "home": 0,
+        "away": 0
+      },
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore : 0-0 à la mi-temps, vers 20h25 UTC. Horaire : StreamRadar 14h30 ET = 21h30 Paris.",
+      "isTop": false,
+      "scoreSource": "OnAirScore : 0-0 à la mi-temps, vers 20h25 UTC. Horaire : StreamRadar 14h30 ET = 21h30 Paris.",
+      "id": "juventud-defensor",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "league": "Primera División",
+      "home": "Juventud",
+      "away": "Defensor Sporting",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "22:15",
+      "kickoffIso": "2026-11-23T21:15:00+00:00",
+      "round": "J26",
+      "venue": "Estadio Félix Capriles",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "À venir. OnAirScore : coup d’envoi 22h15 ; FBref 17h15 locale (UTC−4) = 22h15 Paris.",
+      "isTop": false,
+      "scoreSource": "À venir. OnAirScore : coup d’envoi 22h15 ; FBref 17h15 locale (UTC−4) = 22h15 Paris.",
+      "id": "universitario-gvsj",
+      "country": "Bolivie",
+      "countryCode": "BO",
+      "league": "División Profesional",
+      "home": "Universitario de Vinto",
+      "away": "GV San José",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "23:30",
+      "kickoffIso": "2026-11-23T22:30:00+00:00",
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "À venir. OnAirScore : 23h30 (aligné sur Internacional, traité comme 23h30 Paris). Fuseau à confirmer si l’horaire bouge.",
+      "isTop": false,
+      "scoreSource": "À venir. OnAirScore : 23h30 (aligné sur Internacional, traité comme 23h30 Paris). Fuseau à confirmer si l’horaire bouge.",
+      "id": "albion-danubio",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "league": "Primera División",
+      "home": "Albion",
+      "away": "Danubio",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "LIVE",
+      "minute": 57,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore / Goalystats : 0-0, 57e, vers 20h25 UTC. Horaire exact : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore / Goalystats : 0-0, 57e, vers 20h25 UTC. Horaire exact : non disponible.",
+      "id": "vitesse-degraafschap",
+      "country": "Pays-Bas",
+      "countryCode": "NL",
+      "league": "Keuken Kampioen Divisie (D2)",
+      "home": "Vitesse",
+      "away": "De Graafschap",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "LIVE",
+      "minute": 62,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore : 2-0, 62e, vers 20h25 UTC (Goalystats indiquait encore 1-0 un peu plus tôt). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore : 2-0, 62e, vers 20h25 UTC (Goalystats indiquait encore 1-0 un peu plus tôt). Horaire : non disponible.",
+      "id": "jongajax-jongaz",
+      "country": "Pays-Bas",
+      "countryCode": "NL",
+      "league": "Keuken Kampioen Divisie (D2)",
+      "home": "Jong Ajax",
+      "away": "Jong AZ",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "LIVE",
+      "minute": 66,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore / Goalystats : 1-2, 66e, vers 20h25 UTC. Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore / Goalystats : 1-2, 66e, vers 20h25 UTC. Horaire : non disponible.",
+      "id": "jongpsv-jongutrecht",
+      "country": "Pays-Bas",
+      "countryCode": "NL",
+      "league": "Keuken Kampioen Divisie (D2)",
+      "home": "Jong PSV",
+      "away": "Jong Utrecht",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "20:00",
+      "kickoffIso": "2026-11-23T19:00:00+00:00",
+      "round": "J12",
+      "venue": "Ciutat Esportiva Dani Jarque",
+      "referee": null,
+      "status": "LIVE",
+      "minute": 66,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore : 1-0, 66e, vers 20h25 UTC. Horaire : FBref 20h00 (heure locale / Paris).",
+      "isTop": false,
+      "scoreSource": "OnAirScore : 1-0, 66e, vers 20h25 UTC. Horaire : FBref 20h00 (heure locale / Paris).",
+      "id": "espanyol-w-valencia-w",
+      "country": "Espagne",
+      "countryCode": "ES",
+      "league": "Liga F (femmes)",
+      "home": "Espanyol (F)",
+      "away": "Valence (F)",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "18:00",
+      "kickoffIso": "2026-11-23T17:00:00+00:00",
+      "round": "J11",
+      "venue": "FC Bayern Campus",
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 1-0). Horaire : FBref 18h00.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 1-0). Horaire : FBref 18h00.",
+      "id": "bayern-w-hoffenheim-w",
+      "country": "Allemagne",
+      "countryCode": "DE",
+      "league": "Frauen-Bundesliga",
+      "home": "Bayern Munich (F)",
+      "away": "Hoffenheim (F)",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-23T20:00:00+00:00",
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "LIVE",
+      "minute": 37,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "BBC Sport : 0-0, 1re minute (plus tôt) ; OnAirScore : 0-0, 37e vers 20h25 UTC. Horaire BBC : en cours en même temps que Brentford (21h00 Paris).",
+      "isTop": false,
+      "scoreSource": "BBC Sport : 0-0, 1re minute (plus tôt) ; OnAirScore : 0-0, 37e vers 20h25 UTC. Horaire BBC : en cours en même temps que Brentford (21h00 Paris).",
+      "id": "chelmsford-maidstone",
+      "country": "Angleterre",
+      "countryCode": "EN",
+      "league": "National League South",
+      "home": "Chelmsford City",
+      "away": "Maidstone United",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Goalystats (FT 2-2). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "Goalystats (FT 2-2). Horaire : non disponible.",
+      "id": "neftchi-alhilal",
+      "country": "Asie (AFC)",
+      "countryCode": "AZ",
+      "league": "Ligue des champions AFC",
+      "home": "Neftçi",
+      "away": "Al-Hilal",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Goalystats (FT 1-1). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "Goalystats (FT 1-1). Horaire : non disponible.",
+      "id": "alain-esteghlal",
+      "country": "Asie (AFC)",
+      "countryCode": "AE",
+      "league": "Ligue des champions AFC",
+      "home": "Al-Aïn",
+      "away": "Esteghlal",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Goalystats (FT 3-2). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "Goalystats (FT 3-2). Horaire : non disponible.",
+      "id": "alshamal-alahli",
+      "country": "Asie (AFC)",
+      "countryCode": "QA",
+      "league": "Ligue des champions AFC",
+      "home": "Al-Shamal",
+      "away": "Al-Ahli Djeddah",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Goalystats (FT 1-5). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "Goalystats (FT 1-5). Horaire : non disponible.",
+      "id": "tractor-alwasl",
+      "country": "Asie (AFC)",
+      "countryCode": "IR",
+      "league": "Ligue des champions AFC",
+      "home": "Tractor",
+      "away": "Al-Wasl",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Goalystats (FT 2-0). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "Goalystats (FT 2-0). Horaire : non disponible.",
+      "id": "ittihad-pakhtakor",
+      "country": "Asie (AFC)",
+      "countryCode": "SA",
+      "league": "Ligue des champions AFC",
+      "home": "Al-Ittihad",
+      "away": "Pakhtakor",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "Goalystats (FT 2-1). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "Goalystats (FT 2-1). Horaire : non disponible.",
+      "id": "quwa-gharafa",
+      "country": "Asie (AFC)",
+      "countryCode": "IQ",
+      "league": "Ligue des champions AFC",
+      "home": "Al-Quwa Al-Jawiya",
+      "away": "Al-Gharafa",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 2-0). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 2-0). Horaire : non disponible.",
+      "id": "motagua-olimpia",
+      "country": "Honduras",
+      "countryCode": "HN",
+      "league": "Liga Nacional",
+      "home": "Motagua",
+      "away": "Olimpia",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 0-0). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 0-0). Horaire : non disponible.",
+      "id": "municipal-antigua",
+      "country": "Guatemala",
+      "countryCode": "GT",
+      "league": "Liga Nacional",
+      "home": "Municipal",
+      "away": "Antigua GFC",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": null,
+      "kickoffIso": null,
+      "round": null,
+      "venue": null,
+      "referee": null,
+      "status": "FT",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "OnAirScore (FT 1-1). Horaire : non disponible.",
+      "isTop": false,
+      "scoreSource": "OnAirScore (FT 1-1). Horaire : non disponible.",
+      "id": "shkendija-sileks",
+      "country": "Macédoine du Nord",
+      "countryCode": "MK",
+      "league": "Prva Liga",
+      "home": "Shkendija",
+      "away": "Sileks",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "kickoffParis": "02:00",
+      "kickoffIso": "2026-11-24T01:00:00+00:00",
+      "round": null,
+      "venue": "Energizer Park",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": null,
+      "otherPicks": [],
+      "odds1x2": null,
+      "markets": null,
+      "form": null,
+      "absences": null,
+      "h2h": null,
+      "stats": null,
+      "sources": "À venir. StreamRadar : 20h00 ET = 02h00 Paris le 24/11. FBref listait aussi cette affiche.",
+      "isTop": false,
+      "scoreSource": "À venir. StreamRadar : 20h00 ET = 02h00 Paris le 24/11. FBref listait aussi cette affiche.",
+      "id": "stl-lafc",
+      "country": "États-Unis",
+      "countryCode": "US",
+      "league": "MLS",
+      "home": "St. Louis City",
+      "away": "Los Angeles FC",
+      "externalSources": [
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction de match du jour en accès public."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    }
+  ],
+  "tickets": [
+    {
+      "id": "t1",
+      "title": "Ticket 1 — Favoris et doubles chances",
+      "subtitle": "7 sélections · cote juste sous 6",
+      "totalOdds": 5.97,
+      "confidence": "Moyenne-faible",
+      "note": "Cote totale estimée ≈ 5,97 (produit des cotes du matin). Juste sous l’objectif de 6.",
+      "legs": [
+        {
+          "matchId": "basaksehir-corum",
+          "time": "18h00",
+          "label": "Başakşehir – Çorum",
+          "pick": "Double chance 1X",
+          "market": "1X",
+          "odds": 1.28,
+          "source": "zirveoran.com (médiane)"
+        },
+        {
+          "matchId": "hammarby-goteborg",
+          "time": "19h00",
+          "label": "Hammarby – Göteborg",
+          "pick": "Hammarby gagnant",
+          "market": "1",
+          "odds": 1.22,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "ceuta-almeria",
+          "time": "20h30",
+          "label": "Ceuta – Almería",
+          "pick": "Double chance X2",
+          "market": "X2",
+          "odds": 1.3,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "nantes-grenoble",
+          "time": "20h45",
+          "label": "Nantes – Grenoble",
+          "pick": "Double chance 1X",
+          "market": "1X",
+          "odds": 1.12,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "monza-fiorentina",
+          "time": "20h45",
+          "label": "Monza – Fiorentina",
+          "pick": "Double chance X2",
+          "market": "X2",
+          "odds": 1.32,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "brentford-everton",
+          "time": "21h00",
+          "label": "Brentford – Everton",
+          "pick": "Double chance 1X",
+          "market": "1X",
+          "odds": 1.42,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "levante-elche",
+          "time": "21h00",
+          "label": "Levante – Elche",
+          "pick": "Double chance 1X",
+          "market": "1X",
+          "odds": 1.4,
+          "source": "soccerstat.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "title": "Ticket 2 — Les buts",
+      "subtitle": "8 sélections",
+      "totalOdds": 6.37,
+      "confidence": "Moyenne-faible",
+      "note": "Cote totale estimée ≈ 6,37 (produit des cotes du matin).",
+      "legs": [
+        {
+          "matchId": "basaksehir-corum",
+          "time": "18h00",
+          "label": "Başakşehir – Çorum",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.17,
+          "source": "zirveoran.com (médiane)"
+        },
+        {
+          "matchId": "hammarby-goteborg",
+          "time": "19h00",
+          "label": "Hammarby – Göteborg",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.14,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "brondby-midtjylland",
+          "time": "19h00",
+          "label": "Brøndby – Midtjylland",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.18,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "ceuta-almeria",
+          "time": "20h30",
+          "label": "Ceuta – Almería",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.21,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "nantes-grenoble",
+          "time": "20h45",
+          "label": "Nantes – Grenoble",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.32,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "monza-fiorentina",
+          "time": "20h45",
+          "label": "Monza – Fiorentina",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.19,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "brentford-everton",
+          "time": "21h00",
+          "label": "Brentford – Everton",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.42,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "levante-elche",
+          "time": "21h00",
+          "label": "Levante – Elche",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.5,
+          "source": "soccerstat.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "title": "Ticket 3 — Mixte",
+      "subtitle": "8 sélections",
+      "totalOdds": 6.55,
+      "confidence": "Moyenne-faible",
+      "note": "Cote totale estimée ≈ 6,55 (produit des cotes du matin).",
+      "legs": [
+        {
+          "matchId": "basaksehir-corum",
+          "time": "18h00",
+          "label": "Başakşehir – Çorum",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.17,
+          "source": "zirveoran.com (médiane)"
+        },
+        {
+          "matchId": "hammarby-goteborg",
+          "time": "19h00",
+          "label": "Hammarby – Göteborg",
+          "pick": "Hammarby gagnant",
+          "market": "1",
+          "odds": 1.22,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "brondby-midtjylland",
+          "time": "19h00",
+          "label": "Brøndby – Midtjylland",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.18,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "ceuta-almeria",
+          "time": "20h30",
+          "label": "Ceuta – Almería",
+          "pick": "Double chance X2",
+          "market": "X2",
+          "odds": 1.3,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "nantes-grenoble",
+          "time": "20h45",
+          "label": "Nantes – Grenoble",
+          "pick": "Double chance 1X",
+          "market": "1X",
+          "odds": 1.12,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "monza-fiorentina",
+          "time": "20h45",
+          "label": "Monza – Fiorentina",
+          "pick": "Les deux équipes marquent",
+          "market": "BTTS",
+          "odds": 1.53,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "brentford-everton",
+          "time": "21h00",
+          "label": "Brentford – Everton",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.42,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "levante-elche",
+          "time": "21h00",
+          "label": "Levante – Elche",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.23,
+          "source": "soccerstat.co.uk"
+        }
+      ]
+    }
+  ],
+  "topTip": {
+    "title": "Top Tip IA du jour",
+    "subtitle": "7 sélections · une par match · les plus sûres",
+    "maxLegs": 7,
+    "totalOdds": 3.13,
+    "confidence": "Élevée",
+    "method": "Combiné de 7 matchs (maximum 7), une seule sélection par rencontre : le marché le plus probable et le plus sûr parmi tous ceux déjà cotés (1, 2, 1X, X2, BTTS oui/non, plus/moins de buts, etc.). Le choix combine la probabilité implicite de la cote (1 ÷ cote) et l'analyse IA (forme, statistiques, absents, niveau de confiance). Les matchs où les sources publiques concordent avec les cotes sont privilégiés, puis triés par confiance décroissante. Aucune cote ni statistique n'a été inventée. Cote totale = produit des 7 cotes du matin.",
+    "legs": [
+      {
+        "matchId": "hammarby-goteborg",
+        "time": "19:00",
+        "home": "Hammarby",
+        "away": "IFK Göteborg",
+        "country": "Suède",
+        "countryCode": "SE",
+        "league": "Allsvenskan",
+        "pick": "Double chance 1X",
+        "market": "1X",
+        "odds": 1.07,
+        "impliedProb": 0.9346,
+        "confidence": "Très élevée",
+        "consensusScore": 100,
+        "consensusNote": "2/2 source(s) soutiennent Double chance 1X · 2/2 sources indiquent 1 · double chance citée : 1X (1/2) · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "Hammarby quasi intraitable à domicile, Göteborg très diminué Probabilité implicite de la cote : 93 %. Consensus sources : 2/2 source(s) soutiennent Double chance 1X · 2/2 sources indiquent 1 · double chance citée : 1X (1/2) · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "nantes-grenoble",
+        "time": "20:45",
+        "home": "Nantes",
+        "away": "Grenoble",
+        "country": "France",
+        "countryCode": "FR",
+        "league": "Ligue 2",
+        "pick": "Double chance 1X",
+        "market": "1X",
+        "odds": 1.12,
+        "impliedProb": 0.8929,
+        "confidence": "Élevée",
+        "consensusScore": 100,
+        "consensusNote": "2/2 source(s) soutiennent Double chance 1X · 2/2 sources indiquent 1 · double chance citée : 1X (1/2) · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "Grenoble très faible à l’extérieur Probabilité implicite de la cote : 89 %. Consensus sources : 2/2 source(s) soutiennent Double chance 1X · 2/2 sources indiquent 1 · double chance citée : 1X (1/2) · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "basaksehir-corum",
+        "time": "18:00",
+        "home": "Başakşehir",
+        "away": "Çorum FK",
+        "country": "Turquie",
+        "countryCode": "TR",
+        "league": "Süper Lig",
+        "pick": "Plus de 1,5 buts",
+        "market": "OU",
+        "odds": 1.17,
+        "impliedProb": 0.8547,
+        "confidence": "Élevée",
+        "consensusScore": 100,
+        "consensusNote": "1/1 source(s) soutiennent Plus de 1,5 buts · 1/1 source indiquent 1 · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "83 % selon le marché, deux équipes qui marquent beaucoup Probabilité implicite de la cote : 85 %. Consensus sources : 1/1 source(s) soutiennent Plus de 1,5 buts · 1/1 source indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "ceuta-almeria",
+        "time": "20:30",
+        "home": "AD Ceuta",
+        "away": "Almería",
+        "country": "Espagne",
+        "countryCode": "ES",
+        "league": "Liga 2 (Hypermotion)",
+        "pick": "Plus de 1,5 buts",
+        "market": "OU",
+        "odds": 1.21,
+        "impliedProb": 0.8264,
+        "confidence": "Élevée",
+        "consensusScore": 100,
+        "consensusNote": "2/2 source(s) soutiennent Plus de 1,5 buts · 2/2 sources indiquent 2 · double chance citée : X2 (2/2) · concordance avec les cotes (favori 1N2 : 2).",
+        "explanation": "78 % selon le marché, les 2 derniers H2H ont donné 5 et 6 buts Probabilité implicite de la cote : 83 %. Consensus sources : 2/2 source(s) soutiennent Plus de 1,5 buts · 2/2 sources indiquent 2 · double chance citée : X2 (2/2) · concordance avec les cotes (favori 1N2 : 2)."
+      },
+      {
+        "matchId": "brondby-midtjylland",
+        "time": "19:00",
+        "home": "Brøndby",
+        "away": "FC Midtjylland",
+        "country": "Danemark",
+        "countryCode": "DK",
+        "league": "Superliga",
+        "pick": "Plus de 1,5 buts",
+        "market": "OU",
+        "odds": 1.18,
+        "impliedProb": 0.8475,
+        "confidence": "Élevée",
+        "consensusScore": 73,
+        "consensusNote": "2/2 source(s) soutiennent Plus de 1,5 buts · pas de majorité 1N2 (sources partagées) · double chance citée : X2 (1/2) · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "Deux attaques efficaces, H2H ouverts Probabilité implicite de la cote : 85 %. Consensus sources : 2/2 source(s) soutiennent Plus de 1,5 buts · pas de majorité 1N2 (sources partagées) · double chance citée : X2 (1/2) · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "levante-elche",
+        "time": "21:00",
+        "home": "Levante",
+        "away": "Elche",
+        "country": "Espagne",
+        "countryCode": "ES",
+        "league": "Liga",
+        "pick": "Plus de 1,5 buts",
+        "market": "OU",
+        "odds": 1.23,
+        "impliedProb": 0.813,
+        "confidence": "Moyenne +",
+        "consensusScore": 100,
+        "consensusNote": "2/2 source(s) soutiennent Plus de 1,5 buts · 2/2 sources indiquent 1X · double chance citée : 1X (2/2) · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "78 % selon le marché, Levante encaisse beaucoup Probabilité implicite de la cote : 81 %. Consensus sources : 2/2 source(s) soutiennent Plus de 1,5 buts · 2/2 sources indiquent 1X · double chance citée : 1X (2/2) · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "brentford-everton",
+        "time": "21:00",
+        "home": "Brentford",
+        "away": "Everton",
+        "country": "Angleterre",
+        "countryCode": "EN",
+        "league": "Premier League",
+        "pick": "Plus de 1,5 buts",
+        "market": "OU",
+        "odds": 1.27,
+        "impliedProb": 0.7874,
+        "confidence": "Moyenne +",
+        "consensusScore": 82,
+        "consensusNote": "3/3 source(s) soutiennent Plus de 1,5 buts · 2/3 sources indiquent 1 · double chance citée : 1X (1/3) · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "75 % selon le marché Probabilité implicite de la cote : 79 %. Consensus sources : 3/3 source(s) soutiennent Plus de 1,5 buts · 2/3 sources indiquent 1 · double chance citée : 1X (1/3) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    ]
+  },
+  "externalModels": {
+    "retrievedAt": "2026-11-23T20:40:00+00:00",
+    "sourcesTried": [
+      {
+        "id": "forebet",
+        "name": "Forebet",
+        "status": "partial",
+        "note": "Fiches match publiques ouvertes (WebFetch) pour 7 des 8 matchs analysés. La fiche Başakşehir–Çorum a renvoyé 403 ; aucun pourcentage Forebet n'a été retenu pour ce match."
+      },
+      {
+        "id": "vitibet",
+        "name": "Vitibet",
+        "status": "ok",
+        "note": "WebFetch a renvoyé 403 (fournisseur bloqué) ; la page publique a répondu 200 en HTTP direct, sans contournement de captcha.",
+        "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+        "lastProbe": {
+          "code": 200,
+          "detail": "HTTP 200"
+        }
+      },
+      {
+        "id": "windrawwin",
+        "name": "WinDrawWin",
+        "status": "partial",
+        "note": "Page des picks du 23/11/2026 ouverte. Seul le score prévu Brentford–Everton (2-0, Small) était clairement affiché ; les autres affiches n'avaient pas de score prévu extractible de façon sûre.",
+        "url": "https://www.windrawwin.com/us/picks/future/20261123/",
+        "lastProbe": {
+          "code": 403,
+          "detail": "HTTP Error 403: Forbidden"
+        }
+      },
+      {
+        "id": "predictz",
+        "name": "PredictZ",
+        "status": "unavailable",
+        "reason": "Défi Cloudflare (HTTP 403). Aucune tentative de contournement. Aucun pronostic PredictZ retenu."
+      },
+      {
+        "id": "betegy",
+        "name": "Betegy",
+        "status": "unavailable",
+        "reason": "Page d'accueil joignable, mais aucun pronostic public du jour n'a pu être isolé de façon fiable."
+      },
+      {
+        "id": "soccervista",
+        "name": "SoccerVista",
+        "status": "unavailable",
+        "reason": "La page /predictions/ s'ouvre mais ne liste pas les matchs du jour dans le HTML (contenu surtout éditorial / probablement chargé dynamiquement). Aucun chiffre extrait.",
+        "url": "https://www.soccervista.com/predictions/",
+        "lastProbe": {
+          "code": 200,
+          "detail": "HTTP 200"
+        }
+      },
+      {
+        "id": "opta",
+        "name": "Opta Supercomputer",
+        "status": "unavailable",
+        "reason": "Aucune prédiction de match du 23/11/2026 trouvée en accès public (seulement des projections de championnat, ex. titre / relégation Premier League)."
+      }
+    ],
+    "note": "Pronostics d'IA / modèles spécialisés, uniquement en accès public. Les sources bloquées ou illisibles sont indiquées, sans chiffre inventé."
+  }
+}
