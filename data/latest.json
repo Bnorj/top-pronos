@@ -1,12 +1,12 @@
 {
   "date": "2026-11-24",
   "dateLabel": "Mardi 24 novembre 2026",
-  "generatedAt": "2026-11-24T11:30:00+01:00",
+  "generatedAt": "2026-11-24T10:20:00+01:00",
   "timezone": "Europe/Paris",
   "timezoneNote": "Horaires affichés à l’heure de Paris (CET, UTC+1).",
   "scoresRetrievedAt": null,
   "scoresNote": "Pronostics d’avant-match publiés le matin : aucun score n’est encore disponible. Cette appli est statique : les scores ne se mettent pas à jour tout seuls.",
-  "sourcesNote": "Pronostics et cotes du matin (page générée vers 11h30, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur soccerstat.co.uk (fiches mises à jour à 04:08–06:00 heure du site, le 24/11), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Cotes buteurs : Unibet via GameTipster (Mbappé) et bet365 via simplyodds.com (Haaland). Les cotes évoluent jusqu’au coup d’envoi. Modèles IA publics : Forebet, Vitibet, PredictZ, WinDrawWin et le supercalculateur Opta (Opta Analyst). Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
+  "sourcesNote": "Pronostics et cotes du matin (page générée vers 10h20, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur soccerstat.co.uk (fiches mises à jour le 24/11 entre 5h08 et 7h00, heure de Paris ; horaires du site en UTC), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Cotes buteurs : Unibet via GameTipster (Mbappé) et bet365 via simplyodds.com (Haaland). Les cotes évoluent jusqu’au coup d’envoi. Modèles IA publics : Forebet, Vitibet, PredictZ, WinDrawWin et le supercalculateur Opta (Opta Analyst). Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
   "context": "Mardi de Ligue des champions (phase de ligue, journée 5) : 9 matchs, 2 à 18h45 et 7 à 21h00. En plus : Championship, League One/Two, Scottish Premiership et Serie B. 15 matchs ont été analysés en détail ; 16 autres sont listés avec cotes et modèle Vitibet, sans pronostic publié.",
   "responsibleGambling": {
     "title": "Jeu responsable — 18 ans et plus",
@@ -3472,7 +3472,7 @@
     }
   ],
   "externalModels": {
-    "retrievedAt": "2026-11-24T10:45:00+00:00",
+    "retrievedAt": "2026-11-24T09:15:00+00:00",
     "sourcesTried": [
       {
         "id": "forebet",
