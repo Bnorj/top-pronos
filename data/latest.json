@@ -1,12 +1,12 @@
 {
   "date": "2026-11-25",
   "dateLabel": "Mercredi 25 novembre 2026",
-  "generatedAt": "2026-11-25T10:45:00+01:00",
+  "generatedAt": "2026-11-25T10:20:00+01:00",
   "timezone": "Europe/Paris",
   "timezoneNote": "Horaires affichés à l’heure de Paris (CET, UTC+1).",
   "scoresRetrievedAt": null,
   "scoresNote": "Pronostics d’avant-match publiés le matin : aucun score n’est encore disponible. Cette appli est statique : les scores ne se mettent pas à jour tout seuls.",
-  "sourcesNote": "Pronostics et cotes du matin (page générée vers 10h45, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur soccerstat.co.uk (fiches mises à jour le 25/11 entre 4h20 et 6h00 heure du site), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Modèles IA publics : Opta Supercomputer (Opta Analyst), Vitibet, Forebet, PredictZ et WinDrawWin (partiel). Betegy et SoccerVista : non disponibles. Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
+  "sourcesNote": "Pronostics et cotes du matin (page générée vers 10h20, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur soccerstat.co.uk (fiches mises à jour le 25/11 entre 4h20 et 6h00 heure du site), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Modèles IA publics : Opta Supercomputer (Opta Analyst), Vitibet, Forebet, PredictZ et WinDrawWin (partiel). Betegy et SoccerVista : non disponibles. Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
   "context": "Mercredi de Ligue des champions (phase de ligue, journée 5) : 9 matchs, 2 à 18h45 et 7 à 21h00. En plus : 4 matchs de Championship (20h45/21h00) et 4 de Serie B (19h00/20h00). 17 matchs analysés ; cotes buteurs/passeurs non disponibles (sauf probabilités Forebet pour Stoke–Millwall).",
   "responsibleGambling": {
     "title": "Jeu responsable — 18 ans et plus",
