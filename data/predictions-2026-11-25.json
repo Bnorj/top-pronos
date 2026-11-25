@@ -1,0 +1,2590 @@
+{
+  "date": "2026-11-25",
+  "dateLabel": "Mercredi 25 novembre 2026",
+  "generatedAt": "2026-11-25T10:45:00+01:00",
+  "timezone": "Europe/Paris",
+  "timezoneNote": "Horaires affichés à l’heure de Paris (CET, UTC+1).",
+  "scoresRetrievedAt": null,
+  "scoresNote": "Pronostics d’avant-match publiés le matin : aucun score n’est encore disponible. Cette appli est statique : les scores ne se mettent pas à jour tout seuls.",
+  "sourcesNote": "Pronostics et cotes du matin (page générée vers 10h45, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur soccerstat.co.uk (fiches mises à jour le 25/11 entre 4h20 et 6h00 heure du site), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Modèles IA publics : Opta Supercomputer (Opta Analyst), Vitibet, Forebet, PredictZ et WinDrawWin (partiel). Betegy et SoccerVista : non disponibles. Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
+  "context": "Mercredi de Ligue des champions (phase de ligue, journée 5) : 9 matchs, 2 à 18h45 et 7 à 21h00. En plus : 4 matchs de Championship (20h45/21h00) et 4 de Serie B (19h00/20h00). 17 matchs analysés ; cotes buteurs/passeurs non disponibles (sauf probabilités Forebet pour Stoke–Millwall).",
+  "responsibleGambling": {
+    "title": "Jeu responsable — 18 ans et plus",
+    "text": "Les paris sportifs comportent des risques : endettement, isolement, dépendance. Ne misez que ce que vous pouvez vous permettre de perdre. Ces pronostics sont informatifs et ne garantissent aucun gain.",
+    "help": "Besoin d’aide ? Joueurs Info Service : 09 74 75 13 13 (appel non surtaxé, 7j/7, 8h–2h)."
+  },
+  "matches": [
+    {
+      "id": "sabah-barcelona",
+      "kickoffParis": "18:45",
+      "kickoffIso": "2026-11-25T17:45:00+00:00",
+      "country": "Azerbaïdjan",
+      "countryCode": "AZ",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Sabah",
+      "away": "Barcelone",
+      "venue": "Baku Olympic Stadium, Baku",
+      "referee": "Nick Walsh",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "2",
+        "label": "Barcelone gagnant",
+        "odds": 1.1,
+        "confidence": "Très élevée",
+        "explanation": "4 modèles sur 4 donnent Barcelone vainqueur (Opta 81,2 %, Vitibet 88 % · 1-4, Forebet 56 % · 0-3, PredictZ 0-4) ; 88 % selon le marché."
+      },
+      "otherPicks": [
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.13,
+          "confidence": "Élevée",
+          "explanation": "86 % selon le marché ; Forebet 72 % ; les 3 scores prévus ont au moins 3 buts."
+        },
+        {
+          "market": "O3.5",
+          "label": "Plus de 3,5 buts",
+          "odds": 1.34,
+          "confidence": "Moyenne +",
+          "explanation": "72 % selon le marché ; Vitibet 1-4 et PredictZ 0-4."
+        }
+      ],
+      "odds1x2": {
+        "home": 29.0,
+        "draw": 15.5,
+        "away": 1.1
+      },
+      "markets": {
+        "1X": 9.0,
+        "X2": 1.02,
+        "over35": 1.34,
+        "under35": 3.7,
+        "bttsYes": 1.67,
+        "bttsNo": 2.38,
+        "over15": 1.03
+      },
+      "form": "C1 : Sabah 31e (3 pts, 1V-3D), Barcelone 5e (9 pts, 3V-1D, 14 buts marqués). 5 derniers matchs — Sabah : D Viking 4-1 Sabah FA (4/11), D Sabah FA 1-2 Borussia Dortmund (20/10), V Sabah FA 2-0 Slavia Praha (13/10), D Manchester United 4-0 Sabah FA (10/9), V Sabah FA 5-2 Hapoel Beer Sheva (25/8). Barcelone : V Barcelona 3-2 Villarreal (22/11), V Atlético Madrid 1-2 Barcelona (8/11), V Barcelona 3-0 Aston Villa (3/11), V Barcelona 6-1 Alavés (31/10), D Barcelona 1-2 Real Madrid (25/10). Cette saison (compétition) : Sabah à domicile 1V-0N-1D (3-2) ; Barcelone à l’extérieur 1V-0N-1D (6-5).",
+      "absences": "Sabah FA : A. McCarthy (suspendu (rouge), absent), A. Khaybulaev (coup, incertain), V. Simic (blessé, incertain) ; Barcelona : R. Bardghji (genou, absent), A. Christensen (musculaire, absent), X. Espart (cheville, absent), Lamine Yamal (cheville, absent), Rodri (mollet, absent)",
+      "h2h": "Première confrontation officielle (soccerstat : aucune).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 4 % / 8 % / 88 %. Plus de 1,5 buts : 92,5 % ; plus de 2,5 buts : 86 % ; BTTS : 58 % ; score le plus probable (soccerstat) : 0-3 (8,2 %). Sabah : McCarthy suspendu (rouge contre Viking) selon Forebet ; Barcelone sans Rodri, Christensen et Lamine Yamal (Forebet, SI.com). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 1,98 / moins 1,87 (proba. du plus : 49,2 %) · Cartons : ligne 3,5 — plus 2,30 / moins 1,83 (proba. du plus : 45,6 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,98 / moins 1,87 (proba. du plus : 49,2 %) · Cartons : ligne 3,5 — plus 2,30 / moins 1,83 (proba. du plus : 45,6 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 04:20 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/sabah-barcelona-2547611",
+          "pred1x2": "2",
+          "correctScore": "0-3",
+          "probs": {
+            "home": 26,
+            "draw": 18,
+            "away": 56
+          },
+          "over25": {
+            "pred": "Over",
+            "under": 28,
+            "over": 72
+          },
+          "btts": {
+            "pred": "No",
+            "no": 60,
+            "yes": 40
+          },
+          "doubleChance": "X2",
+          "doubleChanceProb": 82
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 4,
+            "draw": 8,
+            "away": 88
+          },
+          "correctScore": "1-4",
+          "tip": "2",
+          "pred1x2": "2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "2",
+          "correctScore": "0-4"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+          "probs": {
+            "home": 8.7,
+            "draw": 10.1,
+            "away": 81.2
+          },
+          "pred1x2": "2",
+          "note": "Article Opta J5 : Barcelone 81,2 % ; détail Sabah 8,7 % / nul 10,1 % repris par SI.com (Opta Win Predictor)."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "2",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 4,
+        "summary": "4/4 sources indiquent 2 · double chance citée : X2 (1/4) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "slavia-villarreal",
+      "kickoffParis": "18:45",
+      "kickoffIso": "2026-11-25T17:45:00+00:00",
+      "country": "Tchéquie",
+      "countryCode": "CZ",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Slavia Prague",
+      "away": "Villarreal",
+      "venue": "Sinobo Stadium, Prague",
+      "referee": "Rade Obrenović",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.17,
+        "confidence": "Élevée",
+        "explanation": "Modèles divisés sur le vainqueur mais tous prévoient au moins 2 buts (Forebet 1-2, Vitibet 1-1, PredictZ 1-1) ; 82 % selon le marché ; Slavia a encaissé 2+ buts lors de ses 7 derniers matchs de C1 (Forebet)."
+      },
+      "otherPicks": [
+        {
+          "market": "X2",
+          "label": "Double chance X2",
+          "odds": 1.42,
+          "confidence": "Moyenne",
+          "explanation": "Aucun modèle ne donne Slavia : Opta Villarreal 43 %, Forebet 44 % (X2 73 %), Vitibet X2, PredictZ nul ; 69 % selon le marché."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent",
+          "odds": 1.45,
+          "confidence": "Moyenne",
+          "explanation": "65 % selon le marché ; Forebet 52 % ; Villarreal sans clean sheet en 15 matchs de C1 (Forebet)."
+        }
+      ],
+      "odds1x2": {
+        "home": 3.1,
+        "draw": 4.09,
+        "away": 2.23
+      },
+      "markets": {
+        "1X": 1.75,
+        "X2": 1.42,
+        "over15": 1.17,
+        "under15": 6.0,
+        "over25": 1.53,
+        "under25": 2.7,
+        "over35": 2.27,
+        "under35": 1.75,
+        "bttsYes": 1.45,
+        "bttsNo": 2.8
+      },
+      "form": "C1 : Slavia 34e (1 pt), Villarreal 1V-3D (8 buts marqués, 14 encaissés). 5 derniers matchs — Slavia Prague : V Sigma Olomouc 0-2 Slavia Praha (21/11), V Slavia Praha 4-1 Artis (8/11), D Slavia Praha 1-2 Arsenal (4/11), V FK Jablonec 0-5 Slavia Praha (31/10), N Slavia Praha 1-1 Mladá Boleslav (24/10). Villarreal : D Barcelona 3-2 Villarreal (22/11), V Villarreal 2-0 Getafe (8/11), D Villarreal 0-6 Paris Saint Germain (3/11), D Villarreal 0-1 Espanyol (30/10), V Valencia 1-2 Villarreal (24/10). Cette saison (compétition) : Slavia Prague à domicile 0V-0N-2D (3-5) ; Villarreal à l’extérieur 0V-0N-2D (5-7).",
+      "absences": "Slavia Praha : S. Chaloupek (musculaire, absent), T. Chory (indisponible, absent), H. Kante (blessé, absent), O. Kolar (hors groupe, absent), D. Moses (ischio-jambiers, absent), I. Ogbu (tendon d’Achille, absent), A. Ouanda (blessé, absent), E. Pitak (cheville, absent), L. Provod (indisponible, absent), D. Sturm (musculaire, absent), T. Diakite (indisponible, incertain) ; Villarreal : I. Akhomach (musculaire, absent), A. Diatta (musculaire, absent), J. Foyth (musculaire, absent), N. Saliba (cheville, absent), G. Moreno (musculaire, incertain)",
+      "h2h": "Bilan (soccerstat) : 0 victoire(s) Slavia Prague, 1 nul(s), 1 victoire(s) Villarreal. Derniers : Slavia Praha 0-2 Villarreal (2/11/17) ; Villarreal 2-2 Slavia Praha (19/10/17).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 31 % / 25 % / 44 %. Plus de 1,5 buts : 82,0 % ; plus de 2,5 buts : 64 % ; BTTS : 65 % ; score le plus probable (soccerstat) : 1-1 (10,0 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 1,78 / moins 2,04 (proba. du plus : 53,3 %) · Cartons : ligne 4,5 — plus 2,22 / moins 1,70 (proba. du plus : 44,1 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,78 / moins 2,04 (proba. du plus : 53,3 %) · Cartons : ligne 4,5 — plus 2,22 / moins 1,70 (proba. du plus : 44,1 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 04:20 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/slavia-praha-villarreal-2547612",
+          "pred1x2": "2",
+          "correctScore": "1-2",
+          "probs": {
+            "home": 29,
+            "draw": 27,
+            "away": 44
+          },
+          "over25": {
+            "pred": "Over",
+            "under": 42,
+            "over": 58
+          },
+          "btts": {
+            "pred": "Yes",
+            "no": 48,
+            "yes": 52
+          },
+          "doubleChance": "X2",
+          "doubleChanceProb": 73
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 31,
+            "draw": 29,
+            "away": 40
+          },
+          "correctScore": "1-1",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "X",
+          "correctScore": "1-1"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+          "probs": {
+            "away": 43
+          },
+          "pred1x2": "2",
+          "note": "Seule la victoire de Villarreal (43 %, favori du modèle) est publiée."
+        }
+      ],
+      "consensus": {
+        "score": 50,
+        "label": "Moyen",
+        "majority1x2": "2",
+        "agreement": 0.5,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 4,
+        "summary": "2/4 sources indiquent 2 · double chance citée : X2 (2/4) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "atletico-viking",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-25T20:00:00+00:00",
+      "country": "Espagne",
+      "countryCode": "ES",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Atlético Madrid",
+      "away": "Viking",
+      "venue": "Riyadh Air Metropolitano, Madrid",
+      "referee": "Erik Lambrechts",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "1",
+        "label": "Atlético Madrid gagnant",
+        "odds": 1.13,
+        "confidence": "Très élevée",
+        "explanation": "5 sources sur 5 donnent l’Atlético (Opta 81,3 %, Vitibet 77 % · 3-1, Forebet 50 % · 3-1, PredictZ 3-0, WinDrawWin 3-0) ; 85,5 % selon le marché ; Viking privé de 4 joueurs + 4 incertains."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.08,
+          "confidence": "Très élevée",
+          "explanation": "89 % selon le marché ; tous les scores prévus ont 3 buts ou plus."
+        },
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.28,
+          "confidence": "Moyenne +",
+          "explanation": "75 % selon le marché ; Vitibet 70 % (top « plus de 2,5 »)."
+        }
+      ],
+      "odds1x2": {
+        "home": 1.13,
+        "draw": 11.7,
+        "away": 25.0
+      },
+      "markets": {
+        "1X": 1.03,
+        "X2": 7.1,
+        "over25": 1.28,
+        "under25": 4.0,
+        "over35": 1.72,
+        "under35": 2.3,
+        "bttsYes": 1.98,
+        "bttsNo": 1.91,
+        "over15": 1.08
+      },
+      "form": "C1 : Atlético 26e (4 pts, 1V-1N-2D), Viking 25e (4 pts). 5 derniers matchs — Atlético Madrid : V Getafe 0-3 Atlético Madrid (22/11), D Atlético Madrid 1-2 Barcelona (8/11), D Atlético Madrid 0-2 Bayern München (3/11), V Levante 0-2 Atlético Madrid (31/10), V Atlético Madrid 1-0 Deportivo La Coruña (24/10). Viking : D Tromsø 3-2 Viking (21/11), V Viking 5-1 KFUM Oslo (8/11), V Viking 4-1 Sabah FA (4/11), D Bodø/Glimt 3-2 Viking (30/10), V Viking 3-1 Tromsø (25/10). Cette saison (compétition) : Atlético Madrid à domicile 1V-0N-1D (2-2) ; Viking à l’extérieur 0V-0N-2D (2-6).",
+      "absences": "Atlético Madrid : A. Lookman (genou, absent), C. Romero (musculaire, absent) ; Viking : S. Bjorshol (genou, absent), K. Frimpong (hors groupe, absent), K. Haugen (malade, absent), M. Roseth (genou, absent), A. Baertelsen (pied, incertain), V. Berisha (cuisse, incertain), P. Christiansen (malade, incertain), N. D'Agostino (genou, incertain)",
+      "h2h": "Aucune confrontation récente recensée (soccerstat).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 86 % / 10 % / 5 %. Plus de 1,5 buts : 88,8 % ; plus de 2,5 buts : 75 % ; BTTS : 49 % ; score le plus probable (soccerstat) : 3-0 (11,0 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 10,5 — plus 2,10 / moins 1,76 (proba. du plus : 46,1 %) · Cartons : ligne 2,5 — plus 1,72 / moins 2,15 (proba. du plus : 55,6 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 2,10 / moins 1,76 (proba. du plus : 46,1 %) · Cartons : ligne 2,5 — plus 1,72 / moins 2,15 (proba. du plus : 55,6 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/predictions-europe",
+          "pred1x2": "1",
+          "correctScore": "3-1",
+          "probs": {
+            "home": 50,
+            "draw": 23,
+            "away": 27
+          }
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 77,
+            "draw": 15,
+            "away": 8
+          },
+          "correctScore": "3-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "1",
+          "correctScore": "3-0"
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "ok",
+          "url": "https://www.windrawwin.com/us/picks/future/20261125/",
+          "pred1x2": "1",
+          "correctScore": "3-0"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+          "probs": {
+            "home": 81.3
+          },
+          "pred1x2": "1",
+          "note": "Seule la victoire de l’Atlético (81,3 %) est publiée."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 5,
+        "summary": "5/5 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "brugge-liverpool",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-25T20:00:00+00:00",
+      "country": "Belgique",
+      "countryCode": "BE",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Club Bruges",
+      "away": "Liverpool",
+      "venue": "Jan Breydel Stadium, Bruges",
+      "referee": "Alejandro Hernández",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.1,
+        "confidence": "Très élevée",
+        "explanation": "Les 4 modèles prévoient 1-2 (Forebet, Vitibet, PredictZ) ou une victoire de Liverpool (Opta 54,6 %) ; 87 % selon le marché ; plus de 2,5 buts lors des 17 derniers matchs de C1 de Bruges (Forebet)."
+      },
+      "otherPicks": [
+        {
+          "market": "X2",
+          "label": "Double chance X2",
+          "odds": 1.24,
+          "confidence": "Élevée",
+          "explanation": "4 modèles sur 4 donnent Liverpool ; 79 % selon le marché ; mais Liverpool a 8 absents (dont Ekitike, Gakpo, Gravenberch)."
+        },
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.32,
+          "confidence": "Moyenne +",
+          "explanation": "72,5 % selon le marché ; 3 modèles prévoient 1-2."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent",
+          "odds": 1.36,
+          "confidence": "Moyenne +",
+          "explanation": "70 % selon le marché ; tous les scores prévus ont des buts des deux côtés."
+        }
+      ],
+      "odds1x2": {
+        "home": 4.72,
+        "draw": 4.85,
+        "away": 1.7
+      },
+      "markets": {
+        "1X": 2.3,
+        "X2": 1.24,
+        "over25": 1.32,
+        "under25": 3.7,
+        "over35": 1.84,
+        "under35": 2.12,
+        "bttsYes": 1.36,
+        "bttsNo": 3.25,
+        "over15": 1.1
+      },
+      "form": "C1 : Bruges 11e (9 pts, 3 victoires de suite), Liverpool 10e (9 pts, battu 3-2 par Fenerbahçe à la J4). 5 derniers matchs — Club Bruges : V KV Mechelen 1-5 Club Brugge KV (21/11), N Club Brugge KV 1-1 Anderlecht (8/11), V PSV Eindhoven 1-2 Club Brugge KV (4/11), V Zulte Waregem 2-4 Club Brugge KV (30/10), V Club Brugge KV 3-2 St. Truiden (25/10). Liverpool : V Liverpool 4-0 Manchester United (22/11), V Crystal Palace 1-3 Liverpool (8/11), D Fenerbahçe 3-2 Liverpool (4/11), D Liverpool 0-1 Arsenal (1/11), V Liverpool 2-0 Brighton (25/10). Cette saison (compétition) : Club Bruges à domicile 1V-0N-1D (5-3) ; Liverpool à l’extérieur 1V-0N-1D (8-6).",
+      "absences": "Club Brugge KV : J. Ordonez (pied, absent) ; Liverpool : C. Bradley (genou, absent), F. Chiesa (hors groupe, absent), H. Ekitike (tendon d’Achille, absent), W. Endo (hors groupe, absent), C. Gakpo (mollet, absent), R. Gravenberch (indisponible, absent), G. Leoni (genou, absent), A. Nallo (indisponible, absent)",
+      "h2h": "3 confrontations historiques, toutes en finales européennes (Opta Analyst) ; aucune récente.",
+      "stats": "Probabilités marché sans marge (soccerstat) : 21 % / 21 % / 58 %. Plus de 1,5 buts : 87,4 % ; plus de 2,5 buts : 73 % ; BTTS : 70 % ; score le plus probable (soccerstat) : 1-2 (9,1 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 1,80 / moins 2,04 (proba. du plus : 53,1 %) · Cartons : ligne 3,5 — plus 1,85 / moins 2,02 (proba. du plus : 51,9 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,80 / moins 2,04 (proba. du plus : 53,1 %) · Cartons : ligne 3,5 — plus 1,85 / moins 2,02 (proba. du plus : 51,9 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-predictions/double-chance-predictions/2026-10-16/by-league",
+          "pred1x2": "2",
+          "correctScore": "1-2",
+          "doubleChance": "12",
+          "doubleChanceProb": 74,
+          "note": "Liste « double chance » : 1-2, 74 % pour 12 ; tendance Forebet : plus de 2,5 buts lors des 17 derniers matchs de C1 de Bruges."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 19,
+            "draw": 24,
+            "away": 57
+          },
+          "correctScore": "1-2",
+          "tip": "2",
+          "pred1x2": "2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "2",
+          "correctScore": "1-2"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+          "probs": {
+            "away": 54.6
+          },
+          "pred1x2": "2",
+          "note": "Seule la victoire de Liverpool (54,6 %) est publiée."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "2",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 4,
+        "summary": "4/4 sources indiquent 2 · double chance citée : 12 (1/4) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "inter-stuttgart",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-25T20:00:00+00:00",
+      "country": "Italie",
+      "countryCode": "IT",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Inter",
+      "away": "VfB Stuttgart",
+      "venue": "San Siro/Giuseppe Meazza, Milan",
+      "referee": "François Letexier",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "1X",
+        "label": "Double chance 1X",
+        "odds": 1.15,
+        "confidence": "Très élevée",
+        "explanation": "4 modèles sur 4 donnent l’Inter (Opta 63,9 %, Vitibet 53 %, Forebet 43 %, PredictZ 2-0) ; 85 % selon le marché."
+      },
+      "otherPicks": [
+        {
+          "market": "1",
+          "label": "Inter gagnant",
+          "odds": 1.45,
+          "confidence": "Moyenne +",
+          "explanation": "67 % selon le marché ; l’Inter a gagné ses 2 derniers matchs de C1."
+        },
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.08,
+          "confidence": "Élevée",
+          "explanation": "89 % selon le marché ; scores prévus 3-1, 2-1, 2-0."
+        }
+      ],
+      "odds1x2": {
+        "home": 1.45,
+        "draw": 5.8,
+        "away": 6.75
+      },
+      "markets": {
+        "1X": 1.15,
+        "X2": 3.02,
+        "over25": 1.27,
+        "under25": 4.2,
+        "over35": 1.68,
+        "under35": 2.38,
+        "bttsYes": 1.4,
+        "bttsNo": 3.0,
+        "over15": 1.08
+      },
+      "form": "C1 : l’Inter a perdu ses 2 premiers matchs puis gagné les 2 suivants (Opta). 5 derniers matchs — Inter : N Atalanta 4-4 Inter (22/11), V Inter 2-0 Como (8/11), V Feyenoord 0-3 Inter (3/11), D AC Milan 3-1 Inter (31/10), V Venezia 0-2 Inter (28/10). VfB Stuttgart : N FC Schalke 04 0-0 VfB Stuttgart (21/11), V VfB Stuttgart 1-0 Werder Bremen (7/11), D Galatasaray 2-0 VfB Stuttgart (3/11), V Bayer Leverkusen 2-4 VfB Stuttgart (31/10), D VfB Stuttgart 2-3 Borussia Mönchengladbach (23/10). Cette saison (compétition) : Inter à domicile 1V-0N-1D (4-4) ; VfB Stuttgart à l’extérieur 1V-0N-1D (3-2).",
+      "absences": "Inter : A. Bonny (musculaire, absent), H. Calhanoglu (musculaire, absent), P. Zielinski (pied, absent) ; VfB Stuttgart : S. Drljaca (hors groupe, absent), L. Stergiou (hors groupe, absent), L. Sauer (musculaire, incertain)",
+      "h2h": "Aucune confrontation récente recensée (soccerstat).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 67 % / 17 % / 15 %. Plus de 1,5 buts : 89,2 % ; plus de 2,5 buts : 76 % ; BTTS : 68 % ; score le plus probable (soccerstat) : 2-1 (8,7 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 1,91 / moins 1,94 (proba. du plus : 50,3 %) · Cartons : ligne 3,5 — plus 2,09 / moins 1,83 (proba. du plus : 47,9 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,91 / moins 1,94 (proba. du plus : 50,3 %) · Cartons : ligne 3,5 — plus 2,09 / moins 1,83 (proba. du plus : 47,9 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/predictions-europe",
+          "pred1x2": "1",
+          "correctScore": "3-1",
+          "probs": {
+            "home": 43,
+            "draw": 28,
+            "away": 29
+          }
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 53,
+            "draw": 26,
+            "away": 21
+          },
+          "correctScore": "2-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "1",
+          "correctScore": "2-0"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+          "probs": {
+            "home": 63.9,
+            "away": 17.9
+          },
+          "pred1x2": "1",
+          "note": "Nul non publié (≈ 18 % par différence)."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 4,
+        "summary": "4/4 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "lille-bayern",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-25T20:00:00+00:00",
+      "country": "France",
+      "countryCode": "FR",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Lille",
+      "away": "Bayern Munich",
+      "venue": "Stade Pierre-Mauroy, Lille",
+      "referee": "Marco Guida",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "X2",
+        "label": "Double chance X2",
+        "odds": 1.19,
+        "confidence": "Élevée",
+        "explanation": "4 modèles sur 4 donnent le Bayern (Vitibet 71 % · 1-3, Opta 56,8 %, Forebet 47 % · 1-3, PredictZ 1-2) ; 82 % selon le marché ; Lille a perdu ses 4 derniers matchs européens à domicile (Opta)."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.25,
+          "confidence": "Moyenne +",
+          "explanation": "76 % selon le marché ; scores prévus 1-3, 1-3, 1-2."
+        },
+        {
+          "market": "2",
+          "label": "Bayern Munich gagnant",
+          "odds": 1.66,
+          "confidence": "Moyenne",
+          "explanation": "59 % selon le marché ; Bayern invaincu en C1 mais 2 nuls (Viking 3-3, Arsenal 2-2)."
+        }
+      ],
+      "odds1x2": {
+        "home": 5.63,
+        "draw": 4.4,
+        "away": 1.66
+      },
+      "markets": {
+        "1X": 2.35,
+        "X2": 1.19,
+        "over15": 1.25,
+        "under15": 4.33,
+        "over25": 1.81,
+        "under25": 2.15,
+        "over35": 2.92,
+        "under35": 1.45,
+        "bttsYes": 1.85,
+        "bttsNo": 2.1
+      },
+      "form": "C1 : Bayern 13e, invaincu (2V-2N) selon Opta. 5 derniers matchs — Lille : D Lille 0-1 Lyon (21/11), V Rennes 1-2 Lille (8/11), N Bodø/Glimt 0-0 Lille (3/11), V Lille 1-0 Lens (30/10), N Monaco 1-1 Lille (25/10). Bayern Munich : N Bayern München 1-1 1. FC Köln (20/11), V FSV Mainz 05 1-2 Bayern München (7/11), V Atlético Madrid 0-2 Bayern München (3/11), N Bayern München 2-2 Borussia Dortmund (31/10), V SC Freiburg 1-3 Bayern München (25/10). Cette saison (compétition) : Lille à domicile 0V-0N-2D (4-7) ; Bayern Munich à l’extérieur 1V-1N-0D (5-3).",
+      "absences": "Lille : H. Igamane (genou, absent), T. Nianzou (indisponible, absent), T. Santos (genou, absent) ; Bayern München : A. Davies (ischio-jambiers, absent), S. Gnabry (musculaire, absent), H. Kane (cheville, absent), M. Neuer (pied, absent), M. Olise (indisponible, absent), I. Saibari (cheville, absent), B. Sapoko Ndiaye (indisponible, absent)",
+      "h2h": "Bilan (soccerstat) : 0 victoire(s) Lille, 0 nul(s), 2 victoire(s) Bayern Munich. Derniers : Bayern Munich 6-1 Lille (7/11/12) ; Lille 0-1 Bayern Munich (23/10/12).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 18 % / 23 % / 59 %. Plus de 1,5 buts : 76,3 % ; plus de 2,5 buts : 54 % ; BTTS : 53 % ; score le plus probable (soccerstat) : 0-1 (11,0 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 2,03 / moins 1,91 (proba. du plus : 48,3 %) · Cartons : ligne 3,5 — plus 1,99 / moins 1,91 (proba. du plus : 49,8 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 2,03 / moins 1,91 (proba. du plus : 48,3 %) · Cartons : ligne 3,5 — plus 1,99 / moins 1,91 (proba. du plus : 49,8 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/predictions-europe",
+          "pred1x2": "2",
+          "correctScore": "1-3",
+          "probs": {
+            "home": 15,
+            "draw": 38,
+            "away": 47
+          }
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 11,
+            "draw": 18,
+            "away": 71
+          },
+          "correctScore": "1-3",
+          "tip": "2",
+          "pred1x2": "2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "2",
+          "correctScore": "1-2"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+          "probs": {
+            "away": 56.8
+          },
+          "pred1x2": "2",
+          "note": "Seule la victoire du Bayern (56,8 %) est publiée."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "2",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 4,
+        "summary": "4/4 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "psg-roma",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-25T20:00:00+00:00",
+      "country": "France",
+      "countryCode": "FR",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Paris SG",
+      "away": "AS Roma",
+      "venue": "Parc des Princes, Paris",
+      "referee": "Glenn Nyberg",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": "Buteurs / passeurs (cotes) : non disponible.",
+      "prediction": {
+        "market": "1X",
+        "label": "Double chance 1X",
+        "odds": 1.17,
+        "confidence": "Très élevée",
+        "explanation": "4 modèles sur 4 donnent Paris (Vitibet 80 % · 3-1, Opta 65,2 %, Forebet 43 % · 3-1 et 1X 79 %, PredictZ 2-1) ; 84 % selon le marché ; PSG 4/4 en C1 (20 buts)."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.1,
+          "confidence": "Très élevée",
+          "explanation": "87 % selon le marché ; tous les scores prévus ont 3 ou 4 buts."
+        },
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.33,
+          "confidence": "Moyenne +",
+          "explanation": "72 % selon le marché ; Forebet 70 %."
+        },
+        {
+          "market": "1",
+          "label": "Paris SG gagnant",
+          "odds": 1.52,
+          "confidence": "Moyenne +",
+          "explanation": "66 % selon le marché ; Paris sans Doué ni Kvaratskhelia."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent",
+          "odds": 1.44,
+          "confidence": "Moyenne",
+          "explanation": "65 % selon le marché ; Roma a marqué 10 buts en 4 matchs de C1."
+        }
+      ],
+      "odds1x2": {
+        "home": 1.52,
+        "draw": 5.4,
+        "away": 6.62
+      },
+      "markets": {
+        "1X": 1.17,
+        "X2": 2.82,
+        "over25": 1.33,
+        "under25": 3.5,
+        "over35": 1.87,
+        "under35": 2.1,
+        "bttsYes": 1.44,
+        "bttsNo": 2.8,
+        "over15": 1.1
+      },
+      "form": "C1 : Paris 2e (12 pts, 4V, 20-5), Roma 23e (4 pts). 5 derniers matchs — Paris SG : V Nice 2-3 Paris Saint Germain (21/11), V Paris Saint Germain 1-0 Estac Troyes (7/11), V Villarreal 0-6 Paris Saint Germain (3/11), V Le Havre 1-5 Paris Saint Germain (30/10), V Paris Saint Germain 2-0 Lyon (26/10). AS Roma : V Parma 1-5 AS Roma (21/11), V AS Roma 3-0 Sassuolo (7/11), D Manchester United 3-2 AS Roma (3/11), V Udinese 2-5 AS Roma (31/10), V AS Roma 4-2 Cagliari (27/10). Cette saison (compétition) : Paris SG à domicile 2V-0N-0D (10-3) ; AS Roma à l’extérieur 0V-1N-1D (3-4).",
+      "absences": "Paris Saint Germain : D. Doue (genou, absent), K. Kvaratskhelia (genou, absent), A. Longoni (cuisse, absent) ; AS Roma : L. Pellegrini (cuisse, absent), D. Rensch (musculaire, absent), D. S. Vasquez Llach (hors groupe, absent)",
+      "h2h": "Bilan (soccerstat) : 0 victoire(s) Paris SG, 1 nul(s), 0 victoire(s) AS Roma. Derniers : AS Roma 1-1 Paris Saint Germain (20/7/17).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 66 % / 19 % / 16 %. Plus de 1,5 buts : 87,2 % ; plus de 2,5 buts : 72 % ; BTTS : 65 % ; score le plus probable (soccerstat) : 2-1 (9,3 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 2,20 / moins 1,72 (proba. du plus : 44,5 %) · Cartons : ligne 2,5 — plus 1,68 / moins 2,37 (proba. du plus : 58,7 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 2,20 / moins 1,72 (proba. du plus : 44,5 %) · Cartons : ligne 2,5 — plus 1,68 / moins 2,37 (proba. du plus : 58,7 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 04:20 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/pl/football/matches/psg-roma-2547615",
+          "pred1x2": "1",
+          "correctScore": "3-1",
+          "probs": {
+            "home": 43,
+            "draw": 36,
+            "away": 21
+          },
+          "over25": {
+            "pred": "Over",
+            "under": 30,
+            "over": 70
+          },
+          "btts": {
+            "pred": "Yes",
+            "no": 48,
+            "yes": 52
+          },
+          "doubleChance": "1X",
+          "doubleChanceProb": 79
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 80,
+            "draw": 13,
+            "away": 7
+          },
+          "correctScore": "3-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "1",
+          "correctScore": "2-1"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+          "probs": {
+            "home": 65.2,
+            "away": 16.6
+          },
+          "pred1x2": "1",
+          "note": "Nul non publié (≈ 18 % par différence)."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 4,
+        "summary": "4/4 sources indiquent 1 · double chance citée : 1X (1/4) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "shakhtar-fenerbahce",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-25T20:00:00+00:00",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahçe",
+      "venue": "Stamford Bridge, London",
+      "referee": "Michael Oliver",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.26,
+        "confidence": "Moyenne",
+        "explanation": "Modèles très divisés (Forebet Shakhtar 2-0, Vitibet 1X 2-1, PredictZ 1-1, Opta 37,4 % / 36,7 %) : on évite le 1N2 ; 76 % selon le marché ; les 3 scores prévus ont 2 ou 3 buts."
+      },
+      "otherPicks": [
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.44,
+          "confidence": "Moyenne",
+          "explanation": "67 % selon le marché ; Forebet donne moins de 2,5 buts (53 %)."
+        }
+      ],
+      "odds1x2": {
+        "home": 3.1,
+        "draw": 3.65,
+        "away": 2.6
+      },
+      "markets": {
+        "1X": 1.65,
+        "X2": 1.44,
+        "over15": 1.26,
+        "under15": 4.33,
+        "over25": 1.84,
+        "under25": 2.16,
+        "over35": 2.95,
+        "under35": 1.44,
+        "bttsYes": 1.62,
+        "bttsNo": 2.3
+      },
+      "form": "C1 : Fenerbahçe 22e (5 pts), Shakhtar 24e (4 pts) ; Fenerbahçe vient de battre Liverpool 3-2. 5 derniers matchs — Shakhtar Donetsk : D Shakhtar Donetsk 0-1 Sporting CP (3/11), D Inter 1-0 Shakhtar Donetsk (21/10), V Shakhtar Donetsk 3-1 AEK Athens FC (14/10), N PSV Eindhoven 1-1 Shakhtar Donetsk (10/9), V Fenerbahçe 3-2 Liverpool (4/11). Fenerbahçe : N Fenerbahçe 2-2 Slavia Praha (20/10), D Aston Villa 6-0 Fenerbahçe (14/10), N Fenerbahçe 1-1 AS Roma (10/9), V Lyon 1-2 Fenerbahçe (26/8).",
+      "absences": "Shakhtar Donetsk : Eguinaldo (épaule, absent), Kaua Elias (pied, absent), V. Korniyenko (hors groupe, absent), Marlon (musculaire, absent), G. Mendoza (cheville, absent), Pedrinho (musculaire, absent), T. Puzankov (hors groupe, absent), M. Shved (hors groupe, absent), D. Tvardovskyi (hors groupe, absent) ; Fenerbahçe : N. Ake (musculaire, absent), M. Asensio (genou, absent), A. Diouf (hors groupe, absent), A. Fall (hors groupe, absent), J. Oosterwolde (tendon d’Achille, absent), M. Yandas (hors groupe, absent)",
+      "h2h": "Bilan (soccerstat) : 1 victoire(s) Shakhtar Donetsk, 1 nul(s), 1 victoire(s) Fenerbahçe. Derniers : Fenerbahçe 1-0 Shakhtar Donetsk (19/4/22) ; Shakhtar Donetsk 3-0 Fenerbahçe (5/8/15) ; Fenerbahçe 0-0 Shakhtar Donetsk (28/7/15).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 33 % / 27 % / 40 %. Plus de 1,5 buts : 76,2 % ; plus de 2,5 buts : 54 % ; BTTS : 58 % ; score le plus probable (soccerstat) : 1-1 (11,7 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 2,07 / moins 1,91 (proba. du plus : 47,8 %) · Cartons : ligne 4,5 — plus 2,18 / moins 1,68 (proba. du plus : 44,0 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 2,07 / moins 1,91 (proba. du plus : 47,8 %) · Cartons : ligne 4,5 — plus 2,18 / moins 1,68 (proba. du plus : 44,0 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 04:20 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/fr/football/matches/shakhtar-donetsk-fenerbah%C3%A7e-2547619",
+          "pred1x2": "1",
+          "correctScore": "2-0",
+          "probs": {
+            "home": 47,
+            "draw": 26,
+            "away": 27
+          },
+          "over25": {
+            "pred": "Under",
+            "under": 53,
+            "over": 47
+          },
+          "doubleChance": "12",
+          "doubleChanceProb": 74
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 44,
+            "draw": 28,
+            "away": 28
+          },
+          "correctScore": "2-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "X",
+          "correctScore": "1-1"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+          "probs": {
+            "home": 37.4,
+            "away": 36.7
+          },
+          "pred1x2": "1",
+          "note": "Quasi égalité (nul ≈ 26 % par différence)."
+        }
+      ],
+      "consensus": {
+        "score": 28,
+        "label": "Divergent",
+        "majority1x2": "1",
+        "agreement": 0.5,
+        "alignedWithOdds": false,
+        "oddsFavorite": "2",
+        "sourcesUsed": 4,
+        "summary": "2/4 sources indiquent 1 · double chance citée : 12 (1/4) · divergence avec le favori des cotes (2)."
+      }
+    },
+    {
+      "id": "sporting-manutd",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-25T20:00:00+00:00",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "league": "Ligue des champions UEFA",
+      "round": "Phase de ligue · J5",
+      "home": "Sporting CP",
+      "away": "Manchester United",
+      "venue": "Estádio José Alvalade, Lisbon",
+      "referee": "Szymon Marciniak",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.18,
+        "confidence": "Élevée",
+        "explanation": "Match serré pour tous les modèles (Opta 39,5 / 24,8 / 35,7 ; Forebet nul 2-2 ; Vitibet X2 1-1 ; PredictZ 1-1) ; 81 % selon le marché ; United a encaissé 2+ buts lors de ses 3 derniers matchs de C1 (Opta)."
+      },
+      "otherPicks": [
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent",
+          "odds": 1.47,
+          "confidence": "Moyenne",
+          "explanation": "65 % selon le marché ; Forebet 64 %."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.65,
+        "draw": 3.84,
+        "away": 2.7
+      },
+      "markets": {
+        "1X": 1.54,
+        "X2": 1.55,
+        "over15": 1.18,
+        "under15": 5.5,
+        "over25": 1.57,
+        "under25": 2.63,
+        "over35": 2.37,
+        "under35": 1.71,
+        "bttsYes": 1.47,
+        "bttsNo": 2.75
+      },
+      "form": "C1 : Sporting 10e (3V-1D), United 17e (2V-2D) ; premiers matchs de C1 de Fonseca et Pochettino. 5 derniers matchs — Sporting CP : V Sporting CP 1-0 Moreirense (7/11), V Shakhtar Donetsk 0-1 Sporting CP (3/11), V Casa Pia 0-2 Sporting CP (30/10), D Sporting CP 1-2 Académico Viseu (25/10), D Sporting CP 2-3 Lask Linz (21/10). Manchester United : D Liverpool 4-0 Manchester United (22/11), N Manchester United 4-4 Aston Villa (8/11), V Manchester United 3-2 AS Roma (3/11), D Chelsea 2-0 Manchester United (31/10), D Manchester United 0-3 Bournemouth (25/10). Cette saison (compétition) : Sporting CP à domicile 1V-0N-1D (5-4) ; Manchester United à l’extérieur 0V-0N-2D (1-6).",
+      "absences": "Sporting CP : S. Alexandropoulos (hors groupe, absent), Z. Debast (indisponible, absent), N. Santos (genou, absent) ; Manchester United : C. Baleba (cuisse, absent), M. Cunha (suspendu (rouge), absent), M. Rashford (hanche, absent), B. Sesko (indisponible, absent), M. Ugarte (genou, absent)",
+      "h2h": "Aucune confrontation récente recensée (soccerstat).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 38 % / 26 % / 37 %. Plus de 1,5 buts : 81,1 % ; plus de 2,5 buts : 62 % ; BTTS : 65 % ; score le plus probable (soccerstat) : 1-1 (10,4 %). Man United : Matheus Cunha suspendu (Forebet). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 2,00 / moins 1,91 (proba. du plus : 49,0 %) · Cartons : ligne 4,5 — plus 2,37 / moins 1,75 (proba. du plus : 42,7 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 2,00 / moins 1,91 (proba. du plus : 49,0 %) · Cartons : ligne 4,5 — plus 2,37 / moins 1,75 (proba. du plus : 42,7 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 04:20 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/sporting-cp-manchester-united-2547613",
+          "pred1x2": "X",
+          "correctScore": "2-2",
+          "probs": {
+            "home": 31,
+            "draw": 37,
+            "away": 32
+          },
+          "over25": {
+            "pred": "Over",
+            "under": 48,
+            "over": 52
+          },
+          "btts": {
+            "pred": "Yes",
+            "no": 36,
+            "yes": 64
+          },
+          "doubleChance": "X2",
+          "doubleChanceProb": 69
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 30,
+            "draw": 29,
+            "away": 41
+          },
+          "correctScore": "1-1",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/europe/champions-league/",
+          "pred1x2": "X",
+          "correctScore": "1-1"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/sporting-cp-vs-man-utd-prediction-champions-league-preview-11-2026",
+          "probs": {
+            "home": 39.5,
+            "draw": 24.8,
+            "away": 35.7
+          },
+          "pred1x2": "1",
+          "note": "Fiche Opta Analyst du match (l’article J5 du 23/11 donnait 38,4 % / 36,4 %)."
+        }
+      ],
+      "consensus": {
+        "score": 39,
+        "label": "Divergent",
+        "majority1x2": "X",
+        "agreement": 0.5,
+        "alignedWithOdds": false,
+        "oddsFavorite": "1",
+        "sourcesUsed": 4,
+        "summary": "2/4 sources indiquent X · double chance citée : X2 (2/4) · divergence avec le favori des cotes (1)."
+      }
+    },
+    {
+      "id": "bolton-westbrom",
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-25T19:45:00+00:00",
+      "country": "Angleterre",
+      "countryCode": "EN",
+      "league": "Championship",
+      "round": "J17",
+      "home": "Bolton",
+      "away": "West Brom",
+      "venue": "Toughsheet Community Stadium, Horwich",
+      "referee": "Elliot Bell",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "X2",
+        "label": "Double chance X2",
+        "odds": 1.31,
+        "confidence": "Moyenne +",
+        "explanation": "3 modèles sur 3 donnent West Brom (Vitibet 49 % · 1-2, Forebet 43 % · 1-2, PredictZ 0-2) ; 74 % selon le marché ; WBA invaincu en 7 matchs de championnat (Forebet)."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.25,
+          "confidence": "Moyenne",
+          "explanation": "76,5 % selon le marché ; Bolton a encaissé 30 buts en 16 matchs."
+        },
+        {
+          "market": "2",
+          "label": "West Brom gagnant",
+          "odds": 2.05,
+          "confidence": "Moyenne-faible",
+          "explanation": "47 % selon le marché."
+        }
+      ],
+      "odds1x2": {
+        "home": 3.75,
+        "draw": 3.75,
+        "away": 2.05
+      },
+      "markets": {
+        "1X": 1.87,
+        "X2": 1.31,
+        "over15": 1.25,
+        "under15": 4.33,
+        "over25": 1.78,
+        "under25": 2.14,
+        "over35": 2.9,
+        "under35": 1.45,
+        "bttsYes": 1.62,
+        "bttsNo": 2.3
+      },
+      "form": "Classement : Bolton 19e (18 pts, 5V-3N-8D), West Brom 5e (29 pts, 8V-5N-3D). 5 derniers matchs — Bolton : N Bolton 1-1 Portsmouth (21/11), D Derby 3-1 Bolton (6/11), V Charlton 0-1 Bolton (3/11), D Bolton 2-3 Bristol City (31/10), D Bolton 1-5 Middlesbrough (23/10). West Brom : N Swansea 2-2 West Brom (21/11), V West Brom 3-0 Millwall (7/11), N West Brom 1-1 Southampton (3/11), V West Ham 1-3 West Brom (31/10), N Preston 1-1 West Brom (24/10). Cette saison (compétition) : Bolton à domicile 2V-1N-5D (10-16) ; West Brom à l’extérieur 4V-2N-2D (12-10).",
+      "absences": "Bolton : E. Erhahon (cuisse, absent), R. Hardie (ischio-jambiers, absent), J. McAtee (genou, absent), J. Nelson (ischio-jambiers, absent), E. Toal (musculaire, incertain) ; West Brom : T. Collyer (ischio-jambiers, absent), N. Galves (genou, absent), M. Johnston (jambe cassée, absent)",
+      "h2h": "Bilan (soccerstat) : 4 victoire(s) Bolton, 2 nul(s), 2 victoire(s) West Brom. Derniers : West Brom 1-2 Bolton (13/7/24) ; Bolton 4-3 West Brom (29/7/23) ; Bolton 0-2 West Brom (21/1/19) ; West Brom 1-2 Bolton (4/8/18) ; Bolton 2-2 West Brom (6/5/12).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 26 % / 26 % / 47 %. Plus de 1,5 buts : 76,5 % ; plus de 2,5 buts : 55 % ; BTTS : 58 % ; score le plus probable (soccerstat) : 1-1 (11,5 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 10,5 — plus 2,02 / moins 2,02 (proba. du plus : 51,1 %) · Cartons : ligne 3,5 — plus 1,90 / moins 1,88 (proba. du plus : 49,7 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 2,02 / moins 2,02 (proba. du plus : 51,1 %) · Cartons : ligne 3,5 — plus 1,90 / moins 1,88 (proba. du plus : 49,7 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-match-previews/32556-west-bromwich-albion-seek-to-extend-unbeaten-run-in-trip-to-bolton-wanderers",
+          "pred1x2": "2",
+          "correctScore": "1-2",
+          "probs": {
+            "home": 16,
+            "draw": 41,
+            "away": 43
+          }
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 24,
+            "draw": 27,
+            "away": 49
+          },
+          "correctScore": "1-2",
+          "tip": "2",
+          "pred1x2": "2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "2",
+          "correctScore": "0-2"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction Opta publique trouvée pour ce championnat aujourd’hui."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "2",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 3,
+        "summary": "3/3 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "burnley-birmingham",
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-25T19:45:00+00:00",
+      "country": "Angleterre",
+      "countryCode": "EN",
+      "league": "Championship",
+      "round": "J17",
+      "home": "Burnley",
+      "away": "Birmingham",
+      "venue": "Turf Moor, Burnley",
+      "referee": "Matthew Corlett",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "X2",
+        "label": "Double chance X2",
+        "odds": 1.47,
+        "confidence": "Moyenne",
+        "explanation": "Vitibet X2 (1-2) et PredictZ (0-1) donnent Birmingham ; Burnley n’a gagné qu’1 de ses 20 derniers matchs (Forebet) et compte 13 absents ; 65 % selon le marché."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.25,
+          "confidence": "Moyenne",
+          "explanation": "76 % selon le marché."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.81,
+        "draw": 3.65,
+        "away": 2.55
+      },
+      "markets": {
+        "1X": 1.57,
+        "X2": 1.47,
+        "over15": 1.25,
+        "under15": 4.33,
+        "over25": 1.8,
+        "under25": 2.15,
+        "over35": 3.0,
+        "under35": 1.47,
+        "bttsYes": 1.6,
+        "bttsNo": 2.4
+      },
+      "form": "Classement : Burnley 23e (11 pts, 1V-8N-7D), Birmingham 4e (29 pts, 8V-5N-3D). 5 derniers matchs — Burnley : N Burnley 2-2 Blackburn (22/11), D Cardiff 5-4 Burnley (7/11), N QPR 1-1 Burnley (3/11), N Burnley 0-0 Portsmouth (31/10), D Lincoln 4-1 Burnley (24/10). Birmingham : D Stoke City 1-0 Birmingham (21/11), V Birmingham 2-1 Swansea (7/11), V Birmingham 3-0 Millwall (3/11), V Lincoln 1-3 Birmingham (31/10), D Cardiff 1-0 Birmingham (24/10). Cette saison (compétition) : Burnley à domicile 0V-6N-2D (10-12) ; Birmingham à l’extérieur 4V-1N-3D (9-7).",
+      "absences": "Burnley : B. Amos (hors groupe, absent), A. Barnes (musculaire, absent), J. Beyer (indisponible, absent), A. Broja (musculaire, absent), J. Bruun Larsen (indisponible, absent), B. Humphreys (musculaire, absent), J. Laurent (indisponible, absent), H. Mejbri (ischio-jambiers, absent), M. Obafemi (hors groupe, absent), C. Roberts (suspendu, absent), S. Sambo (indisponible, absent), D. Satpaev (musculaire, absent), M. Tresor Ndayishimiye (indisponible, absent) ; Birmingham : C. Klarer (indisponible, absent), M. Leonard (tendon d’Achille, absent), K. Lund (hors groupe, absent)",
+      "h2h": "Bilan (soccerstat) : 3 victoire(s) Burnley, 4 nul(s), 3 victoire(s) Birmingham. Derniers : Burnley 3-0 Birmingham (27/12/22) ; Birmingham 1-1 Burnley (19/10/22) ; Birmingham 1-2 Burnley (16/4/16) ; Burnley 2-2 Birmingham (15/8/15) ; Birmingham 3-3 Burnley (12/3/14).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 35 % / 27 % / 38 %. Plus de 1,5 buts : 76,2 % ; plus de 2,5 buts : 54 % ; BTTS : 59 % ; score le plus probable (soccerstat) : 1-1 (11,7 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 2,02 / moins 1,93 (proba. du plus : 48,7 %) · Cartons : ligne 4,5 — plus 2,27 / moins 1,62 (proba. du plus : 42,1 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 2,02 / moins 1,93 (proba. du plus : 48,7 %) · Cartons : ligne 4,5 — plus 2,27 / moins 1,62 (proba. du plus : 42,1 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "reason": "Fiche/preview Forebet en 403 au moment de la lecture (non contourné) ; aucun chiffre retenu."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 29,
+            "draw": 29,
+            "away": 42
+          },
+          "correctScore": "1-2",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "2",
+          "correctScore": "0-1"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction Opta publique trouvée pour ce championnat aujourd’hui."
+        }
+      ],
+      "consensus": {
+        "score": 50,
+        "label": "Moyen",
+        "majority1x2": "2",
+        "agreement": 0.5,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 2,
+        "summary": "1/2 sources indiquent 2 · double chance citée : X2 (1/2) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "watford-blackburn",
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-25T19:45:00+00:00",
+      "country": "Angleterre",
+      "countryCode": "EN",
+      "league": "Championship",
+      "round": "J17",
+      "home": "Watford",
+      "away": "Blackburn",
+      "venue": "Vicarage Road, Watford",
+      "referee": "Steve Martin",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.35,
+        "confidence": "Moyenne",
+        "explanation": "Modèles divisés (Forebet Watford 2-0, Vitibet 1-1, PredictZ Blackburn 0-1) mais tous prévoient 2 buts au plus ; 71 % selon le marché ; Watford : 3 clean sheets de suite à domicile (Forebet)."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X",
+          "odds": 1.5,
+          "confidence": "Moyenne-faible",
+          "explanation": "65 % selon le marché ; Blackburn sans victoire en 7 de ses 8 derniers déplacements (Forebet)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.6,
+        "draw": 3.5,
+        "away": 2.8
+      },
+      "markets": {
+        "1X": 1.5,
+        "X2": 1.53,
+        "over15": 1.31,
+        "under15": 3.7,
+        "over25": 1.96,
+        "under25": 1.94,
+        "over35": 3.4,
+        "under35": 1.35,
+        "bttsYes": 1.73,
+        "bttsNo": 2.15
+      },
+      "form": "Classement : Watford 20e (15 pts, 4V-3N-9D), Blackburn 13e (22 pts, 6V-4N-6D). 5 derniers matchs — Watford : D Sheffield United 4-0 Watford (21/11), N Watford 0-0 Middlesbrough (7/11), V Watford 1-0 Lincoln (3/11), D Norwich 3-2 Watford (31/10), D Wolves 1-0 Watford (24/10). Blackburn : N Burnley 2-2 Blackburn (22/11), V Blackburn 2-1 West Ham (7/11), D Blackburn 1-2 Stoke City (3/11), D Swansea 4-0 Blackburn (31/10), V Blackburn 2-0 Wrexham (24/10). Cette saison (compétition) : Watford à domicile 4V-2N-2D (9-9) ; Blackburn à l’extérieur 1V-4N-3D (10-15).",
+      "absences": "Watford : M. Antonio (blessé, absent), K. Baah (coup, absent), N. Chikovani (hors groupe, absent), J. Ngakia (cuisse, absent) ; Blackburn : R. Alebiosu (blessé, absent), A. Forshaw (hanche, absent), L. Miller (tendon d’Achille, absent), B. Toth (indisponible, absent), M. Jorgensen (musculaire, incertain)",
+      "h2h": "Bilan (soccerstat) : 6 victoire(s) Watford, 4 nul(s), 6 victoire(s) Blackburn. Derniers : Blackburn 1-1 Watford (24/1/26) ; Watford 0-1 Blackburn (13/9/25) ; Blackburn 2-1 Watford (26/4/25) ; Watford 1-0 Blackburn (26/10/24) ; Blackburn 1-2 Watford (23/12/23).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 37 % / 28 % / 35 %. Plus de 1,5 buts : 72,9 % ; plus de 2,5 buts : 50 % ; BTTS : 55 % ; score le plus probable (soccerstat) : 1-1 (12,4 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 10,5 — plus 2,02 / moins 1,84 (proba. du plus : 47,6 %) · Cartons : ligne 4,5 — plus 1,83 / moins 2,02 (proba. du plus : 51,7 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 2,02 / moins 1,84 (proba. du plus : 47,6 %) · Cartons : ligne 4,5 — plus 1,83 / moins 2,02 (proba. du plus : 51,7 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-match-previews/32554-watford-seeking-spark-after-dionisi-exit-as-blackburn-rovers-visit-vicarage-road",
+          "pred1x2": "1",
+          "correctScore": "2-0",
+          "probs": {
+            "home": 35,
+            "draw": 33,
+            "away": 33
+          }
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 37,
+            "draw": 29,
+            "away": 34
+          },
+          "correctScore": "1-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "2",
+          "correctScore": "0-1"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction Opta publique trouvée pour ce championnat aujourd’hui."
+        }
+      ],
+      "consensus": {
+        "score": 33,
+        "label": "Divergent",
+        "majority1x2": null,
+        "agreement": 0.333,
+        "alignedWithOdds": false,
+        "oddsFavorite": "1",
+        "sourcesUsed": 3,
+        "summary": "pas de majorité 1N2 (sources partagées) · double chance citée : 1X (1/3) · divergence avec le favori des cotes (1)."
+      }
+    },
+    {
+      "id": "stoke-millwall",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-25T20:00:00+00:00",
+      "country": "Angleterre",
+      "countryCode": "EN",
+      "league": "Championship",
+      "round": "J17",
+      "home": "Stoke City",
+      "away": "Millwall",
+      "venue": "bet365 Stadium, Stoke-On-Trent",
+      "referee": "James Bell",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.33,
+        "confidence": "Moyenne +",
+        "explanation": "Forebet 1-0 (moins de 2,5 : 60 %), Vitibet 1-1, PredictZ 2-0 : aucun modèle au-delà de 2 buts ; 72 % selon le marché ; moins de 2,5 buts lors des 3 derniers matchs de Stoke à domicile (Forebet)."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X",
+          "odds": 1.38,
+          "confidence": "Moyenne",
+          "explanation": "Forebet 58 % et PredictZ 2-0 pour Stoke, mais Vitibet penche X2 ; 70 % selon le marché ; H2H très favorable à Millwall."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.33,
+        "draw": 3.4,
+        "away": 3.27
+      },
+      "markets": {
+        "1X": 1.38,
+        "X2": 1.65,
+        "over15": 1.33,
+        "under15": 3.5,
+        "over25": 2.06,
+        "under25": 1.85,
+        "over35": 3.58,
+        "under35": 1.33,
+        "bttsYes": 1.75,
+        "bttsNo": 2.15
+      },
+      "form": "Classement : Stoke City 3e (32 pts, 10V-2N-4D), Millwall 18e (18 pts, 5V-3N-8D). 5 derniers matchs — Stoke City : V Stoke City 1-0 Birmingham (21/11), V Portsmouth 1-2 Stoke City (7/11), V Blackburn 1-2 Stoke City (3/11), V Stoke City 2-0 Preston (31/10), N Stoke City 0-0 Bristol City (24/10). Millwall : D Millwall 0-1 QPR (21/11), D West Brom 3-0 Millwall (7/11), D Birmingham 3-0 Millwall (3/11), V Millwall 4-1 Derby (31/10), D Portsmouth 2-1 Millwall (24/10). Cette saison (compétition) : Stoke City à domicile 5V-1N-2D (13-6) ; Millwall à l’extérieur 2V-1N-5D (8-18).",
+      "absences": "Stoke City : A. Ampah (genou, absent), L. Bombino (suspendu (rouge), absent), L. Cisse (musculaire, absent), A. Cresswell (genou, absent) ; Millwall : T. Crama (cheville, absent), R. Leonard (musculaire, absent), F. Marschall (cheville, absent), M. Servais (ischio-jambiers, absent), Z. Sturge (suspendu (rouge), absent), M. Luongo (genou, incertain)",
+      "h2h": "Bilan (soccerstat) : 2 victoire(s) Stoke City, 5 nul(s), 9 victoire(s) Millwall. Derniers : Stoke City 1-3 Millwall (21/4/26) ; Millwall 2-0 Stoke City (21/10/25) ; Millwall 1-0 Stoke City (15/3/25) ; Stoke City 1-1 Millwall (9/11/24) ; Stoke City 0-0 Millwall (23/12/23).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 42 % / 28 % / 30 %. Plus de 1,5 buts : 71,7 % ; plus de 2,5 buts : 48 % ; BTTS : 54 % ; score le plus probable (soccerstat) : 1-1 (12,6 %). Buteurs (Forebet) : McGlynn 31 % (cote 3,10), Wilmot 18 % (9,00), Galbraith 18 % (6,50). Passeurs : non disponible. Corners : ligne 10,5 — plus 1,96 / moins 2,00 (proba. du plus : 49,6 %) · Cartons : ligne 4,5 — plus 2,00 / moins 1,85 (proba. du plus : 47,4 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 1,96 / moins 2,00 (proba. du plus : 49,6 %) · Cartons : ligne 4,5 — plus 2,00 / moins 1,85 (proba. du plus : 47,4 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football/matches/stoke-city-millwall-2507216",
+          "pred1x2": "1",
+          "correctScore": "1-0",
+          "probs": {
+            "home": 58,
+            "draw": 19,
+            "away": 23
+          },
+          "over25": {
+            "pred": "Under",
+            "under": 60,
+            "over": 40
+          },
+          "btts": {
+            "pred": "No",
+            "no": 54,
+            "yes": 46
+          }
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 34,
+            "draw": 29,
+            "away": 37
+          },
+          "correctScore": "1-1",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "1",
+          "correctScore": "2-0"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction Opta publique trouvée pour ce championnat aujourd’hui."
+        }
+      ],
+      "consensus": {
+        "score": 67,
+        "label": "Moyen +",
+        "majority1x2": "1",
+        "agreement": 0.667,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 3,
+        "summary": "2/3 sources indiquent 1 · double chance citée : X2 (1/3) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "cremonese-avellino",
+      "kickoffParis": "19:00",
+      "kickoffIso": "2026-11-25T18:00:00+00:00",
+      "country": "Italie",
+      "countryCode": "IT",
+      "league": "Serie B",
+      "round": "J14",
+      "home": "Cremonese",
+      "away": "Avellino",
+      "venue": "Stadio Giovanni Zini, Cremona",
+      "referee": "Guiseppe Collu",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.28,
+        "confidence": "Moyenne +",
+        "explanation": "Vitibet 1-0 et PredictZ 1-1 : 2 buts au plus ; 74 % selon le marché."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X",
+          "odds": 1.29,
+          "confidence": "Moyenne +",
+          "explanation": "Vitibet Cremonese 48 %, PredictZ nul ; 75 % selon le marché."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.13,
+        "draw": 3.25,
+        "away": 4.1
+      },
+      "markets": {
+        "1X": 1.29,
+        "X2": 1.81,
+        "over15": 1.38,
+        "under15": 3.25,
+        "over25": 2.18,
+        "under25": 1.76,
+        "over35": 3.85,
+        "under35": 1.28,
+        "bttsYes": 1.91,
+        "bttsNo": 2.0
+      },
+      "form": "Classement : Cremonese 13e (15 pts, 4V-3N-5D), Avellino 5e (19 pts, 5V-4N-3D). 5 derniers matchs — Cremonese : D Südtirol 1-0 Cremonese (21/11), V Vicenza Virtus 1-4 Cremonese (8/11), V Cremonese 2-0 Benevento (31/10), V Mantova 0-2 Cremonese (27/10), D Cremonese 0-1 Juve Stabia (24/10). Avellino : V Avellino 4-1 Mantova (22/11), N Benevento 1-1 Avellino (7/11), V Avellino 2-0 Pisa (1/11), N Virtus Entella 1-1 Avellino (27/10), D Avellino 0-1 Padova (24/10). Cette saison (compétition) : Cremonese à domicile 2V-1N-2D (5-5) ; Avellino à l’extérieur 1V-3N-1D (5-6).",
+      "absences": "Cremonese : aucun absent signalé (soccerstat) ; Avellino : aucun absent signalé (soccerstat)",
+      "h2h": "Bilan (soccerstat) : 1 victoire(s) Cremonese, 1 nul(s), 0 victoire(s) Avellino. Derniers : Avellino 0-0 Cremonese (27/1/18) ; Cremonese 3-1 Avellino (3/9/17).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 46 % / 30 % / 25 %. Plus de 1,5 buts : 70,0 % ; plus de 2,5 buts : 45 % ; BTTS : 51 % ; score le plus probable (soccerstat) : 1-1 (12,5 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 2,12 / moins 1,71 (proba. du plus : 44,8 %) · Cartons : ligne 4,5 — plus 2,07 / moins 1,83 (proba. du plus : 48,4 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 2,12 / moins 1,71 (proba. du plus : 44,8 %) · Cartons : ligne 4,5 — plus 2,07 / moins 1,83 (proba. du plus : 48,4 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "reason": "Pronostic non identifiable de façon sûre sur les pages publiques lues (noms masqués ou page en 403) ; aucun chiffre retenu."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 48,
+            "draw": 28,
+            "away": 24
+          },
+          "correctScore": "1-0",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "X",
+          "correctScore": "1-1"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction Opta publique trouvée pour ce championnat aujourd’hui."
+        }
+      ],
+      "consensus": {
+        "score": 50,
+        "label": "Moyen",
+        "majority1x2": null,
+        "agreement": 0.5,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "pas de majorité 1N2 (sources partagées) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "mantova-arezzo",
+      "kickoffParis": "20:00",
+      "kickoffIso": "2026-11-25T19:00:00+00:00",
+      "country": "Italie",
+      "countryCode": "IT",
+      "league": "Serie B",
+      "round": "J14",
+      "home": "Mantova",
+      "away": "Arezzo",
+      "venue": "Stadio Danilo Martelli, Mantova",
+      "referee": "Davide Di Marco",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "1X",
+        "label": "Double chance 1X",
+        "odds": 1.21,
+        "confidence": "Moyenne +",
+        "explanation": "Vitibet Mantova 56 % (2-1) ; 80,5 % selon le marché ; Arezzo 18e, sans victoire sur ses 5 derniers matchs (2N-3D)."
+      },
+      "otherPicks": [
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.4,
+          "confidence": "Moyenne",
+          "explanation": "68 % selon le marché."
+        }
+      ],
+      "odds1x2": {
+        "home": 1.72,
+        "draw": 4.05,
+        "away": 5.0
+      },
+      "markets": {
+        "1X": 1.21,
+        "X2": 2.2,
+        "over15": 1.28,
+        "under15": 4.1,
+        "over25": 1.85,
+        "under25": 2.07,
+        "over35": 3.1,
+        "under35": 1.4,
+        "bttsYes": 1.8,
+        "bttsNo": 2.0
+      },
+      "form": "Classement : Mantova 8e (19 pts, 5V-4N-3D), Arezzo 18e (12 pts, 3V-3N-6D). 5 derniers matchs — Mantova : D Avellino 4-1 Mantova (22/11), N Mantova 0-0 Hellas Verona (7/11), N Modena 1-1 Mantova (31/10), D Mantova 0-2 Cremonese (27/10), V Virtus Entella 0-1 Mantova (24/10). Arezzo : N Arezzo 1-1 Padova (22/11), D Juve Stabia 1-0 Arezzo (7/11), N Arezzo 0-0 Ascoli (1/11), D Carrarese 2-1 Arezzo (28/10), D Arezzo 0-3 Benevento (24/10). Cette saison (compétition) : Mantova à domicile 2V-2N-2D (7-7) ; Arezzo à l’extérieur 3V-0N-3D (6-10).",
+      "absences": "Mantova : aucun absent signalé (soccerstat) ; Arezzo : aucun absent signalé (soccerstat)",
+      "h2h": "Bilan (soccerstat) : 1 victoire(s) Mantova, 1 nul(s), 1 victoire(s) Arezzo. Derniers : Mantova 1-2 Arezzo (27/7/25) ; Arezzo 1-1 Mantova (3/3/21) ; Mantova 2-0 Arezzo (25/11/20).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 56 % / 24 % / 19 %. Plus de 1,5 buts : 75,7 % ; plus de 2,5 buts : 53 % ; BTTS : 53 % ; score le plus probable (soccerstat) : 1-1 (10,9 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 2,25 / moins 1,76 (proba. du plus : 45,0 %) · Cartons : ligne 4,5 — plus 1,83 / moins 1,90 (proba. du plus : 50,3 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 2,25 / moins 1,76 (proba. du plus : 45,0 %) · Cartons : ligne 4,5 — plus 1,83 / moins 1,90 (proba. du plus : 50,3 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "reason": "Pronostic non identifiable de façon sûre sur les pages publiques lues (noms masqués ou page en 403) ; aucun chiffre retenu."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 56,
+            "draw": 25,
+            "away": 19
+          },
+          "correctScore": "2-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "url": "https://www.predictz.com/predictions/today/",
+          "reason": "Affiche listée sans pronostic lisible de façon sûre."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction Opta publique trouvée pour ce championnat aujourd’hui."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 1,
+        "summary": "1/1 source indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "padova-sampdoria",
+      "kickoffParis": "20:00",
+      "kickoffIso": "2026-11-25T19:00:00+00:00",
+      "country": "Italie",
+      "countryCode": "IT",
+      "league": "Serie B",
+      "round": "J14",
+      "home": "Padova",
+      "away": "Sampdoria",
+      "venue": "Stadio Comunale Euganeo, Padua",
+      "referee": "Claudio Giuseppe Allegretta",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.28,
+        "confidence": "Moyenne",
+        "explanation": "Vitibet 1-1 (X2) ; 74 % selon le marché ; Padova sur 3 nuls de suite."
+      },
+      "otherPicks": [
+        {
+          "market": "X2",
+          "label": "Double chance X2",
+          "odds": 1.42,
+          "confidence": "Moyenne-faible",
+          "explanation": "Vitibet X2 ; 69 % selon le marché ; Sampdoria 3 victoires sur ses 5 derniers matchs."
+        }
+      ],
+      "odds1x2": {
+        "home": 3.25,
+        "draw": 3.2,
+        "away": 2.55
+      },
+      "markets": {
+        "1X": 1.57,
+        "X2": 1.42,
+        "over15": 1.39,
+        "under15": 3.26,
+        "over25": 2.17,
+        "under25": 1.76,
+        "over35": 4.1,
+        "under35": 1.28,
+        "bttsYes": 1.8,
+        "bttsNo": 2.0
+      },
+      "form": "Classement : Padova 12e (16 pts, 4V-4N-4D), Sampdoria 14e (14 pts, 4V-2N-6D). 5 derniers matchs — Padova : N Arezzo 1-1 Padova (22/11), N Padova 2-2 Empoli (7/11), N Catanzaro 1-1 Padova (31/10), V Padova 2-0 Südtirol (27/10), V Avellino 0-1 Padova (24/10). Sampdoria : V Sampdoria 3-1 Benevento (21/11), V Carrarese 0-1 Sampdoria (8/11), V Sampdoria 2-0 Virtus Entella (31/10), D Ascoli 2-0 Sampdoria (27/10), N Südtirol 1-1 Sampdoria (24/10). Cette saison (compétition) : Padova à domicile 2V-2N-2D (7-7) ; Sampdoria à l’extérieur 1V-2N-4D (5-13).",
+      "absences": "Padova : aucun absent signalé (soccerstat) ; Sampdoria : aucun absent signalé (soccerstat)",
+      "h2h": "Bilan (soccerstat) : 0 victoire(s) Padova, 1 nul(s), 1 victoire(s) Sampdoria. Derniers : Sampdoria 1-0 Padova (14/2/26) ; Padova 1-1 Sampdoria (20/12/25).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 31 % / 30 % / 39 %. Plus de 1,5 buts : 70,0 % ; plus de 2,5 buts : 45 % ; BTTS : 52 % ; score le plus probable (soccerstat) : 1-1 (12,9 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 1,87 / moins 1,95 (proba. du plus : 50,3 %) · Cartons : ligne 4,5 — plus 1,83 / moins 1,93 (proba. du plus : 50,5 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,87 / moins 1,95 (proba. du plus : 50,3 %) · Cartons : ligne 4,5 — plus 1,83 / moins 1,93 (proba. du plus : 50,5 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": false,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "reason": "Pronostic non identifiable de façon sûre sur les pages publiques lues (noms masqués ou page en 403) ; aucun chiffre retenu."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 31,
+            "draw": 30,
+            "away": 39
+          },
+          "correctScore": "1-1",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "url": "https://www.predictz.com/predictions/today/",
+          "reason": "Affiche listée sans pronostic lisible de façon sûre."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction Opta publique trouvée pour ce championnat aujourd’hui."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "X2",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 1,
+        "summary": "1/1 source indiquent X2 · double chance citée : X2 (1/1) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "pisa-modena",
+      "kickoffParis": "20:00",
+      "kickoffIso": "2026-11-25T19:00:00+00:00",
+      "country": "Italie",
+      "countryCode": "IT",
+      "league": "Serie B",
+      "round": "J14",
+      "home": "Pisa",
+      "away": "Modena",
+      "venue": "Arena Garibaldi, Pizza",
+      "referee": "Gianluca Manganiello",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.4,
+        "confidence": "Moyenne-faible",
+        "explanation": "Vitibet 1-1 (1X) ; 67,5 % selon le marché ; Modena 2e et 4V-1N-1D à l’extérieur : on évite le 1N2."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.28,
+          "confidence": "Moyenne-faible",
+          "explanation": "76 % selon le marché, mais modèle unique."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.49,
+        "draw": 3.4,
+        "away": 3.12
+      },
+      "markets": {
+        "1X": 1.42,
+        "X2": 1.6,
+        "over15": 1.28,
+        "under15": 4.02,
+        "over25": 1.87,
+        "under25": 2.06,
+        "over35": 3.1,
+        "under35": 1.4,
+        "bttsYes": 1.62,
+        "bttsNo": 2.38
+      },
+      "form": "Classement : Pisa 7e (19 pts, 5V-4N-3D), Modena 2e (26 pts, 8V-2N-2D). 5 derniers matchs — Pisa : V Empoli 0-1 Pisa (21/11), N Pisa 2-2 Südtirol (7/11), D Avellino 2-0 Pisa (1/11), N Pisa 3-3 Palermo (28/10), N Hellas Verona 1-1 Pisa (25/10). Modena : V Modena 2-0 Juve Stabia (21/11), V Virtus Entella 0-2 Modena (8/11), N Modena 1-1 Mantova (31/10), V Vicenza Virtus 1-2 Modena (27/10), V Modena 3-0 Cesena (24/10). Cette saison (compétition) : Pisa à domicile 2V-2N-2D (11-12) ; Modena à l’extérieur 4V-1N-1D (11-5).",
+      "absences": "Pisa : aucun absent signalé (soccerstat) ; Modena : aucun absent signalé (soccerstat)",
+      "h2h": "Bilan (soccerstat) : 1 victoire(s) Pisa, 1 nul(s), 4 victoire(s) Modena. Derniers : Pisa 1-2 Modena (5/4/25) ; Modena 1-0 Pisa (21/12/24) ; Pisa 2-2 Modena (28/2/24) ; Modena 2-0 Pisa (2/9/23) ; Modena 1-0 Pisa (11/3/23).",
+      "stats": "Probabilités marché sans marge (soccerstat) : 40 % / 29 % / 31 %. Plus de 1,5 buts : 75,9 % ; plus de 2,5 buts : 53 % ; BTTS : 58 % ; score le plus probable (soccerstat) : 1-1 (12,1 %). Buteurs / passeurs (cotes) : non disponible. Corners : ligne 9,5 — plus 1,96 / moins 1,87 (proba. du plus : 48,8 %) · Cartons : ligne 4,5 — plus 2,02 / moins 1,83 (proba. du plus : 48,8 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,96 / moins 1,87 (proba. du plus : 48,8 %) · Cartons : ligne 4,5 — plus 2,02 / moins 1,83 (proba. du plus : 48,8 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 25/11/26, 06:00 heure du site). Absents, H2H, forme : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": false,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "reason": "Pronostic non identifiable de façon sûre sur les pages publiques lues (noms masqués ou page en 403) ; aucun chiffre retenu."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 38,
+            "draw": 30,
+            "away": 32
+          },
+          "correctScore": "1-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "url": "https://www.predictz.com/predictions/today/",
+          "reason": "Affiche listée sans pronostic lisible de façon sûre."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Pas de prédiction Opta publique trouvée pour ce championnat aujourd’hui."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1X",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 1,
+        "summary": "1/1 source indiquent 1X · double chance citée : 1X (1/1) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    }
+  ],
+  "tickets": [
+    {
+      "id": "t1",
+      "title": "Ultra-safe 1 — Les 6 favoris de C1",
+      "subtitle": "6 sélections · victoires sèches",
+      "totalOdds": 7.73,
+      "confidence": "Moyenne-faible",
+      "note": "Cote totale estimée ≈ 7,73 (produit des meilleures cotes soccerstat du matin). Chaque favori est donné vainqueur par tous les modèles disponibles (Opta, Vitibet, Forebet, PredictZ — PredictZ propose d’ailleurs ce même combiné), mais la probabilité combinée selon le marché n’est que d’environ 11 %. Aucun pari n’est garanti.",
+      "legs": [
+        {
+          "matchId": "sabah-barcelona",
+          "time": "18h45",
+          "label": "Sabah – Barcelone",
+          "pick": "Barcelone gagnant",
+          "market": "2",
+          "odds": 1.1,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "atletico-viking",
+          "time": "21h00",
+          "label": "Atlético Madrid – Viking",
+          "pick": "Atlético Madrid gagnant",
+          "market": "1",
+          "odds": 1.13,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "inter-stuttgart",
+          "time": "21h00",
+          "label": "Inter – Stuttgart",
+          "pick": "Inter gagnant",
+          "market": "1",
+          "odds": 1.45,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "psg-roma",
+          "time": "21h00",
+          "label": "Paris SG – AS Roma",
+          "pick": "Paris SG gagnant",
+          "market": "1",
+          "odds": 1.52,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "lille-bayern",
+          "time": "21h00",
+          "label": "Lille – Bayern Munich",
+          "pick": "Bayern Munich gagnant",
+          "market": "2",
+          "odds": 1.66,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "brugge-liverpool",
+          "time": "21h00",
+          "label": "Club Bruges – Liverpool",
+          "pick": "Liverpool gagnant",
+          "market": "2",
+          "odds": 1.7,
+          "source": "soccerstat.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "title": "Ultra-safe 2 — Les buts",
+      "subtitle": "9 sélections · plus de 1,5 / 2,5 buts",
+      "totalOdds": 6.96,
+      "confidence": "Moyenne-faible",
+      "note": "Cote totale estimée ≈ 6,96 (meilleures cotes soccerstat du matin). Probabilité combinée selon le marché ≈ 10 %. Aucun pari n’est garanti.",
+      "legs": [
+        {
+          "matchId": "sabah-barcelona",
+          "time": "18h45",
+          "label": "Sabah – Barcelone",
+          "pick": "Plus de 2,5 buts",
+          "market": "O2.5",
+          "odds": 1.13,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "slavia-villarreal",
+          "time": "18h45",
+          "label": "Slavia Prague – Villarreal",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.17,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "bolton-westbrom",
+          "time": "20h45",
+          "label": "Bolton – West Brom",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.25,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "atletico-viking",
+          "time": "21h00",
+          "label": "Atlético Madrid – Viking",
+          "pick": "Plus de 2,5 buts",
+          "market": "O2.5",
+          "odds": 1.28,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "brugge-liverpool",
+          "time": "21h00",
+          "label": "Club Bruges – Liverpool",
+          "pick": "Plus de 2,5 buts",
+          "market": "O2.5",
+          "odds": 1.32,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "inter-stuttgart",
+          "time": "21h00",
+          "label": "Inter – Stuttgart",
+          "pick": "Plus de 2,5 buts",
+          "market": "O2.5",
+          "odds": 1.27,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "psg-roma",
+          "time": "21h00",
+          "label": "Paris SG – AS Roma",
+          "pick": "Plus de 2,5 buts",
+          "market": "O2.5",
+          "odds": 1.33,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "lille-bayern",
+          "time": "21h00",
+          "label": "Lille – Bayern Munich",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.25,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "sporting-manutd",
+          "time": "21h00",
+          "label": "Sporting CP – Manchester United",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.18,
+          "source": "soccerstat.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "title": "Ultra-safe 3 — Mixte (doubles chances, moins de 3,5 buts)",
+      "subtitle": "8 sélections",
+      "totalOdds": 7.2,
+      "confidence": "Moyenne-faible",
+      "note": "Cote totale estimée ≈ 7,20 (meilleures cotes soccerstat du matin). Probabilité combinée selon le marché ≈ 11 %. Aucun pari n’est garanti.",
+      "legs": [
+        {
+          "matchId": "slavia-villarreal",
+          "time": "18h45",
+          "label": "Slavia Prague – Villarreal",
+          "pick": "Double chance X2",
+          "market": "X2",
+          "odds": 1.42,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "cremonese-avellino",
+          "time": "19h00",
+          "label": "Cremonese – Avellino",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.28,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "mantova-arezzo",
+          "time": "20h00",
+          "label": "Mantova – Arezzo",
+          "pick": "Double chance 1X",
+          "market": "1X",
+          "odds": 1.21,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "bolton-westbrom",
+          "time": "20h45",
+          "label": "Bolton – West Brom",
+          "pick": "Double chance X2",
+          "market": "X2",
+          "odds": 1.31,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "watford-blackburn",
+          "time": "20h45",
+          "label": "Watford – Blackburn",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.35,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "stoke-millwall",
+          "time": "21h00",
+          "label": "Stoke City – Millwall",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.33,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "psg-roma",
+          "time": "21h00",
+          "label": "Paris SG – AS Roma",
+          "pick": "Double chance 1X",
+          "market": "1X",
+          "odds": 1.17,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "lille-bayern",
+          "time": "21h00",
+          "label": "Lille – Bayern Munich",
+          "pick": "Double chance X2",
+          "market": "X2",
+          "odds": 1.19,
+          "source": "soccerstat.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "title": "Grosse cote — 9 sélections (RISQUÉ)",
+      "subtitle": "9 sélections · cote ≥ 20",
+      "totalOdds": 20.1,
+      "confidence": "Faible",
+      "note": "⚠️ Ticket risqué : cote totale estimée ≈ 20,10. Ce sont les sélections les plus probables possibles pour dépasser 20, mais la chance combinée n’est que d’environ 4 % selon le marché (ordre de grandeur ~5 %). Petite mise uniquement. Aucun pari n’est garanti.",
+      "legs": [
+        {
+          "matchId": "sabah-barcelona",
+          "time": "18h45",
+          "label": "Sabah – Barcelone",
+          "pick": "Barcelone gagnant",
+          "market": "2",
+          "odds": 1.1,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "bolton-westbrom",
+          "time": "20h45",
+          "label": "Bolton – West Brom",
+          "pick": "Double chance X2",
+          "market": "X2",
+          "odds": 1.31,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "burnley-birmingham",
+          "time": "20h45",
+          "label": "Burnley – Birmingham",
+          "pick": "Double chance X2",
+          "market": "X2",
+          "odds": 1.47,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "watford-blackburn",
+          "time": "20h45",
+          "label": "Watford – Blackburn",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.35,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "atletico-viking",
+          "time": "21h00",
+          "label": "Atlético Madrid – Viking",
+          "pick": "Atlético Madrid gagnant",
+          "market": "1",
+          "odds": 1.13,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "inter-stuttgart",
+          "time": "21h00",
+          "label": "Inter – Stuttgart",
+          "pick": "Inter gagnant",
+          "market": "1",
+          "odds": 1.45,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "psg-roma",
+          "time": "21h00",
+          "label": "Paris SG – AS Roma",
+          "pick": "Paris SG gagnant",
+          "market": "1",
+          "odds": 1.52,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "lille-bayern",
+          "time": "21h00",
+          "label": "Lille – Bayern Munich",
+          "pick": "Bayern Munich gagnant",
+          "market": "2",
+          "odds": 1.66,
+          "source": "soccerstat.co.uk"
+        },
+        {
+          "matchId": "brugge-liverpool",
+          "time": "21h00",
+          "label": "Club Bruges – Liverpool",
+          "pick": "Liverpool gagnant",
+          "market": "2",
+          "odds": 1.7,
+          "source": "soccerstat.co.uk"
+        }
+      ]
+    }
+  ],
+  "externalModels": {
+    "retrievedAt": "2026-11-25T09:30:00+00:00",
+    "sourcesTried": [
+      {
+        "id": "forebet",
+        "name": "Forebet",
+        "status": "partial",
+        "url": "https://www.forebet.com/en/predictions-europe",
+        "note": "Curl direct : HTTP 403 (non contourné). Pages publiques lues via WebFetch / recherche : page Europe (PSG–Roma, Lille–Bayern, Atlético–Viking, Inter–Stuttgart), fiches Sabah–Barcelone, Slavia–Villarreal, Shakhtar–Fenerbahçe, Sporting–Man United, Stoke–Millwall, previews Bolton–West Brom et Watford–Blackburn, liste double chance (Bruges–Liverpool). Burnley–Birmingham (403) et Serie B : non disponible."
+      },
+      {
+        "id": "vitibet",
+        "name": "Vitibet",
+        "status": "ok",
+        "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+        "note": "Page quicktips publique du 25.11.2026 lue en HTTP direct (200). Heures en CET. Les 17 matchs retenus y figurent."
+      },
+      {
+        "id": "predictz",
+        "name": "PredictZ",
+        "status": "partial",
+        "url": "https://www.predictz.com/predictions/today/",
+        "note": "Curl direct : 403 (Cloudflare, non contourné). Pages publiques lues via WebFetch (Ligue des champions et « today ») : 9 matchs de C1, 4 de Championship et Cremonese–Avellino ; autres affiches de Serie B sans pronostic lisible."
+      },
+      {
+        "id": "windrawwin",
+        "name": "WinDrawWin",
+        "status": "partial",
+        "url": "https://www.windrawwin.com/us/picks/future/20261125/",
+        "note": "Curl direct : 403. Page lue via WebFetch ; seul Atlético–Viking (3-0) avait un score prévu clairement rattaché à l’affiche. Les autres pronostics n’étaient pas attribuables avec certitude (non retenus)."
+      },
+      {
+        "id": "opta",
+        "name": "Opta Supercomputer",
+        "status": "ok",
+        "url": "https://theanalyst.com/articles/uefa-champions-league-match-predictions-2026-27",
+        "note": "Article public Opta Analyst « Matchday 5 » (chiffres du 23/11/2026) : probabilités pour les 9 matchs de C1 du mercredi ; fiche Sporting–Man United (39,5 / 24,8 / 35,7). Rien pour la Championship ni la Serie B."
+      },
+      {
+        "id": "betegy",
+        "name": "Betegy",
+        "status": "unavailable",
+        "reason": "Le site ne renvoie qu’une application JavaScript vide (« You need to enable JavaScript ») : aucun pronostic lisible."
+      },
+      {
+        "id": "soccervista",
+        "name": "SoccerVista",
+        "status": "unavailable",
+        "url": "https://www.soccervista.com/predictions/",
+        "reason": "La page /predictions/ (HTTP 200) ne contient aucun des matchs du jour dans son HTML (contenu chargé dynamiquement) ; aucun chiffre extrait."
+      }
+    ],
+    "note": "Pronostics d'IA / modèles spécialisés, uniquement en accès public. Les sources bloquées ou illisibles sont indiquées, sans chiffre inventé."
+  },
+  "topTip": {
+    "title": "Top Tip IA du jour",
+    "subtitle": "7 sélections · une par match · les plus sûres",
+    "maxLegs": 7,
+    "totalOdds": 2.58,
+    "confidence": "Très élevée",
+    "method": "Combiné de 7 matchs (maximum 7), une seule sélection par rencontre : le marché le plus probable et le plus sûr parmi tous ceux déjà cotés (1, 2, 1X, X2, BTTS oui/non, plus/moins de buts, etc.). Le choix combine la probabilité implicite de la cote (1 ÷ cote) et l'analyse IA (forme, statistiques, absents, niveau de confiance). Les matchs où les sources publiques concordent avec les cotes sont privilégiés, puis triés par confiance décroissante. Aucune cote ni statistique n'a été inventée. Cote totale = produit des 7 cotes du matin.",
+    "legs": [
+      {
+        "matchId": "sabah-barcelona",
+        "time": "18:45",
+        "home": "Sabah",
+        "away": "Barcelone",
+        "country": "Azerbaïdjan",
+        "countryCode": "AZ",
+        "league": "Ligue des champions UEFA",
+        "pick": "Barcelone gagnant",
+        "market": "2",
+        "odds": 1.1,
+        "impliedProb": 0.9091,
+        "confidence": "Très élevée",
+        "consensusScore": 100,
+        "consensusNote": "4/4 source(s) soutiennent Barcelone gagnant · 4/4 sources indiquent 2 · double chance citée : X2 (1/4) · concordance avec les cotes (favori 1N2 : 2).",
+        "explanation": "4 modèles sur 4 donnent Barcelone vainqueur (Opta 81,2 %, Vitibet 88 % · 1-4, Forebet 56 % · 0-3, PredictZ 0-4) ; 88 % selon le marché. Probabilité implicite de la cote : 91 %. Consensus sources : 4/4 source(s) soutiennent Barcelone gagnant · 4/4 sources indiquent 2 · double chance citée : X2 (1/4) · concordance avec les cotes (favori 1N2 : 2)."
+      },
+      {
+        "matchId": "inter-stuttgart",
+        "time": "21:00",
+        "home": "Inter",
+        "away": "VfB Stuttgart",
+        "country": "Italie",
+        "countryCode": "IT",
+        "league": "Ligue des champions UEFA",
+        "pick": "Double chance 1X",
+        "market": "1X",
+        "odds": 1.15,
+        "impliedProb": 0.8696,
+        "confidence": "Très élevée",
+        "consensusScore": 100,
+        "consensusNote": "4/4 source(s) soutiennent Double chance 1X · 4/4 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "4 modèles sur 4 donnent l’Inter (Opta 63,9 %, Vitibet 53 %, Forebet 43 %, PredictZ 2-0) ; 85 % selon le marché. Probabilité implicite de la cote : 87 %. Consensus sources : 4/4 source(s) soutiennent Double chance 1X · 4/4 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "atletico-viking",
+        "time": "21:00",
+        "home": "Atlético Madrid",
+        "away": "Viking",
+        "country": "Espagne",
+        "countryCode": "ES",
+        "league": "Ligue des champions UEFA",
+        "pick": "Plus de 1,5 buts",
+        "market": "O1.5",
+        "odds": 1.08,
+        "impliedProb": 0.9259,
+        "confidence": "Très élevée",
+        "consensusScore": 91,
+        "consensusNote": "4/5 source(s) soutiennent Plus de 1,5 buts · 5/5 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "89 % selon le marché ; tous les scores prévus ont 3 buts ou plus. Probabilité implicite de la cote : 93 %. Consensus sources : 4/5 source(s) soutiennent Plus de 1,5 buts · 5/5 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "brugge-liverpool",
+        "time": "21:00",
+        "home": "Club Bruges",
+        "away": "Liverpool",
+        "country": "Belgique",
+        "countryCode": "BE",
+        "league": "Ligue des champions UEFA",
+        "pick": "Plus de 1,5 buts",
+        "market": "O1.5",
+        "odds": 1.1,
+        "impliedProb": 0.9091,
+        "confidence": "Très élevée",
+        "consensusScore": 89,
+        "consensusNote": "3/4 source(s) soutiennent Plus de 1,5 buts · 4/4 sources indiquent 2 · double chance citée : 12 (1/4) · concordance avec les cotes (favori 1N2 : 2).",
+        "explanation": "Les 4 modèles prévoient 1-2 (Forebet, Vitibet, PredictZ) ou une victoire de Liverpool (Opta 54,6 %) ; 87 % selon le marché ; plus de 2,5 buts lors des 17 derniers matchs de C1 de Bruges (Forebet). Probabilité implicite de la cote : 91 %. Consensus sources : 3/4 source(s) soutiennent Plus de 1,5 buts · 4/4 sources indiquent 2 · double chance citée : 12 (1/4) · concordance avec les cotes (favori 1N2 : 2)."
+      },
+      {
+        "matchId": "psg-roma",
+        "time": "21:00",
+        "home": "Paris SG",
+        "away": "AS Roma",
+        "country": "France",
+        "countryCode": "FR",
+        "league": "Ligue des champions UEFA",
+        "pick": "Plus de 1,5 buts",
+        "market": "O1.5",
+        "odds": 1.1,
+        "impliedProb": 0.9091,
+        "confidence": "Très élevée",
+        "consensusScore": 89,
+        "consensusNote": "3/4 source(s) soutiennent Plus de 1,5 buts · 4/4 sources indiquent 1 · double chance citée : 1X (1/4) · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "87 % selon le marché ; tous les scores prévus ont 3 ou 4 buts. Probabilité implicite de la cote : 91 %. Consensus sources : 3/4 source(s) soutiennent Plus de 1,5 buts · 4/4 sources indiquent 1 · double chance citée : 1X (1/4) · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "lille-bayern",
+        "time": "21:00",
+        "home": "Lille",
+        "away": "Bayern Munich",
+        "country": "France",
+        "countryCode": "FR",
+        "league": "Ligue des champions UEFA",
+        "pick": "Double chance X2",
+        "market": "X2",
+        "odds": 1.19,
+        "impliedProb": 0.8403,
+        "confidence": "Élevée",
+        "consensusScore": 100,
+        "consensusNote": "4/4 source(s) soutiennent Double chance X2 · 4/4 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2).",
+        "explanation": "4 modèles sur 4 donnent le Bayern (Vitibet 71 % · 1-3, Opta 56,8 %, Forebet 47 % · 1-3, PredictZ 1-2) ; 82 % selon le marché ; Lille a perdu ses 4 derniers matchs européens à domicile (Opta). Probabilité implicite de la cote : 84 %. Consensus sources : 4/4 source(s) soutiennent Double chance X2 · 4/4 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2)."
+      },
+      {
+        "matchId": "bolton-westbrom",
+        "time": "20:45",
+        "home": "Bolton",
+        "away": "West Brom",
+        "country": "Angleterre",
+        "countryCode": "EN",
+        "league": "Championship",
+        "pick": "Double chance X2",
+        "market": "X2",
+        "odds": 1.31,
+        "impliedProb": 0.7634,
+        "confidence": "Moyenne +",
+        "consensusScore": 100,
+        "consensusNote": "3/3 source(s) soutiennent Double chance X2 · 3/3 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2).",
+        "explanation": "3 modèles sur 3 donnent West Brom (Vitibet 49 % · 1-2, Forebet 43 % · 1-2, PredictZ 0-2) ; 74 % selon le marché ; WBA invaincu en 7 matchs de championnat (Forebet). Probabilité implicite de la cote : 76 %. Consensus sources : 3/3 source(s) soutiennent Double chance X2 · 3/3 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    ]
+  }
+}
