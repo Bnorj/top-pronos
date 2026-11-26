@@ -11,7 +11,7 @@ const FLAGS = {
   KR: "🇰🇷", CN: "🇨🇳", IN: "🇮🇳", AU: "🇦🇺", ZA: "🇿🇦", MA: "🇲🇦",
   TN: "🇹🇳", NG: "🇳🇬", SN: "🇸🇳", CI: "🇨🇮", CM: "🇨🇲", GH: "🇬🇭",
   KE: "🇰🇪", CR: "🇨🇷", PE: "🇵🇪", EC: "🇪🇨", PY: "🇵🇾", VE: "🇻🇪",
-  CO: "🇨🇴", JM: "🇯🇲",
+  CO: "🇨🇴", JM: "🇯🇲", BA: "🇧🇦", AL: "🇦🇱", GE: "🇬🇪", AD: "🇦🇩", KZ: "🇰🇿", LT: "🇱🇹",
 };
 const FAV_KEY = "toppronos-favs";
 const state = {
