@@ -1,0 +1,2402 @@
+{
+  "date": "2026-11-27",
+  "dateLabel": "Vendredi 27 novembre 2026",
+  "generatedAt": "2026-11-27T11:00:00+01:00",
+  "timezone": "Europe/Paris",
+  "timezoneNote": "Horaires affichés à l’heure de Paris (CET, UTC+1).",
+  "scoresRetrievedAt": null,
+  "scoresNote": "Pronostics d’avant-match publiés le matin : aucun score n’est encore disponible. Cette appli est statique : les scores ne se mettent pas à jour tout seuls.",
+  "sourcesNote": "Pronostics et cotes du matin (page générée vers 11h, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur soccerstat.co.uk (fiches mises à jour le 27/11 à 6h00 heure du site), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Modèles IA publics : Vitibet (14/15 matchs), Forebet (12), PredictZ (10), Opta Supercomputer (1 : Forest–Chelsea). WinDrawWin (pronostics non lisibles), Betegy (injoignable) et SoccerVista (contenu dynamique) : non disponibles. Probabilités par marché : modèle soccerstat. Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
+  "context": "Vendredi sans match international ni coupe d’Europe : 15 matchs analysés (championnats européens — Premier League, Bundesliga, Liga, Serie A, Ligue 1, Eredivisie, Jupiler Pro League, Superliga, Primeira Liga, Chance Liga, 2. Bundesliga, Championship, Segunda — et Coupe de France Cannes–Le Puy), de 18h00 à 21h15. D’autres matchs (Arabie saoudite, Turquie, Pologne, pays de Galles…) figurent chez Vitibet/PredictZ mais sans cotes/statistiques fiables relevées : non retenus. Cotes buteurs : 2 seulement (Füllkrug, Lankshear) ; passeurs : non disponibles. Sélections avec une cote minimale de 1,10.",
+  "responsibleGambling": {
+    "title": "Jeu responsable — 18 ans et plus",
+    "text": "Les paris sportifs comportent des risques : endettement, isolement, dépendance. Ne misez que ce que vous pouvez vous permettre de perdre. Ces pronostics sont informatifs et ne garantissent aucun gain.",
+    "help": "Besoin d’aide ? Joueurs Info Service : 09 74 75 13 13 (appel non surtaxé, 7j/7, 8h–2h)."
+  },
+  "matches": [
+    {
+      "id": "artis-slovacko",
+      "kickoffParis": "18:00",
+      "kickoffIso": "2026-11-27T17:00:00+00:00",
+      "country": "Tchéquie",
+      "countryCode": "CZ",
+      "league": "Chance Liga (D1 tchèque)",
+      "round": "Journée 16",
+      "home": "Artis Brno",
+      "away": "Slovácko",
+      "venue": "Stadion SK Líšeň, Brno",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.28,
+        "confidence": "Moyenne +",
+        "explanation": "2/2 source(s) IA compatibles avec ce pari (Vitibet : Artis Brno ou nul · 2-1; PredictZ : nul · 2-2) ; probabilité estimée 75 % (modèle soccerstat, meilleure cote 1,28)."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X (Artis Brno ou nul)",
+          "odds": 1.44,
+          "confidence": "Moyenne",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Vitibet : Artis Brno ou nul · 2-1; PredictZ : nul · 2-2) ; probabilité estimée 67,5 % (modèle soccerstat, meilleure cote 1,44)."
+        },
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.4,
+          "confidence": "Moyenne",
+          "explanation": "1/2 source(s) IA compatibles avec ce pari (Vitibet : Artis Brno ou nul · 2-1; PredictZ : nul · 2-2) ; probabilité estimée 68,6 % (modèle soccerstat, meilleure cote 1,40)."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent : oui",
+          "odds": 1.7,
+          "confidence": "Moyenne-faible",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Vitibet : Artis Brno ou nul · 2-1; PredictZ : nul · 2-2) ; probabilité estimée 57,1 % (modèle soccerstat, meilleure cote 1,70)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.42,
+        "draw": 3.44,
+        "away": 2.95
+      },
+      "markets": {
+        "1X": 1.44,
+        "X2": 1.6,
+        "bttsYes": 1.7,
+        "bttsNo": 2.25,
+        "over15": 1.28,
+        "under15": 3.95,
+        "over25": 1.85,
+        "under25": 2.02,
+        "over35": 3.1,
+        "under35": 1.4
+      },
+      "form": "5 derniers matchs — Artis Brno : V Artis Brno 3-1 FK Jablonec (21/11), D Slavia Praha 4-1 Artis Brno (8/11), D Artis Brno 1-2 Bohemians 1905 (4/11), N Artis Brno 2-2 Zlín (31/10), N Teplice 0-0 Artis Brno (24/10). Slovácko : V Slovácko 4-2 Hradec Králové (22/11), V Zlín 0-1 Slovácko (7/11), D Slovácko 1-3 Teplice (31/10), D Sparta Praha 5-1 Slovácko (25/10), D Slovácko 1-2 Zbrojovka Brno (18/10). Cette saison : Artis Brno à domicile 1V-2N-5D (9-18) ; Slovácko à l’extérieur 2V-1N-5D (7-16).",
+      "absences": "Artis : aucun absent signalé ; Slovácko : aucun absent signalé (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 0 victoire(s) Artis Brno, 1 nul(s), 2 victoire(s) Slovácko. Derniers : Slovácko 1-1 Artis Brno (1/8/26) ; Slovácko 3-0 Artis Brno (31/5/26) ; Artis Brno 1-4 Slovácko (27/5/26).",
+      "stats": "Probabilités sans marge (soccerstat) : 40 % / 28 % / 32 %. Plus de 1,5 buts : 75 % ; plus de 2,5 buts : 52 % ; BTTS : 57 % ; scores les plus probables (soccerstat) : 1-1 (12,1 %), 1-0 (9,3 %), 2-1 (8,7 %). Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : ligne 9,5 — plus 1,89 / moins 1,82 (proba. du plus : 49 %) · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,89 / moins 1,82 (proba. du plus : 49 %) · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 03:34 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "reason": "Page championnat tchèque introuvable (404) ; page « today » en 403/chargement partiel. Aucun chiffre retenu."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 42,
+            "draw": 28,
+            "away": 30
+          },
+          "correctScore": "2-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "X",
+          "correctScore": "2-2"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 28,
+        "label": "Divergent",
+        "majority1x2": "X",
+        "agreement": 0.5,
+        "alignedWithOdds": false,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "1/2 sources indiquent X · double chance citée : 1X (1/2) · divergence avec le favori des cotes (1)."
+      }
+    },
+    {
+      "id": "bochum-darmstadt",
+      "kickoffParis": "18:30",
+      "kickoffIso": "2026-11-27T17:30:00+00:00",
+      "country": "Allemagne",
+      "countryCode": "DE",
+      "league": "2. Bundesliga",
+      "round": "Journée 13",
+      "home": "Bochum",
+      "away": "Darmstadt",
+      "venue": "Vonovia Ruhrstadion, Bochum",
+      "referee": "Tom Bauer",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.21,
+        "confidence": "Élevée",
+        "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Bochum 43 % · 2-1; Vitibet : Bochum ou nul · 2-1) ; probabilité estimée 78,8 % (modèle soccerstat, meilleure cote 1,21)."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X (Bochum ou nul)",
+          "odds": 1.26,
+          "confidence": "Moyenne +",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Bochum 43 % · 2-1; Vitibet : Bochum ou nul · 2-1) ; probabilité estimée 76,7 % (modèle soccerstat, meilleure cote 1,26)."
+        },
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.53,
+          "confidence": "Moyenne",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Bochum 43 % · 2-1; Vitibet : Bochum ou nul · 2-1) ; probabilité estimée 62,1 % (modèle soccerstat, meilleure cote 1,53)."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent : oui",
+          "odds": 1.6,
+          "confidence": "Moyenne-faible",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Bochum 43 % · 2-1; Vitibet : Bochum ou nul · 2-1) ; probabilité estimée 59,8 % (modèle soccerstat, meilleure cote 1,60)."
+        }
+      ],
+      "odds1x2": {
+        "home": 1.83,
+        "draw": 4.1,
+        "away": 4.28
+      },
+      "markets": {
+        "1X": 1.26,
+        "X2": 2.05,
+        "bttsYes": 1.6,
+        "bttsNo": 2.38,
+        "over15": 1.21,
+        "under15": 4.67,
+        "over25": 1.66,
+        "under25": 2.32,
+        "over35": 2.61,
+        "under35": 1.53
+      },
+      "form": "5 derniers matchs — Bochum : D FC St. Pauli 2-0 Bochum (21/11), V Bochum 3-2 Karlsruher SC (8/11), V Energie Cottbus 1-2 Bochum (30/10), N Bochum 1-1 VfL Wolfsburg (23/10), D 1. FC Kaiserslautern 2-0 Bochum (17/10). Darmstadt : V Darmstadt 3-1 1. FC Heidenheim (20/11), D 1. FC Nürnberg 2-0 Darmstadt (7/11), N Darmstadt 1-1 1. FC Magdeburg (31/10), N Darmstadt 0-0 FC St. Pauli (23/10), D Karlsruher SC 4-0 Darmstadt (18/10). Cette saison : Bochum à domicile 1V-2N-3D (5-7) ; Darmstadt à l’extérieur 0V-0N-5D (1-15).",
+      "absences": "VfL Bochum : aucun absent signalé ; SV Darmstadt 98 : aucun absent signalé (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 5 victoire(s) Bochum, 6 nul(s), 3 victoire(s) Darmstadt. Derniers : Bochum 3-3 Darmstadt (18/1/26) ; Darmstadt 4-1 Bochum (2/8/25) ; Vfl Bochum 2-2 Darmstadt (31/3/24) ; Darmstadt 1-2 Vfl Bochum (3/11/23) ; Darmstadt 3-1 Vfl Bochum (26/4/21).",
+      "stats": "Probabilités sans marge (soccerstat) : 53 % / 24 % / 23 %. Plus de 1,5 buts : 78,8 % ; plus de 2,5 buts : 59 % ; BTTS : 60 % ; scores les plus probables (soccerstat) : 1-1 (10,5 %), 2-1 (9,7 %), 1-0 (8,8 %). Moyenne de buts attendue (Forebet) : 2,9. Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : ligne 10,5 — plus 1,87 / moins 1,84 (proba. du plus : 49,6 %) · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 1,87 / moins 1,84 (proba. du plus : 49,6 %) · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 06:00 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-germany/2-bundesliga",
+          "probs": {
+            "home": 43,
+            "draw": 38,
+            "away": 19
+          },
+          "pred1x2": "1",
+          "correctScore": "2-1",
+          "avgGoals": 2.93
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 47,
+            "draw": 25,
+            "away": 28
+          },
+          "correctScore": "2-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "url": "https://www.predictz.com/predictions/today/",
+          "reason": "Section 2. Bundesliga de la page illisible (deux affiches mêlées, pronostic non attribuable avec certitude)."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 50,
+        "label": "Moyen",
+        "majority1x2": "1",
+        "agreement": 0.5,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "1/2 sources indiquent 1 · double chance citée : 1X (1/2) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "heidenheim-nurnberg",
+      "kickoffParis": "18:30",
+      "kickoffIso": "2026-11-27T17:30:00+00:00",
+      "country": "Allemagne",
+      "countryCode": "DE",
+      "league": "2. Bundesliga",
+      "round": "Journée 13",
+      "home": "Heidenheim",
+      "away": "Nuremberg",
+      "venue": "Voith-Arena, Heidenheim",
+      "referee": "Felix Weller",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.13,
+        "confidence": "Très élevée",
+        "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Nuremberg 36 % · 1-3; Vitibet : Heidenheim 52 % · 2-1) ; probabilité estimée 85,5 % (modèle soccerstat, meilleure cote 1,13)."
+      },
+      "otherPicks": [
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent : oui",
+          "odds": 1.36,
+          "confidence": "Moyenne",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Nuremberg 36 % · 1-3; Vitibet : Heidenheim 52 % · 2-1) ; probabilité estimée 69,2 % (modèle soccerstat, meilleure cote 1,36)."
+        },
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.43,
+          "confidence": "Moyenne",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Nuremberg 36 % · 1-3; Vitibet : Heidenheim 52 % · 2-1) ; probabilité estimée 67,7 % (modèle soccerstat, meilleure cote 1,43)."
+        },
+        {
+          "market": "1X",
+          "label": "Double chance 1X (Heidenheim ou nul)",
+          "odds": 1.44,
+          "confidence": "Moyenne",
+          "explanation": "1/2 source(s) IA compatibles avec ce pari (Forebet : Nuremberg 36 % · 1-3; Vitibet : Heidenheim 52 % · 2-1) ; probabilité estimée 67,7 % (modèle soccerstat, meilleure cote 1,44)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.24,
+        "draw": 4.0,
+        "away": 3.1
+      },
+      "markets": {
+        "1X": 1.44,
+        "X2": 1.7,
+        "bttsYes": 1.36,
+        "bttsNo": 3.1,
+        "over25": 1.43,
+        "under25": 3.1,
+        "over35": 2.05,
+        "under35": 1.9,
+        "over15": 1.13
+      },
+      "form": "5 derniers matchs — Heidenheim : D SV Darmstadt 98 3-1 Heidenheim (20/11), N Heidenheim 2-2 Hannover 96 (8/11), D Karlsruher SC 2-1 Heidenheim (31/10), N Heidenheim 1-1 Energie Cottbus (24/10), D VfL Wolfsburg 3-1 Heidenheim (17/10). Nuremberg : D Nuremberg 1-2 Eintracht Braunschweig (21/11), V Nuremberg 2-0 SV Darmstadt 98 (7/11), V FC St. Pauli 1-3 Nuremberg (1/11), D Nuremberg 0-1 1. FC Kaiserslautern (24/10), N Energie Cottbus 1-1 Nuremberg (16/10). Cette saison : Heidenheim à domicile 3V-3N-0D (13-9) ; Nuremberg à l’extérieur 3V-2N-0D (11-6).",
+      "absences": "1. FC Heidenheim : aucun absent signalé ; 1. FC Nürnberg : aucun absent signalé (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 7 victoire(s) Heidenheim, 3 nul(s), 7 victoire(s) Nuremberg. Derniers : FC Nurnberg 3-1 FC Heidenheim (7/9/23) ; FC Heidenheim 5-0 FC Nurnberg (19/2/23) ; FC Nurnberg 0-3 FC Heidenheim (12/8/22) ; FC Heidenheim 3-1 FC Nurnberg (3/4/22) ; FC Nurnberg 4-0 FC Heidenheim (23/10/21).",
+      "stats": "Probabilités sans marge (soccerstat) : 43 % / 24 % / 32 %. Plus de 1,5 buts : 85,5 % ; plus de 2,5 buts : 68 % ; BTTS : 69 % ; scores les plus probables (soccerstat) : 1-1 (9,4 %), 2-1 (8,7 %), 1-2 (7,5 %). Moyenne de buts attendue (Forebet) : 3,4. Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : ligne 10,5 — plus 1,73 / moins 2,01 (proba. du plus : 53,7 %) · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 1,73 / moins 2,01 (proba. du plus : 53,7 %) · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 05:05 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-germany/2-bundesliga",
+          "probs": {
+            "home": 29,
+            "draw": 35,
+            "away": 36
+          },
+          "pred1x2": "2",
+          "correctScore": "1-3",
+          "avgGoals": 3.39
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 52,
+            "draw": 24,
+            "away": 24
+          },
+          "correctScore": "2-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "url": "https://www.predictz.com/predictions/today/",
+          "reason": "Section 2. Bundesliga de la page illisible (deux affiches mêlées, pronostic non attribuable avec certitude)."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 50,
+        "label": "Moyen",
+        "majority1x2": null,
+        "agreement": 0.5,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "pas de majorité 1N2 (sources partagées) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "cannes-lepuy",
+      "kickoffParis": "19:00",
+      "kickoffIso": "2026-11-27T18:00:00+00:00",
+      "country": "France",
+      "countryCode": "FR",
+      "league": "Coupe de France (7e tour / « round 128 »)",
+      "round": "7e tour",
+      "home": "Cannes",
+      "away": "Le Puy Foot",
+      "venue": "Stade Pierre de Coubertin, Cannes",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.31,
+        "confidence": "Moyenne +",
+        "explanation": "0/0 source(s) IA compatibles avec ce pari (aucune source IA disponible) ; probabilité estimée 72,7 % (modèle soccerstat, meilleure cote 1,31)."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.35,
+          "confidence": "Moyenne +",
+          "explanation": "0/0 source(s) IA compatibles avec ce pari (aucune source IA disponible) ; probabilité estimée 70,6 % (modèle soccerstat, meilleure cote 1,35)."
+        },
+        {
+          "market": "1X",
+          "label": "Double chance 1X (Cannes ou nul)",
+          "odds": 1.39,
+          "confidence": "Moyenne",
+          "explanation": "0/0 source(s) IA compatibles avec ce pari (aucune source IA disponible) ; probabilité estimée 69,2 % (modèle soccerstat, meilleure cote 1,39)."
+        },
+        {
+          "market": "U2.5",
+          "label": "Moins de 2,5 buts",
+          "odds": 1.84,
+          "confidence": "Moyenne-faible",
+          "explanation": "0/0 source(s) IA compatibles avec ce pari (aucune source IA disponible) ; probabilité estimée 53,2 % (modèle soccerstat, meilleure cote 1,84)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.5,
+        "draw": 3.25,
+        "away": 3.25
+      },
+      "markets": {
+        "1X": 1.39,
+        "X2": 1.6,
+        "bttsYes": 1.8,
+        "bttsNo": 2.15,
+        "over15": 1.35,
+        "under15": 3.4,
+        "over25": 2.12,
+        "under25": 1.84,
+        "over35": 3.6,
+        "under35": 1.31
+      },
+      "form": "5 derniers matchs — Cannes : N Cannes 0-0 Aubagne (21/11), D Thionville Lusitanos 1-0 Cannes (7/11), V Cannes 2-1 Valenciennes (31/10), D Villefranche 2-1 Cannes (17/10), V Cannes 3-1 Quevilly (3/10). Le Puy Foot : N Le Puy Foot 0-0 Gobelins (21/11), N Bourg-en-bresse 01 1-1 Le Puy Foot (7/11), N Le Puy Foot 2-2 Caen (31/10), V Aubagne 0-1 Le Puy Foot (17/10), V Le Puy Foot 1-0 Thionville Lusitanos (3/10).",
+      "absences": "Cannes : aucun absent signalé ; Le Puy Foot : aucun absent signalé (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 2 victoire(s) Cannes, 4 nul(s), 0 victoire(s) Le Puy Foot. Derniers : Cannes 2-0 Le Puy Foot (29/8/26) ; Cannes 2-1 Le Puy Foot (25/1/25) ; Le Puy Foot 0-0 Cannes (30/8/24) ; Cannes 0-0 Le Puy Foot (27/4/24) ; Le Puy Foot 1-1 Cannes (16/12/23).",
+      "stats": "Probabilités sans marge (soccerstat) : 40 % / 30 % / 31 %. Plus de 1,5 buts : 70,6 % ; plus de 2,5 buts : 47 % ; BTTS : 53 % ; scores les plus probables (soccerstat) : 1-1 (12,7 %), 1-0 (11,1 %), 0-1 (9,4 %). Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : non disponible · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : non disponible · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 00:01 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "reason": "Coupe de France : affiche introuvable sur les pages publiques Forebet lues (la page « National » ne la liste pas)."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "unavailable",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "reason": "Affiche absente de la page quicktips du 27/11 (Coupe de France non couverte)."
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "url": "https://www.predictz.com/predictions/today/",
+          "reason": "Affiche absente de la page publique."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": null,
+        "label": "non disponible",
+        "agreement": null,
+        "alignedWithOdds": null,
+        "summary": "Aucune source externe récupérable pour ce match. Aucun chiffre inventé."
+      }
+    },
+    {
+      "id": "sonderjyske-brondby",
+      "kickoffParis": "19:00",
+      "kickoffIso": "2026-11-27T18:00:00+00:00",
+      "country": "Danemark",
+      "countryCode": "DK",
+      "league": "Superliga danoise",
+      "round": "Journée 16",
+      "home": "Sønderjyske",
+      "away": "Brøndby",
+      "venue": "Haderslev Fodbold Stadion, Hadeslev",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.2,
+        "confidence": "Élevée",
+        "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Brøndby 48 % · 1-2; Vitibet : Brøndby 51 % · 1-2) ; probabilité estimée 80,6 % (modèle soccerstat, meilleure cote 1,20)."
+      },
+      "otherPicks": [
+        {
+          "market": "X2",
+          "label": "Double chance X2 (nul ou Brøndby)",
+          "odds": 1.24,
+          "confidence": "Élevée",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Brøndby 48 % · 1-2; Vitibet : Brøndby 51 % · 1-2) ; probabilité estimée 78,1 % (modèle soccerstat, meilleure cote 1,24)."
+        },
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.57,
+          "confidence": "Moyenne",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Brøndby 48 % · 1-2; Vitibet : Brøndby 51 % · 1-2) ; probabilité estimée 61,3 % (modèle soccerstat, meilleure cote 1,57)."
+        },
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.62,
+          "confidence": "Moyenne-faible",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Brøndby 48 % · 1-2; Vitibet : Brøndby 51 % · 1-2) ; probabilité estimée 59,6 % (modèle soccerstat, meilleure cote 1,62)."
+        }
+      ],
+      "odds1x2": {
+        "home": 4.5,
+        "draw": 4.4,
+        "away": 1.72
+      },
+      "markets": {
+        "1X": 2.15,
+        "X2": 1.24,
+        "bttsYes": 1.6,
+        "bttsNo": 2.38,
+        "over15": 1.2,
+        "under15": 5.0,
+        "over25": 1.62,
+        "under25": 2.39,
+        "over35": 2.52,
+        "under35": 1.57
+      },
+      "form": "5 derniers matchs — Sønderjyske : D Sønderjyske 1-2 Odense (22/11), N FC Midtjylland 2-2 Sønderjyske (8/11), D Sønderjyske 0-2 FC Copenhagen (2/11), D AC Horsens 5-1 Sønderjyske (25/10), V Sønderjyske 4-0 Silkeborg (18/10). Brøndby : D Brøndby 0-2 FC Midtjylland (23/11), D FC Copenhagen 1-0 Brøndby (8/11), V Brøndby 2-0 Aarhus (1/11), V Randers FC 1-3 Brøndby (23/10), D Odense 2-1 Brøndby (18/10). Cette saison : Sønderjyske à domicile 2V-1N-5D (13-17) ; Brøndby à l’extérieur 2V-1N-4D (9-12).",
+      "absences": "Sønderjyske : E. Duru (cheville, absent) ; Brøndby : L. Binks (blessé, absent) (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 14 victoire(s) Sønderjyske, 7 nul(s), 19 victoire(s) Brøndby. Derniers : Brøndby 3-2 Sønderjyske (17/8/26) ; Sønderjyske 3-0 Brøndby (26/4/26) ; Brøndby 6-0 Sønderjyske (17/4/26) ; Brøndby 0-0 Sønderjyske (23/2/26) ; Sønderjyske 2-0 Brøndby (24/8/25).",
+      "stats": "Probabilités sans marge (soccerstat) : 22 % / 23 % / 55 %. Plus de 1,5 buts : 80,6 % ; plus de 2,5 buts : 60 % ; BTTS : 59 % ; scores les plus probables (soccerstat) : 1-1 (10,3 %), 1-2 (9,8 %), 0-1 (9 %). Moyenne de buts attendue (Forebet) : 2,8. Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : ligne 10,5 — plus 2,00 / moins 1,73 (proba. du plus : 46,4 %) · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 2,00 / moins 1,73 (proba. du plus : 46,4 %) · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 02:55 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-denmark/superliga",
+          "probs": {
+            "home": 33,
+            "draw": 18,
+            "away": 48
+          },
+          "pred1x2": "2",
+          "correctScore": "1-2",
+          "avgGoals": 2.81
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 25,
+            "draw": 24,
+            "away": 51
+          },
+          "correctScore": "1-2",
+          "tip": "2",
+          "pred1x2": "2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "url": "https://www.predictz.com/predictions/today/",
+          "reason": "Affiche listée sans pronostic lisible."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "2",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 2,
+        "summary": "2/2 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "groningen-willem2",
+      "kickoffParis": "20:00",
+      "kickoffIso": "2026-11-27T19:00:00+00:00",
+      "country": "Pays-Bas",
+      "countryCode": "NL",
+      "league": "Eredivisie",
+      "round": "Journée 14",
+      "home": "Groningue",
+      "away": "Willem II",
+      "venue": "Hitachi Capital Mobility Stadion, Groningen",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "1X",
+        "label": "Double chance 1X (Groningue ou nul)",
+        "odds": 1.1,
+        "confidence": "Très élevée",
+        "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Groningue 57 % · 3-1; Vitibet : Groningue 67 % · 2-1; PredictZ : Groningue · 3-0) ; probabilité estimée 88,4 % (modèle soccerstat, meilleure cote 1,10)."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.14,
+          "confidence": "Élevée",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Groningue 57 % · 3-1; Vitibet : Groningue 67 % · 2-1; PredictZ : Groningue · 3-0) ; probabilité estimée 82,8 % (modèle soccerstat, meilleure cote 1,14)."
+        },
+        {
+          "market": "1",
+          "label": "Groningue gagnant",
+          "odds": 1.36,
+          "confidence": "Moyenne +",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Groningue 57 % · 3-1; Vitibet : Groningue 67 % · 2-1; PredictZ : Groningue · 3-0) ; probabilité estimée 71,3 % (modèle soccerstat, meilleure cote 1,36)."
+        },
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.48,
+          "confidence": "Moyenne",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Groningue 57 % · 3-1; Vitibet : Groningue 67 % · 2-1; PredictZ : Groningue · 3-0) ; probabilité estimée 64,8 % (modèle soccerstat, meilleure cote 1,48)."
+        }
+      ],
+      "odds1x2": {
+        "home": 1.36,
+        "draw": 6.06,
+        "away": 8.5
+      },
+      "markets": {
+        "1X": 1.1,
+        "X2": 3.3,
+        "bttsYes": 1.7,
+        "bttsNo": 2.1,
+        "over15": 1.14,
+        "under15": 6.48,
+        "over25": 1.48,
+        "under25": 2.9,
+        "over35": 2.16,
+        "under35": 1.75
+      },
+      "form": "5 derniers matchs — Groningue : D Twente 2-1 Willem II (22/11), N Willem II 1-1 PEC Zwolle (6/11), D PSV Eindhoven 7-0 Willem II (31/10), D Willem II 1-6 Cambuur (24/10), D Sparta Rotterdam 3-2 Willem II (17/10). Willem II : D Groningue 1-3 Heerenveen (21/11), D AZ Alkmaar 4-3 Groningue (8/11), D Groningue 2-3 Sparta Rotterdam (1/11), N NEC Nijmegen 2-2 Groningue (25/10), D Groningue 2-5 Ajax (18/10). Cette saison : Groningue à domicile 2V-1N-4D (14-17) ; Willem II à l’extérieur 0V-1N-6D (7-25).",
+      "absences": "Groningen : T. Hernes (hors groupe, absent), M. Jeng (indisponible, absent) ; Willem II : T. Didillon Hodl (hors groupe, absent), J. Hoogma (genou, absent), A. Lachkar (aine, absent), N. Tjoe a On (suspendu (rouge), absent) (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 14 victoire(s) Groningue, 6 nul(s), 5 victoire(s) Willem II. Derniers : Willem II 1-3 Groningue (15/2/25) ; Groningue 2-0 Willem II (30/11/24) ; Willem II 1-1 Groningue (26/4/24) ; Willem II 1-3 Groningue (19/12/23) ; Groningue 0-0 Willem II (27/8/23).",
+      "stats": "Probabilités sans marge (soccerstat) : 71 % / 17 % / 12 %. Plus de 1,5 buts : 82,8 % ; plus de 2,5 buts : 65 % ; BTTS : 55 % ; scores les plus probables (soccerstat) : 2-0 (10,5 %), 2-1 (9,5 %), 3-0 (8,6 %). Tendance Forebet : Groningue a perdu ses 3 derniers matchs d’Eredivisie. Moyenne de buts attendue (Forebet) : 3,7. Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : ligne 10,5 — plus 1,83 / moins 1,90 (proba. du plus : 51 %) · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 1,83 / moins 1,90 (proba. du plus : 51 %) · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 08:30 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-netherlands/eredivisie",
+          "probs": {
+            "home": 57,
+            "draw": 25,
+            "away": 18
+          },
+          "pred1x2": "1",
+          "correctScore": "3-1",
+          "avgGoals": 3.73,
+          "note": "Tendance Forebet : Groningue a perdu ses 3 derniers matchs d’Eredivisie."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 67,
+            "draw": 18,
+            "away": 15
+          },
+          "correctScore": "2-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "1",
+          "correctScore": "3-0"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 3,
+        "summary": "3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "werder-gladbach",
+      "kickoffParis": "20:30",
+      "kickoffIso": "2026-11-27T19:30:00+00:00",
+      "country": "Allemagne",
+      "countryCode": "DE",
+      "league": "Bundesliga",
+      "round": "Journée 11",
+      "home": "Werder Brême",
+      "away": "Mönchengladbach",
+      "venue": null,
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": "Niclas Füllkrug (Werder) buteur : cote 1,91 — a marqué dans 8 de ses 10 derniers matchs (soccerstat, player props).",
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.18,
+        "confidence": "Élevée",
+        "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Werder Brême 59 % · 2-1; Vitibet : Werder Brême 58 % · 2-1; PredictZ : Werder Brême · 2-0) ; probabilité estimée 81,5 % (modèle soccerstat, meilleure cote 1,18)."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X (Werder Brême ou nul)",
+          "odds": 1.27,
+          "confidence": "Élevée",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Werder Brême 59 % · 2-1; Vitibet : Werder Brême 58 % · 2-1; PredictZ : Werder Brême · 2-0) ; probabilité estimée 78 % (modèle soccerstat, meilleure cote 1,27)."
+        },
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.75,
+          "confidence": "Moyenne-faible",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Werder Brême 59 % · 2-1; Vitibet : Werder Brême 58 % · 2-1; PredictZ : Werder Brême · 2-0) ; probabilité estimée 58,2 % (modèle soccerstat, meilleure cote 1,75)."
+        },
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.55,
+          "confidence": "Moyenne",
+          "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : Werder Brême 59 % · 2-1; Vitibet : Werder Brême 58 % · 2-1; PredictZ : Werder Brême · 2-0) ; probabilité estimée 62,8 % (modèle soccerstat, meilleure cote 1,55)."
+        }
+      ],
+      "odds1x2": {
+        "home": 1.78,
+        "draw": 4.55,
+        "away": 4.6
+      },
+      "markets": {
+        "1X": 1.27,
+        "X2": 2.24,
+        "bttsYes": 1.57,
+        "bttsNo": 2.5,
+        "over15": 1.18,
+        "under15": 5.56,
+        "over25": 1.55,
+        "under25": 2.63,
+        "over35": 2.36,
+        "under35": 1.75
+      },
+      "form": "Classement : Werder Brême 6e (18 pts), Mönchengladbach 18e (4 pts). 5 derniers matchs — Werder Brême : V Werder Brême 4-0 Hamburger SV (22/11), D VfB Stuttgart 1-0 Werder Brême (7/11), V Werder Brême 2-0 1899 Hoffenheim (31/10), V FSV Mainz 05 2-3 Werder Brême (24/10), N Werder Brême 2-2 SC Paderborn 07 (17/10). Mönchengladbach : non disponible (soccerstat). Cette saison : Werder Brême à domicile 4V-1N-0D (14-5) ; Mönchengladbach à l’extérieur 1V-0N-4D (5-15).",
+      "absences": "Werder Bremen : F. Agu (mollet, absent), S. Alvero (mollet, absent), M. Grull (mollet, absent), S. Musah (musculaire, absent), M. N'Diaye (aine, absent), J. Stage (musculaire, absent), K. Topp (genou, absent), J. Njinmah (musculaire, incertain) ; Borussia Mönchengladbach : D. Hashioka (blessé, absent), E. Leopold (genou, absent), J. Leszczynski (genou, absent), L. Ullrich (indisponible, absent), R. Hack (musculaire, incertain) (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 7 victoire(s) Werder Brême, 11 nul(s), 14 victoire(s) Mönchengladbach. Derniers : Werder Brême 1-1 Mönchengladbach (31/1/26) ; Mönchengladbach 0-4 Werder Brême (14/9/25) ; Werder Brême 2-4 Mönchengladbach (15/3/25) ; Mönchengladbach 4-1 Werder Brême (3/11/24) ; Werder Brême 2-2 Mönchengladbach (4/5/24).",
+      "stats": "Probabilités sans marge (soccerstat) : 56 % / 22 % / 22 %. Plus de 1,5 buts : 81,5 % ; plus de 2,5 buts : 63 % ; BTTS : 61 % ; scores les plus probables (soccerstat) : 2-1 (9,8 %), 1-1 (9,8 %), 2-0 (8,2 %). Tendance Forebet : Werder invaincu lors de 8 de ses 9 derniers matchs (Werder–Gladbach). Moyenne de buts attendue (Forebet) : 3,6. Buteurs : Niclas Füllkrug (Werder) buteur : cote 1,91 — a marqué dans 8 de ses 10 derniers matchs (soccerstat, player props). Passeurs : non disponible. Pari conseillé par soccerstat : Werder Bremen to win @ 1,78. Corners : ligne 9,5 — plus 1,83 / moins 1,91 (proba. du plus : 51,1 %) · Cartons : ligne 3,5 — plus 1,69 / moins 2,09 (proba. du plus : 55,2 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,83 / moins 1,91 (proba. du plus : 51,1 %) · Cartons : ligne 3,5 — plus 1,69 / moins 2,09 (proba. du plus : 55,2 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 06:00 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-germany/bundesliga",
+          "probs": {
+            "home": 59,
+            "draw": 21,
+            "away": 19
+          },
+          "pred1x2": "1",
+          "correctScore": "2-1",
+          "avgGoals": 3.63,
+          "note": "Tendance Forebet : Werder invaincu lors de 8 de ses 9 derniers matchs (Werder–Gladbach)."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 58,
+            "draw": 21,
+            "away": 21
+          },
+          "correctScore": "2-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "1",
+          "correctScore": "2-0"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 3,
+        "summary": "3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "leganes-sabadell",
+      "kickoffParis": "20:30",
+      "kickoffIso": "2026-11-27T19:30:00+00:00",
+      "country": "Espagne",
+      "countryCode": "ES",
+      "league": "Segunda División",
+      "round": "Journée 16",
+      "home": "Leganés",
+      "away": "Sabadell",
+      "venue": "Municipal de Butarque, Leganés",
+      "referee": "Jose Antonio Sanchez Villalobos",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "1X",
+        "label": "Double chance 1X (Leganés ou nul)",
+        "odds": 1.38,
+        "confidence": "Moyenne +",
+        "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : nul 46 % · 2-2; Vitibet : Leganés ou nul · 1-1) ; probabilité estimée 70,2 % (modèle soccerstat, meilleure cote 1,38)."
+      },
+      "otherPicks": [
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.22,
+          "confidence": "Moyenne +",
+          "explanation": "1/2 source(s) IA compatibles avec ce pari (Forebet : nul 46 % · 2-2; Vitibet : Leganés ou nul · 1-1) ; probabilité estimée 77,8 % (modèle soccerstat, meilleure cote 1,22)."
+        },
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.47,
+          "confidence": "Moyenne",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : nul 46 % · 2-2; Vitibet : Leganés ou nul · 1-1) ; probabilité estimée 66 % (modèle soccerstat, meilleure cote 1,47)."
+        },
+        {
+          "market": "U2.5",
+          "label": "Moins de 2,5 buts",
+          "odds": 1.66,
+          "confidence": "Moyenne-faible",
+          "explanation": "1/2 source(s) IA compatibles avec ce pari (Forebet : nul 46 % · 2-2; Vitibet : Leganés ou nul · 1-1) ; probabilité estimée 59,1 % (modèle soccerstat, meilleure cote 1,66)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.47,
+        "draw": 3.16,
+        "away": 3.33
+      },
+      "markets": {
+        "1X": 1.38,
+        "X2": 1.57,
+        "bttsYes": 2.0,
+        "bttsNo": 1.83,
+        "over15": 1.47,
+        "under15": 2.87,
+        "over25": 2.45,
+        "under25": 1.66,
+        "over35": 4.67,
+        "under35": 1.22
+      },
+      "form": "5 derniers matchs — Leganés : V FC Andorra 1-3 Leganés (20/11), V Leganés 3-1 Burgos (13/11), D Leganés 1-3 Albacete (7/11), D Valladolid 4-3 Leganés (2/11), N Leganés 1-1 Mallorca (24/10). Sabadell : N Sabadell 1-1 Granada CF (21/11), D Eldense 2-0 Sabadell (15/11), N Sabadell 0-0 Real Sociedad II (9/11), D Albacete 2-1 Sabadell (31/10), N Sabadell 1-1 Tenerife (25/10). Cette saison : Leganés à domicile 3V-1N-3D (9-10) ; Sabadell à l’extérieur 1V-3N-4D (4-9).",
+      "absences": "Leganés : aucun absent signalé ; Sabadell : aucun absent signalé (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 1 victoire(s) Leganés, 0 nul(s), 1 victoire(s) Sabadell. Derniers : Leganés 2-1 Sabadell (4/4/21) ; Sabadell 1-0 Leganés (29/10/20).",
+      "stats": "Probabilités sans marge (soccerstat) : 39 % / 31 % / 30 %. Plus de 1,5 buts : 66 % ; plus de 2,5 buts : 41 % ; BTTS : 48 % ; scores les plus probables (soccerstat) : 1-1 (13,2 %), 1-0 (12,5 %), 0-1 (10,5 %). Moyenne de buts attendue (Forebet) : 2,8. Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : ligne 8,5 — plus 1,67 / moins 2,07 (proba. du plus : 55,3 %) · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : ligne 8,5 — plus 1,67 / moins 2,07 (proba. du plus : 55,3 %) · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 04:59 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-spain/segunda-division",
+          "probs": {
+            "home": 35,
+            "draw": 46,
+            "away": 19
+          },
+          "pred1x2": "X",
+          "correctScore": "2-2",
+          "avgGoals": 2.75
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 37,
+            "draw": 29,
+            "away": 34
+          },
+          "correctScore": "1-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "unavailable",
+          "url": "https://www.predictz.com/predictions/today/",
+          "reason": "Affiche listée sans pronostic lisible."
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 28,
+        "label": "Divergent",
+        "majority1x2": "X",
+        "agreement": 0.5,
+        "alignedWithOdds": false,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "1/2 sources indiquent X · double chance citée : 1X (1/2) · divergence avec le favori des cotes (1)."
+      }
+    },
+    {
+      "id": "leuven-kortrijk",
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-27T19:45:00+00:00",
+      "country": "Belgique",
+      "countryCode": "BE",
+      "league": "Jupiler Pro League",
+      "round": "Journée 13",
+      "home": "OH Louvain",
+      "away": "Courtrai",
+      "venue": "Den Dreef Stadium, Heverley",
+      "referee": "Letellier Anthony",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "1X",
+        "label": "Double chance 1X (OH Louvain ou nul)",
+        "odds": 1.3,
+        "confidence": "Moyenne +",
+        "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : OH Louvain 51 % · 2-0; Vitibet : OH Louvain 49 % · 2-1; PredictZ : OH Louvain · 1-0) ; probabilité estimée 74,4 % (modèle soccerstat, meilleure cote 1,30)."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.22,
+          "confidence": "Élevée",
+          "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : OH Louvain 51 % · 2-0; Vitibet : OH Louvain 49 % · 2-1; PredictZ : OH Louvain · 1-0) ; probabilité estimée 78,8 % (modèle soccerstat, meilleure cote 1,22)."
+        },
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.5,
+          "confidence": "Moyenne",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : OH Louvain 51 % · 2-0; Vitibet : OH Louvain 49 % · 2-1; PredictZ : OH Louvain · 1-0) ; probabilité estimée 63,8 % (modèle soccerstat, meilleure cote 1,50)."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent : oui",
+          "odds": 1.6,
+          "confidence": "Moyenne-faible",
+          "explanation": "1/3 source(s) IA compatibles avec ce pari (Forebet : OH Louvain 51 % · 2-0; Vitibet : OH Louvain 49 % · 2-1; PredictZ : OH Louvain · 1-0) ; probabilité estimée 59,7 % (modèle soccerstat, meilleure cote 1,60)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.01,
+        "draw": 3.95,
+        "away": 3.92
+      },
+      "markets": {
+        "1X": 1.3,
+        "X2": 1.91,
+        "bttsYes": 1.6,
+        "bttsNo": 2.5,
+        "over15": 1.22,
+        "under15": 4.58,
+        "over25": 1.68,
+        "under25": 2.27,
+        "over35": 2.68,
+        "under35": 1.5
+      },
+      "form": "5 derniers matchs — OH Louvain : D Anderlecht 1-0 OH Louvain (22/11), V OH Louvain 2-0 KV Mechelen (7/11), V St. Truiden 1-2 OH Louvain (1/11), N OH Louvain 2-2 Lommel United (24/10), N Union Saint-Gilloise 1-1 OH Louvain (11/10). Courtrai : D Courtrai 0-1 Union Saint-Gilloise (22/11), D Gent 1-0 Courtrai (8/11), D Courtrai 1-3 KV Mechelen (4/11), N Standard Liège 1-1 Courtrai (31/10), D Genk 3-0 Courtrai (10/10). Cette saison : OH Louvain à domicile 2V-2N-2D (8-8) ; Courtrai à l’extérieur 0V-1N-5D (1-12).",
+      "absences": "OH Leuven : aucun absent signalé ; Kortrijk : aucun absent signalé (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 6 victoire(s) OH Louvain, 6 nul(s), 7 victoire(s) Courtrai. Derniers : Courtrai 2-0 OH Louvain (8/3/25) ; OH Louvain 1-1 Courtrai (22/9/24) ; Courtrai 0-0 OH Louvain (27/1/24) ; OH Louvain 3-0 Courtrai (1/9/23) ; OH Louvain 2-3 Courtrai (8/1/23).",
+      "stats": "Probabilités sans marge (soccerstat) : 49 % / 25 % / 26 %. Plus de 1,5 buts : 78,8 % ; plus de 2,5 buts : 57 % ; BTTS : 60 % ; scores les plus probables (soccerstat) : 1-1 (11 %), 2-1 (9,6 %), 1-0 (9,2 %). Moyenne de buts attendue (Forebet) : 2,3. Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : ligne 10,5 — plus 1,88 / moins 1,85 (proba. du plus : 49,6 %) · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 1,88 / moins 1,85 (proba. du plus : 49,6 %) · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 03:28 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-belgium/jupiler-pro-league",
+          "probs": {
+            "home": 51,
+            "draw": 31,
+            "away": 18
+          },
+          "pred1x2": "1",
+          "correctScore": "2-0",
+          "avgGoals": 2.27
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 49,
+            "draw": 26,
+            "away": 25
+          },
+          "correctScore": "2-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "1",
+          "correctScore": "1-0"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 3,
+        "summary": "3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "brest-parisfc",
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-27T19:45:00+00:00",
+      "country": "France",
+      "countryCode": "FR",
+      "league": "Ligue 1",
+      "round": "Journée 12",
+      "home": "Brest",
+      "away": "Paris FC",
+      "venue": "Stade Francis-Le-Blé, Brest",
+      "referee": "Ruddy Buquet",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.36,
+        "confidence": "Moyenne +",
+        "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Paris FC 39 % · 0-1; Vitibet : Brest ou nul · 2-1; PredictZ : nul · 1-1) ; probabilité estimée 70,5 % (modèle soccerstat, meilleure cote 1,36)."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.31,
+          "confidence": "Moyenne +",
+          "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : Paris FC 39 % · 0-1; Vitibet : Brest ou nul · 2-1; PredictZ : nul · 1-1) ; probabilité estimée 73,4 % (modèle soccerstat, meilleure cote 1,31)."
+        },
+        {
+          "market": "X2",
+          "label": "Double chance X2 (nul ou Paris FC)",
+          "odds": 1.37,
+          "confidence": "Moyenne +",
+          "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : Paris FC 39 % · 0-1; Vitibet : Brest ou nul · 2-1; PredictZ : nul · 1-1) ; probabilité estimée 71,3 % (modèle soccerstat, meilleure cote 1,37)."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent : oui",
+          "odds": 1.7,
+          "confidence": "Moyenne-faible",
+          "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : Paris FC 39 % · 0-1; Vitibet : Brest ou nul · 2-1; PredictZ : nul · 1-1) ; probabilité estimée 55,2 % (modèle soccerstat, meilleure cote 1,70)."
+        }
+      ],
+      "odds1x2": {
+        "home": 3.43,
+        "draw": 3.68,
+        "away": 2.25
+      },
+      "markets": {
+        "1X": 1.73,
+        "X2": 1.37,
+        "bttsYes": 1.7,
+        "bttsNo": 2.2,
+        "over15": 1.31,
+        "under15": 3.78,
+        "over25": 1.96,
+        "under25": 1.98,
+        "over35": 3.4,
+        "under35": 1.36
+      },
+      "form": "Classement : Brest 6e (18 pts), Paris FC 2e (23 pts). 5 derniers matchs — Brest : V Strasbourg 0-1 Brest (21/11), V Brest 2-0 Lyon (8/11), V Lorient 0-2 Brest (2/11), D Brest 1-2 Nice (23/10), N Lille 1-1 Brest (17/10). Paris FC : V Paris FC 4-0 Angers (22/11), V Auxerre 0-1 Paris FC (7/11), V Paris FC 3-1 Monaco (1/11), D Lens 2-1 Paris FC (24/10), V Paris FC 4-3 Rennes (18/10). Cette saison : Brest à domicile 2V-1N-2D (10-6) ; Paris FC à l’extérieur 2V-1N-2D (5-5).",
+      "absences": "Stade Brestois 29 : B. Chardonnet (mollet, absent), R. Le Guen (jambe cassée, absent) ; Paris FC : N. Sangui (musculaire, incertain) (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 3 victoire(s) Brest, 5 nul(s), 2 victoire(s) Paris FC. Derniers : Paris FC 4-0 Brest (3/5/26) ; Brest 1-2 Paris FC (14/9/25) ; Paris FC 0-1 Brest (21/1/19) ; Brest 1-1 Paris FC (10/8/18) ; Paris FC 0-1 Brest (24/2/18).",
+      "stats": "Probabilités sans marge (soccerstat) : 29 % / 28 % / 43 %. Plus de 1,5 buts : 73,4 % ; plus de 2,5 buts : 50 % ; BTTS : 55 % ; scores les plus probables (soccerstat) : 1-1 (12,4 %), 0-1 (10,8 %), 1-2 (9 %). Tendances Forebet : Paris FC invaincu lors de 10 de ses 12 derniers matchs de Ligue 1 ; Brest sans encaisser lors de ses 3 derniers matchs de Ligue 1. Moyenne de buts attendue (Forebet) : 1,9. Buteurs (cotes) : non disponible. Passeurs : non disponible. Pari conseillé par soccerstat : Total corners: Under 9 @ 1,91. Corners : ligne 8,5 — plus 1,74 / moins 2,02 (proba. du plus : 53,8 %) · Cartons : ligne 3,5 — plus 1,86 / moins 1,88 (proba. du plus : 50,3 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 8,5 — plus 1,74 / moins 2,02 (proba. du plus : 53,8 %) · Cartons : ligne 3,5 — plus 1,86 / moins 1,88 (proba. du plus : 50,3 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 06:00 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-france/ligue1",
+          "probs": {
+            "home": 28,
+            "draw": 33,
+            "away": 39
+          },
+          "pred1x2": "2",
+          "correctScore": "0-1",
+          "avgGoals": 1.93,
+          "note": "Tendances Forebet : Paris FC invaincu lors de 10 de ses 12 derniers matchs de Ligue 1 ; Brest sans encaisser lors de ses 3 derniers matchs de Ligue 1."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 40,
+            "draw": 27,
+            "away": 33
+          },
+          "correctScore": "2-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "X",
+          "correctScore": "1-1"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 33,
+        "label": "Divergent",
+        "majority1x2": null,
+        "agreement": 0.333,
+        "alignedWithOdds": false,
+        "oddsFavorite": "2",
+        "sourcesUsed": 3,
+        "summary": "pas de majorité 1N2 (sources partagées) · double chance citée : 1X (1/3) · divergence avec le favori des cotes (2)."
+      }
+    },
+    {
+      "id": "venezia-bologna",
+      "kickoffParis": "20:45",
+      "kickoffIso": "2026-11-27T19:45:00+00:00",
+      "country": "Italie",
+      "countryCode": "IT",
+      "league": "Serie A",
+      "round": "Journée 13",
+      "home": "Venise",
+      "away": "Bologne",
+      "venue": "Stadio Pier Luigi Penzo, Venice",
+      "referee": "Andrea Colombo",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.25,
+        "confidence": "Moyenne +",
+        "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Bologne 61 % · 0-3; Vitibet : nul ou Bologne · 1-2; PredictZ : Bologne · 0-2) ; probabilité estimée 75,6 % (modèle soccerstat, meilleure cote 1,25)."
+      },
+      "otherPicks": [
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.36,
+          "confidence": "Moyenne +",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Bologne 61 % · 0-3; Vitibet : nul ou Bologne · 1-2; PredictZ : Bologne · 0-2) ; probabilité estimée 70,1 % (modèle soccerstat, meilleure cote 1,36)."
+        },
+        {
+          "market": "X2",
+          "label": "Double chance X2 (nul ou Bologne)",
+          "odds": 1.41,
+          "confidence": "Moyenne",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Bologne 61 % · 0-3; Vitibet : nul ou Bologne · 1-2; PredictZ : Bologne · 0-2) ; probabilité estimée 69,3 % (modèle soccerstat, meilleure cote 1,41)."
+        },
+        {
+          "market": "U2.5",
+          "label": "Moins de 2,5 buts",
+          "odds": 1.74,
+          "confidence": "Moyenne-faible",
+          "explanation": "1/3 source(s) IA compatibles avec ce pari (Forebet : Bologne 61 % · 0-3; Vitibet : nul ou Bologne · 1-2; PredictZ : Bologne · 0-2) ; probabilité estimée 55,2 % (modèle soccerstat, meilleure cote 1,74)."
+        }
+      ],
+      "odds1x2": {
+        "home": 3.24,
+        "draw": 3.42,
+        "away": 2.45
+      },
+      "markets": {
+        "1X": 1.62,
+        "X2": 1.41,
+        "bttsYes": 1.83,
+        "bttsNo": 1.95,
+        "over15": 1.36,
+        "under15": 3.27,
+        "over25": 2.17,
+        "under25": 1.74,
+        "over35": 4.0,
+        "under35": 1.25
+      },
+      "form": "Classement : Venise 20e (6 pts), Bologne 9e (18 pts). 5 derniers matchs — Venise : D Juventus 4-0 Venise (22/11), V Venise 2-1 Udinese (6/11), D Como 1-0 Venise (1/11), D Venise 0-2 Inter (28/10), D Genoa 1-0 Venise (25/10). Bologne : N Bologne 1-1 Udinese (22/11), V Parma 1-2 Bologne (7/11), V Bologne 2-1 Monza (31/10), V AC Milan 2-4 Bologne (28/10), V Cagliari 0-2 Bologne (24/10). Cette saison : Venise à domicile 2V-0N-4D (5-11) ; Bologne à l’extérieur 4V-0N-2D (10-6).",
+      "absences": "Venezia : A. Adorante (indisponible, absent), T. Correia (cuisse, absent), B. Franjic (épaule, absent), M. Sverko (hanche, absent) ; Bologna : L. De Silvestri (mollet, absent), O. El Azzouzi (cuisse, absent), J. Enem (tendon d’Achille, absent), E. Holm (cuisse, absent), J. Miranda (musculaire, absent) (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 2 victoire(s) Venise, 0 nul(s), 2 victoire(s) Bologne. Derniers : Venise 0-1 Bologne (29/3/25) ; Bologne 3-0 Venise (30/11/24) ; Venise 4-3 Bologne (8/5/22) ; Bologne 0-1 Venise (21/11/21).",
+      "stats": "Probabilités sans marge (soccerstat) : 31 % / 29 % / 40 %. Plus de 1,5 buts : 70,1 % ; plus de 2,5 buts : 45 % ; BTTS : 51 % ; scores les plus probables (soccerstat) : 1-1 (13 %), 0-1 (11,8 %), 1-0 (10 %). Moyenne de buts attendue (Forebet) : 3. Buteurs (cotes) : non disponible. Passeurs : non disponible. Pari conseillé par soccerstat : Bologna to win @ 2,45. Corners : ligne 8,5 — plus 1,67 / moins 2,09 (proba. du plus : 55,6 %) · Cartons : ligne 3,5 — plus 1,69 / moins 2,14 (proba. du plus : 55,9 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 8,5 — plus 1,67 / moins 2,09 (proba. du plus : 55,6 %) · Cartons : ligne 3,5 — plus 1,69 / moins 2,14 (proba. du plus : 55,9 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 08:24 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-italy/serie-a",
+          "probs": {
+            "home": 22,
+            "draw": 17,
+            "away": 61
+          },
+          "pred1x2": "2",
+          "correctScore": "0-3",
+          "avgGoals": 3.0
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 25,
+            "draw": 28,
+            "away": 47
+          },
+          "correctScore": "1-2",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "2",
+          "correctScore": "0-2"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 67,
+        "label": "Moyen +",
+        "majority1x2": "2",
+        "agreement": 0.667,
+        "alignedWithOdds": true,
+        "oddsFavorite": "2",
+        "sourcesUsed": 3,
+        "summary": "2/3 sources indiquent 2 · double chance citée : X2 (1/3) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    },
+    {
+      "id": "southampton-boro",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-27T20:00:00+00:00",
+      "country": "Angleterre",
+      "countryCode": "EN",
+      "league": "Championship (D2 anglaise)",
+      "round": "Journée 18",
+      "home": "Southampton",
+      "away": "Middlesbrough",
+      "venue": "St. Mary's Stadium, Southampton",
+      "referee": null,
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": "Will Lankshear (Southampton) buteur : cote 2,20 — a marqué dans 8 de ses 10 derniers matchs (soccerstat, player props).",
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.18,
+        "confidence": "Élevée",
+        "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : nul 35 % · 0-0; Vitibet : nul ou Middlesbrough · 1-1; PredictZ : nul · 2-2) ; probabilité estimée 81,2 % (modèle soccerstat, meilleure cote 1,18)."
+      },
+      "otherPicks": [
+        {
+          "market": "X2",
+          "label": "Double chance X2 (nul ou Middlesbrough)",
+          "odds": 1.47,
+          "confidence": "Moyenne",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : nul 35 % · 0-0; Vitibet : nul ou Middlesbrough · 1-1; PredictZ : nul · 2-2) ; probabilité estimée 66,6 % (modèle soccerstat, meilleure cote 1,47)."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent : oui",
+          "odds": 1.5,
+          "confidence": "Moyenne",
+          "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : nul 35 % · 0-0; Vitibet : nul ou Middlesbrough · 1-1; PredictZ : nul · 2-2) ; probabilité estimée 64,7 % (modèle soccerstat, meilleure cote 1,50)."
+        },
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.68,
+          "confidence": "Moyenne-faible",
+          "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : nul 35 % · 0-0; Vitibet : nul ou Middlesbrough · 1-1; PredictZ : nul · 2-2) ; probabilité estimée 58,7 % (modèle soccerstat, meilleure cote 1,68)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.9,
+        "draw": 3.89,
+        "away": 2.35
+      },
+      "markets": {
+        "1X": 1.62,
+        "X2": 1.47,
+        "bttsYes": 1.5,
+        "bttsNo": 2.8,
+        "over15": 1.18,
+        "under15": 5.8,
+        "over25": 1.57,
+        "under25": 2.62,
+        "over35": 2.38,
+        "under35": 1.68
+      },
+      "form": "5 derniers matchs — Southampton : N Sheffield United 1-1 Southampton (24/11), V Southampton 2-0 Derby (21/11), D Preston 1-0 Southampton (7/11), N West Brom 1-1 Southampton (3/11), V Southampton 4-1 QPR (31/10). Middlesbrough : V Middlesbrough 2-1 Swansea (24/11), V Middlesbrough 2-0 Bristol City (21/11), N Watford 0-0 Middlesbrough (7/11), D Wrexham 2-0 Middlesbrough (4/11), V Middlesbrough 3-0 Charlton (31/10). Cette saison : Southampton à domicile 7V-1N-0D (22-5) ; Middlesbrough à l’extérieur 3V-3N-2D (13-10).",
+      "absences": "Southampton : K. Schlotterbeck (épaule, absent), C. Jander (musculaire, incertain) ; Middlesbrough : A. Jones (mollet, absent), R. Pukstas (ischio-jambiers, absent) (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 4 victoire(s) Southampton, 3 nul(s), 3 victoire(s) Middlesbrough. Derniers : Southampton 2-1 Middlesbrough (12/5/26) ; Middlesbrough 0-0 Southampton (9/5/26) ; Middlesbrough 4-0 Southampton (4/1/26) ; Southampton 1-1 Middlesbrough (27/9/25) ; Southampton 1-1 Middlesbrough (29/3/24).",
+      "stats": "Probabilités sans marge (soccerstat) : 33 % / 26 % / 41 %. Plus de 1,5 buts : 81,2 % ; plus de 2,5 buts : 62 % ; BTTS : 65 % ; scores les plus probables (soccerstat) : 1-1 (10,6 %), 1-2 (8,7 %), 2-1 (8 %). Moyenne de buts attendue (Forebet) : 1,9. Buteurs : Will Lankshear (Southampton) buteur : cote 2,20 — a marqué dans 8 de ses 10 derniers matchs (soccerstat, player props). Passeurs : non disponible. Corners : ligne 10,5 — plus 1,84 / moins 1,89 (proba. du plus : 50,7 %) · Cartons : ligne 3,5 — plus 1,68 / moins 2,10 (proba. du plus : 55,4 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 10,5 — plus 1,84 / moins 1,89 (proba. du plus : 50,7 %) · Cartons : ligne 3,5 — plus 1,68 / moins 2,10 (proba. du plus : 55,4 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 06:00 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-england/championship",
+          "probs": {
+            "home": 32,
+            "draw": 35,
+            "away": 33
+          },
+          "pred1x2": "X",
+          "correctScore": "0-0",
+          "avgGoals": 1.94
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 34,
+            "draw": 29,
+            "away": 37
+          },
+          "correctScore": "1-1",
+          "tip": "X2",
+          "doubleChance": "X2"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "X",
+          "correctScore": "2-2"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 37,
+        "label": "Divergent",
+        "majority1x2": "X",
+        "agreement": 0.667,
+        "alignedWithOdds": false,
+        "oddsFavorite": "2",
+        "sourcesUsed": 3,
+        "summary": "2/3 sources indiquent X · double chance citée : X2 (1/3) · divergence avec le favori des cotes (2)."
+      }
+    },
+    {
+      "id": "levante-racing",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-27T20:00:00+00:00",
+      "country": "Espagne",
+      "countryCode": "ES",
+      "league": "Liga (D1 espagnole)",
+      "round": "Journée 14",
+      "home": "Levante",
+      "away": "Racing Santander",
+      "venue": "Estadio Ciudad de Valencia, Valencia",
+      "referee": "Miguel Sesma Espinosa",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.14,
+        "confidence": "Élevée",
+        "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : Levante 38 % · 2-0; Vitibet : Levante 51 % · 2-1; PredictZ : Levante · 1-0) ; probabilité estimée 83,6 % (modèle soccerstat, meilleure cote 1,14)."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X (Levante ou nul)",
+          "odds": 1.36,
+          "confidence": "Moyenne +",
+          "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Levante 38 % · 2-0; Vitibet : Levante 51 % · 2-1; PredictZ : Levante · 1-0) ; probabilité estimée 71,2 % (modèle soccerstat, meilleure cote 1,36)."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent : oui",
+          "odds": 1.4,
+          "confidence": "Moyenne",
+          "explanation": "1/3 source(s) IA compatibles avec ce pari (Forebet : Levante 38 % · 2-0; Vitibet : Levante 51 % · 2-1; PredictZ : Levante · 1-0) ; probabilité estimée 67,9 % (modèle soccerstat, meilleure cote 1,40)."
+        },
+        {
+          "market": "O2.5",
+          "label": "Plus de 2,5 buts",
+          "odds": 1.44,
+          "confidence": "Moyenne",
+          "explanation": "1/3 source(s) IA compatibles avec ce pari (Forebet : Levante 38 % · 2-0; Vitibet : Levante 51 % · 2-1; PredictZ : Levante · 1-0) ; probabilité estimée 67 % (modèle soccerstat, meilleure cote 1,44)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.12,
+        "draw": 4.11,
+        "away": 3.46
+      },
+      "markets": {
+        "1X": 1.36,
+        "X2": 1.84,
+        "bttsYes": 1.4,
+        "bttsNo": 3.1,
+        "over15": 1.14,
+        "under15": 6.0,
+        "over25": 1.44,
+        "under25": 3.0,
+        "over35": 2.08,
+        "under35": 1.87
+      },
+      "form": "Classement : Levante 15e (12 pts), Racing Santander 7e (17 pts). 5 derniers matchs — Levante : N Levante 1-1 Elche (23/11), N Celta Vigo 0-0 Levante (8/11), D Levante 0-2 Atlético Madrid (31/10), D Real Sociedad 2-1 Levante (25/10), V Levante 3-1 Athletic Club (21/10). Racing Santander : V Racing Santander 3-2 Real Sociedad (22/11), V Málaga 1-2 Racing Santander (7/11), D Racing Santander 0-3 Real Madrid (1/11), V Racing Santander 2-1 Espanyol (24/10), D Osasuna 2-0 Racing Santander (18/10). Cette saison : Levante à domicile 2V-2N-2D (14-13) ; Racing Santander à l’extérieur 1V-0N-5D (6-19).",
+      "absences": "Levante : M. Sanchez (genou, absent), J. Toljan (ischio-jambiers, absent), P. Ratkov (blessé, incertain) ; Racing Santander : M. Gueye (musculaire, absent), A. Mantilla (genou, absent), A. Martin (musculaire, absent) (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 3 victoire(s) Levante, 4 nul(s), 3 victoire(s) Racing Santander. Derniers : Levante 3-1 Racing Santander (6/4/25) ; Racing Santander 1-0 Levante (13/10/24) ; Racing Santander 0-0 Levante (20/4/24) ; Levante 2-4 Racing Santander (20/11/23) ; Racing Santander 0-1 Levante (25/3/23).",
+      "stats": "Probabilités sans marge (soccerstat) : 47 % / 24 % / 29 %. Plus de 1,5 buts : 83,6 % ; plus de 2,5 buts : 67 % ; BTTS : 68 % ; scores les plus probables (soccerstat) : 1-1 (9,5 %), 2-1 (9 %), 1-2 (7,1 %). Moyenne de buts attendue (Forebet) : 2,5. Buteurs (cotes) : non disponible. Passeurs : non disponible. Pari conseillé par soccerstat : Total corners: Over 10 @ 1,92. Corners : ligne 9,5 — plus 1,67 / moins 2,10 (proba. du plus : 55,7 %) · Cartons : ligne 4,5 — plus 1,80 / moins 1,97 (proba. du plus : 52,1 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,67 / moins 2,10 (proba. du plus : 55,7 %) · Cartons : ligne 4,5 — plus 1,80 / moins 1,97 (proba. du plus : 52,1 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 06:00 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-spain/primera-division",
+          "probs": {
+            "home": 38,
+            "draw": 27,
+            "away": 36
+          },
+          "pred1x2": "1",
+          "correctScore": "2-0",
+          "avgGoals": 2.47
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 51,
+            "draw": 26,
+            "away": 23
+          },
+          "correctScore": "2-1",
+          "tip": "1",
+          "pred1x2": "1"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "1",
+          "correctScore": "1-0"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 100,
+        "label": "Fort",
+        "majority1x2": "1",
+        "agreement": 1.0,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 3,
+        "summary": "3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    },
+    {
+      "id": "forest-chelsea",
+      "kickoffParis": "21:00",
+      "kickoffIso": "2026-11-27T20:00:00+00:00",
+      "country": "Angleterre",
+      "countryCode": "EN",
+      "league": "Premier League",
+      "round": "Journée 12",
+      "home": "Nottingham Forest",
+      "away": "Chelsea",
+      "venue": "City Ground, Nottingham",
+      "referee": "Andrew Madley",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "O1.5",
+        "label": "Plus de 1,5 buts",
+        "odds": 1.3,
+        "confidence": "Moyenne +",
+        "explanation": "3/4 source(s) IA compatibles avec ce pari (Forebet : Chelsea 46 % · 1-2; Vitibet : Nottingham Forest ou nul · 2-1; PredictZ : nul · 2-2; Opta Supercomputer : Nottingham Forest 39,9 %) ; probabilité estimée 73,8 % (modèle soccerstat, meilleure cote 1,30)."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X (Nottingham Forest ou nul)",
+          "odds": 1.51,
+          "confidence": "Moyenne",
+          "explanation": "3/4 source(s) IA compatibles avec ce pari (Forebet : Chelsea 46 % · 1-2; Vitibet : Nottingham Forest ou nul · 2-1; PredictZ : nul · 2-2; Opta Supercomputer : Nottingham Forest 39,9 %) ; probabilité estimée 65,4 % (modèle soccerstat, meilleure cote 1,51)."
+        },
+        {
+          "market": "U3.5",
+          "label": "Moins de 3,5 buts",
+          "odds": 1.38,
+          "confidence": "Moyenne",
+          "explanation": "2/4 source(s) IA compatibles avec ce pari (Forebet : Chelsea 46 % · 1-2; Vitibet : Nottingham Forest ou nul · 2-1; PredictZ : nul · 2-2; Opta Supercomputer : Nottingham Forest 39,9 %) ; probabilité estimée 69,4 % (modèle soccerstat, meilleure cote 1,38)."
+        },
+        {
+          "market": "BTTS",
+          "label": "Les deux équipes marquent : oui",
+          "odds": 1.67,
+          "confidence": "Moyenne-faible",
+          "explanation": "3/4 source(s) IA compatibles avec ce pari (Forebet : Chelsea 46 % · 1-2; Vitibet : Nottingham Forest ou nul · 2-1; PredictZ : nul · 2-2; Opta Supercomputer : Nottingham Forest 39,9 %) ; probabilité estimée 56,4 % (modèle soccerstat, meilleure cote 1,67)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.65,
+        "draw": 3.72,
+        "away": 2.89
+      },
+      "markets": {
+        "1X": 1.51,
+        "X2": 1.61,
+        "bttsYes": 1.67,
+        "bttsNo": 2.2,
+        "over15": 1.3,
+        "under15": 3.89,
+        "over25": 1.96,
+        "under25": 2.06,
+        "over35": 3.2,
+        "under35": 1.38
+      },
+      "form": "Classement : Nottingham Forest 17e (9 pts), Chelsea 8e (16 pts). 5 derniers matchs — Nottingham Forest : D Bournemouth 2-0 Nottingham Forest (21/11), V Nottingham Forest 3-1 Manchester City (7/11), D Brentford 2-0 Nottingham Forest (31/10), N Ipswich 1-1 Nottingham Forest (23/10), D Nottingham Forest 0-1 Arsenal (18/10). Chelsea : D Chelsea 1-4 Leeds (21/11), D Sunderland 1-0 Chelsea (8/11), V Chelsea 2-0 Manchester United (31/10), D Chelsea 0-2 Tottenham (24/10), V Everton 0-2 Chelsea (17/10). Cette saison : Nottingham Forest à domicile 1V-1N-3D (3-4) ; Chelsea à l’extérieur 2V-0N-3D (6-8).",
+      "absences": "Nottingham Forest : N. Dominguez (musculaire, absent), N. Savona (genou, absent) ; Chelsea : J. Gittens (cheville, absent), J. Hato (dos, absent), R. James (genou, absent), Joao Pedro (cuisse, absent), M. Lacroix (musculaire, absent) (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 2 victoire(s) Nottingham Forest, 3 nul(s), 6 victoire(s) Chelsea. Derniers : Chelsea 1-3 Nottingham Forest (4/5/26) ; Nottingham Forest 0-3 Chelsea (18/10/25) ; Nottingham Forest 0-1 Chelsea (25/5/25) ; Chelsea 1-1 Nottingham Forest (6/10/24) ; Nottingham Forest 2-3 Chelsea (11/5/24).",
+      "stats": "Probabilités sans marge (soccerstat) : 37 % / 28 % / 35 %. Plus de 1,5 buts : 73,8 % ; plus de 2,5 buts : 51 % ; BTTS : 56 % ; scores les plus probables (soccerstat) : 1-1 (12,4 %), 1-0 (9,5 %), 0-1 (9,2 %). 10 000 simulations avant-match (Opta Analyst). Moyenne de buts attendue (Forebet) : 2,7. Buteurs (cotes) : non disponible. Passeurs : non disponible. Pari conseillé par soccerstat : Over 2.75 goals @ 2,06. Corners : ligne 9,5 — plus 1,76 / moins 1,99 (proba. du plus : 53 %) · Cartons : ligne 4,5 — plus 1,96 / moins 1,79 (proba. du plus : 47,8 %) (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 1,76 / moins 1,99 (proba. du plus : 53 %) · Cartons : ligne 4,5 — plus 1,96 / moins 1,79 (proba. du plus : 47,8 %) (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 06:00 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "ok",
+          "url": "https://www.forebet.com/en/football-tips-and-predictions-for-england/premier-league",
+          "probs": {
+            "home": 31,
+            "draw": 23,
+            "away": 46
+          },
+          "pred1x2": "2",
+          "correctScore": "1-2",
+          "avgGoals": 2.71
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 42,
+            "draw": 27,
+            "away": 31
+          },
+          "correctScore": "2-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "X",
+          "correctScore": "2-2"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "ok",
+          "url": "https://theanalyst.com/articles/nottingham-forest-vs-chelsea-prediction-premier-league-11-2026",
+          "probs": {
+            "home": 39.9,
+            "draw": 26.6,
+            "away": 33.5
+          },
+          "pred1x2": "1",
+          "note": "10 000 simulations avant-match (Opta Analyst)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 25,
+        "label": "Divergent",
+        "majority1x2": null,
+        "agreement": 0.25,
+        "alignedWithOdds": false,
+        "oddsFavorite": "1",
+        "sourcesUsed": 4,
+        "summary": "pas de majorité 1N2 (sources partagées) · double chance citée : 1X (1/4) · divergence avec le favori des cotes (1)."
+      }
+    },
+    {
+      "id": "maritimo-nacional",
+      "kickoffParis": "21:15",
+      "kickoffIso": "2026-11-27T20:15:00+00:00",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "league": "Primeira Liga",
+      "round": "Journée 12",
+      "home": "Marítimo",
+      "away": "Nacional",
+      "venue": "Estádio do Marítimo, Funchal",
+      "referee": "Miguel Andre Monteiro Fonseca",
+      "status": "NS",
+      "minute": null,
+      "score": null,
+      "htScore": null,
+      "scorerNote": null,
+      "prediction": {
+        "market": "U3.5",
+        "label": "Moins de 3,5 buts",
+        "odds": 1.25,
+        "confidence": "Élevée",
+        "explanation": "2/2 source(s) IA compatibles avec ce pari (Vitibet : Marítimo ou nul · 2-1; PredictZ : Marítimo · 1-0) ; probabilité estimée 78,7 % (modèle soccerstat, meilleure cote 1,25)."
+      },
+      "otherPicks": [
+        {
+          "market": "1X",
+          "label": "Double chance 1X (Marítimo ou nul)",
+          "odds": 1.33,
+          "confidence": "Moyenne +",
+          "explanation": "2/2 source(s) IA compatibles avec ce pari (Vitibet : Marítimo ou nul · 2-1; PredictZ : Marítimo · 1-0) ; probabilité estimée 73,1 % (modèle soccerstat, meilleure cote 1,33)."
+        },
+        {
+          "market": "O1.5",
+          "label": "Plus de 1,5 buts",
+          "odds": 1.5,
+          "confidence": "Moyenne",
+          "explanation": "1/2 source(s) IA compatibles avec ce pari (Vitibet : Marítimo ou nul · 2-1; PredictZ : Marítimo · 1-0) ; probabilité estimée 65,7 % (modèle soccerstat, meilleure cote 1,50)."
+        },
+        {
+          "market": "U2.5",
+          "label": "Moins de 2,5 buts",
+          "odds": 1.73,
+          "confidence": "Moyenne-faible",
+          "explanation": "1/2 source(s) IA compatibles avec ce pari (Vitibet : Marítimo ou nul · 2-1; PredictZ : Marítimo · 1-0) ; probabilité estimée 58,6 % (modèle soccerstat, meilleure cote 1,73)."
+        }
+      ],
+      "odds1x2": {
+        "home": 2.27,
+        "draw": 3.4,
+        "away": 3.69
+      },
+      "markets": {
+        "1X": 1.33,
+        "X2": 1.72,
+        "bttsYes": 2.05,
+        "bttsNo": 1.91,
+        "over15": 1.5,
+        "under15": 3.25,
+        "over25": 2.54,
+        "under25": 1.73,
+        "over35": 5.0,
+        "under35": 1.25
+      },
+      "form": "5 derniers matchs — Marítimo : D Marítimo 0-2 Santa Clara (1/11), D Vitória SC 5-0 Marítimo (23/10), D Marítimo 1-2 FC Porto (10/10), N GIL Vicente 1-1 Marítimo (19/9), D Moreirense 3-1 Marítimo (14/9). Nacional : V Nacional 1-0 Académico Viseu (8/11), D Arouca 1-0 Nacional (1/11), V Nacional 1-0 SC Braga (25/10), D Rio Ave 3-2 Nacional (11/10), D Nacional 0-4 Famalicão (19/9). Cette saison : Marítimo à domicile 1V-1N-3D (4-9) ; Nacional à l’extérieur 0V-1N-4D (4-9).",
+      "absences": "Marítimo : aucun absent signalé ; Nacional : aucun absent signalé (soccerstat).",
+      "h2h": "Bilan (soccerstat) : 10 victoire(s) Marítimo, 7 nul(s), 7 victoire(s) Nacional. Derniers : Marítimo 3-0 Nacional (3/8/25) ; Marítimo 2-0 Nacional (23/7/24) ; Marítimo 3-1 Nacional (21/1/24) ; Nacional 1-2 Marítimo (12/8/23) ; Marítimo 1-0 Nacional (30/7/22).",
+      "stats": "Probabilités sans marge (soccerstat) : 43 % / 30 % / 27 %. Plus de 1,5 buts : 65,7 % ; plus de 2,5 buts : 41 % ; BTTS : 47 % ; scores les plus probables (soccerstat) : 1-1 (13 %), 1-0 (13 %), 0-1 (10 %). Buteurs (cotes) : non disponible. Passeurs : non disponible. Corners : ligne 9,5 — plus 2,00 / moins 1,73 (proba. du plus : 46,4 %) · Cartons : non disponible (soccerstat).",
+      "specialMarkets": "Corners : ligne 9,5 — plus 2,00 / moins 1,73 (proba. du plus : 46,4 %) · Cartons : non disponible (soccerstat).",
+      "sources": "Cotes : meilleures cotes du marché relevées sur soccerstat.co.uk (fiche du match, mise à jour 27/11/26, 06:00 heure du site). Absents, forme, classement : soccerstat.co.uk. Modèles IA : voir tableau.",
+      "isTop": true,
+      "scoreSource": null,
+      "externalSources": [
+        {
+          "id": "forebet",
+          "name": "Forebet",
+          "status": "unavailable",
+          "reason": "Page Primeira Liga introuvable (404) ; page « today » en 403/chargement partiel. Aucun chiffre retenu."
+        },
+        {
+          "id": "vitibet",
+          "name": "Vitibet",
+          "status": "ok",
+          "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+          "probs": {
+            "home": 43,
+            "draw": 28,
+            "away": 29
+          },
+          "correctScore": "2-1",
+          "tip": "1X",
+          "doubleChance": "1X"
+        },
+        {
+          "id": "predictz",
+          "name": "PredictZ",
+          "status": "ok",
+          "url": "https://www.predictz.com/predictions/today/",
+          "pred1x2": "1",
+          "correctScore": "1-0"
+        },
+        {
+          "id": "opta",
+          "name": "Opta Supercomputer",
+          "status": "unavailable",
+          "reason": "Aucune probabilité Opta publiée en accès public pour ce match (seul Forest–Chelsea est couvert ce vendredi)."
+        },
+        {
+          "id": "windrawwin",
+          "name": "WinDrawWin",
+          "status": "unavailable",
+          "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+          "reason": "Page du 27/11 lue (WebFetch) mais le pronostic n’apparaît pas dans le contenu lisible (seuls cotes et taille de mise). Accès direct : 403, non contourné."
+        }
+      ],
+      "consensus": {
+        "score": 50,
+        "label": "Moyen",
+        "majority1x2": "1",
+        "agreement": 0.5,
+        "alignedWithOdds": true,
+        "oddsFavorite": "1",
+        "sourcesUsed": 2,
+        "summary": "1/2 sources indiquent 1 · double chance citée : 1X (1/2) · concordance avec les cotes (favori 1N2 : 1)."
+      }
+    }
+  ],
+  "tickets": [
+    {
+      "id": "t1",
+      "title": "Ultra-safe 1 — Doubles chances et favori",
+      "subtitle": "7 sélections · marchés de résultat",
+      "totalOdds": 6.35,
+      "confidence": "Moyenne-faible",
+      "note": "Cote totale estimée ≈ 6,35 (produit des meilleures cotes soccerstat du matin ; peut être un peu plus basse chez un opérateur agréé ANJ). Probabilité combinée estimée (probabilités du modèle soccerstat, matchs supposés indépendants) ≈ 13 %. Aucun pari n’est garanti.",
+      "legs": [
+        {
+          "matchId": "bochum-darmstadt",
+          "time": "18h30",
+          "label": "Bochum – Darmstadt",
+          "pick": "Double chance 1X (Bochum ou nul)",
+          "market": "1X",
+          "odds": 1.26,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "sonderjyske-brondby",
+          "time": "19h00",
+          "label": "Sønderjyske – Brøndby",
+          "pick": "Double chance X2 (nul ou Brøndby)",
+          "market": "X2",
+          "odds": 1.24,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "groningen-willem2",
+          "time": "20h00",
+          "label": "Groningue – Willem II",
+          "pick": "Groningue gagnant",
+          "market": "1",
+          "odds": 1.36,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "werder-gladbach",
+          "time": "20h30",
+          "label": "Werder Brême – Mönchengladbach",
+          "pick": "Double chance 1X (Werder Brême ou nul)",
+          "market": "1X",
+          "odds": 1.27,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "leuven-kortrijk",
+          "time": "20h45",
+          "label": "OH Louvain – Courtrai",
+          "pick": "Double chance 1X (OH Louvain ou nul)",
+          "market": "1X",
+          "odds": 1.3,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "levante-racing",
+          "time": "21h00",
+          "label": "Levante – Racing Santander",
+          "pick": "Double chance 1X (Levante ou nul)",
+          "market": "1X",
+          "odds": 1.36,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "maritimo-nacional",
+          "time": "21h15",
+          "label": "Marítimo – Nacional",
+          "pick": "Double chance 1X (Marítimo ou nul)",
+          "market": "1X",
+          "odds": 1.33,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "title": "Ultra-safe 2 — Marchés de buts (plus de 1,5 / moins de 3,5 / BTTS)",
+      "subtitle": "8 sélections · marchés prudents",
+      "totalOdds": 6.55,
+      "confidence": "Moyenne-faible",
+      "note": "Cote totale estimée ≈ 6,55 (meilleures cotes soccerstat du matin). Probabilité combinée estimée (probabilités du modèle soccerstat, matchs supposés indépendants) ≈ 11 %. Aucun pari n’est garanti.",
+      "legs": [
+        {
+          "matchId": "artis-slovacko",
+          "time": "18h00",
+          "label": "Artis Brno – Slovácko",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.28,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "bochum-darmstadt",
+          "time": "18h30",
+          "label": "Bochum – Darmstadt",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.21,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "heidenheim-nurnberg",
+          "time": "18h30",
+          "label": "Heidenheim – Nuremberg",
+          "pick": "Les deux équipes marquent : oui",
+          "market": "BTTS",
+          "odds": 1.36,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "sonderjyske-brondby",
+          "time": "19h00",
+          "label": "Sønderjyske – Brøndby",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.2,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "venezia-bologna",
+          "time": "20h45",
+          "label": "Venise – Bologne",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.25,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "leuven-kortrijk",
+          "time": "20h45",
+          "label": "OH Louvain – Courtrai",
+          "pick": "Plus de 1,5 buts",
+          "market": "O1.5",
+          "odds": 1.22,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "brest-parisfc",
+          "time": "20h45",
+          "label": "Brest – Paris FC",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.36,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "maritimo-nacional",
+          "time": "21h15",
+          "label": "Marítimo – Nacional",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.25,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "title": "Grosse cote — 6 sélections (RISQUÉ)",
+      "subtitle": "6 sélections · cote ≥ 20",
+      "totalOdds": 20.02,
+      "confidence": "Faible",
+      "note": "⚠️ Ticket risqué : cote totale estimée ≈ 20,02. Sélections choisies pour offrir la meilleure probabilité possible à cote ≥ 20 ; chance combinée ≈ 5 % seulement (ordre de grandeur ~5 %). Petite mise uniquement. Aucun pari n’est garanti.",
+      "legs": [
+        {
+          "matchId": "sonderjyske-brondby",
+          "time": "19h00",
+          "label": "Sønderjyske – Brøndby",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.57,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "werder-gladbach",
+          "time": "20h30",
+          "label": "Werder Brême – Mönchengladbach",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.75,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "leganes-sabadell",
+          "time": "20h30",
+          "label": "Leganés – Sabadell",
+          "pick": "Moins de 2,5 buts",
+          "market": "U2.5",
+          "odds": 1.66,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "southampton-boro",
+          "time": "21h00",
+          "label": "Southampton – Middlesbrough",
+          "pick": "Moins de 3,5 buts",
+          "market": "U3.5",
+          "odds": 1.68,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "forest-chelsea",
+          "time": "21h00",
+          "label": "Nottingham Forest – Chelsea",
+          "pick": "Double chance 1X (Nottingham Forest ou nul)",
+          "market": "1X",
+          "odds": 1.51,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        },
+        {
+          "matchId": "maritimo-nacional",
+          "time": "21h15",
+          "label": "Marítimo – Nacional",
+          "pick": "Moins de 2,5 buts",
+          "market": "U2.5",
+          "odds": 1.73,
+          "source": "soccerstat.co.uk (meilleure cote du matin)"
+        }
+      ]
+    }
+  ],
+  "externalModels": {
+    "retrievedAt": "2026-11-27T09:40:00+00:00",
+    "sourcesTried": [
+      {
+        "id": "forebet",
+        "name": "Forebet",
+        "status": "partial",
+        "url": "https://www.forebet.com/en/football-tips-and-predictions-for-england/premier-league",
+        "note": "Curl direct : HTTP 403 (non contourné). Pages championnat publiques lues via WebFetch : 12 affiches sur 15 (PL, Bundesliga, 2. Bundesliga, Liga, Segunda, Serie A, Ligue 1, Championship, Eredivisie, Jupiler Pro League, Superliga). Pas de page trouvée pour Tchéquie, Portugal ni Coupe de France."
+      },
+      {
+        "id": "vitibet",
+        "name": "Vitibet",
+        "status": "ok",
+        "url": "https://www.vitibet.com/index.php?clanek=quicktips&lang=en&sekce=fotbal",
+        "note": "Page quicktips publique du 27.11.2026 lue en HTTP direct (200). 14 des 15 matchs (pas Cannes–Le Puy)."
+      },
+      {
+        "id": "predictz",
+        "name": "PredictZ",
+        "status": "partial",
+        "url": "https://www.predictz.com/predictions/today/",
+        "note": "Curl direct : 403 (non contourné). Page « today » lue via WebFetch : 10 pronostics clairement rattachés ; 5 affiches sans pronostic lisible."
+      },
+      {
+        "id": "opta",
+        "name": "Opta Supercomputer",
+        "status": "partial",
+        "url": "https://theanalyst.com/articles/nottingham-forest-vs-chelsea-prediction-premier-league-11-2026",
+        "note": "Prédiction publique pour Nottingham Forest–Chelsea seulement (Forest 39,9 %, nul 26,6 %, Chelsea 33,5 %)."
+      },
+      {
+        "id": "windrawwin",
+        "name": "WinDrawWin",
+        "status": "unavailable",
+        "url": "https://www.windrawwin.com/us/picks/future/20261127/",
+        "reason": "Contenu lisible sans les pronostics (seulement cotes / taille de mise) ; accès direct 403."
+      },
+      {
+        "id": "betegy",
+        "name": "Betegy",
+        "status": "unavailable",
+        "reason": "Site injoignable en HTTP direct ce matin (aucune réponse)."
+      },
+      {
+        "id": "soccervista",
+        "name": "SoccerVista",
+        "status": "unavailable",
+        "url": "https://www.soccervista.com/predictions/",
+        "reason": "Page /predictions/ (HTTP 200) sans aucun match du jour dans le HTML (contenu chargé dynamiquement)."
+      }
+    ],
+    "note": "Pronostics d'IA / modèles spécialisés, uniquement en accès public. Les sources bloquées ou illisibles sont indiquées, sans chiffre inventé."
+  },
+  "topTip": {
+    "title": "Top Tip IA du jour",
+    "subtitle": "7 sélections · une par match · les plus sûres",
+    "maxLegs": 7,
+    "totalOdds": 3.06,
+    "confidence": "Élevée",
+    "method": "Combiné de 7 matchs (maximum 7), une seule sélection par rencontre : le marché le plus probable et le plus sûr parmi tous ceux déjà cotés (1, 2, 1X, X2, BTTS oui/non, plus/moins de buts, etc.). Le choix combine la probabilité implicite de la cote (1 ÷ cote) et l'analyse IA (forme, statistiques, absents, niveau de confiance). Les matchs où les sources publiques concordent avec les cotes sont privilégiés, puis triés par confiance décroissante. Aucune cote ni statistique n'a été inventée. Cote totale = produit des 7 cotes du matin.",
+    "legs": [
+      {
+        "matchId": "groningen-willem2",
+        "time": "20:00",
+        "home": "Groningue",
+        "away": "Willem II",
+        "country": "Pays-Bas",
+        "countryCode": "NL",
+        "league": "Eredivisie",
+        "pick": "Double chance 1X (Groningue ou nul)",
+        "market": "1X",
+        "odds": 1.1,
+        "impliedProb": 0.9091,
+        "confidence": "Très élevée",
+        "consensusScore": 100,
+        "consensusNote": "3/3 source(s) soutiennent Double chance 1X (Groningue ou nul) · 3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Groningue 57 % · 3-1; Vitibet : Groningue 67 % · 2-1; PredictZ : Groningue · 3-0) ; probabilité estimée 88,4 % (modèle soccerstat, meilleure cote 1,10). Probabilité implicite de la cote : 91 %. Consensus sources : 3/3 source(s) soutiennent Double chance 1X (Groningue ou nul) · 3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "heidenheim-nurnberg",
+        "time": "18:30",
+        "home": "Heidenheim",
+        "away": "Nuremberg",
+        "country": "Allemagne",
+        "countryCode": "DE",
+        "league": "2. Bundesliga",
+        "pick": "Plus de 1,5 buts",
+        "market": "O1.5",
+        "odds": 1.13,
+        "impliedProb": 0.885,
+        "confidence": "Très élevée",
+        "consensusScore": 48,
+        "consensusNote": "2/2 source(s) soutiennent Plus de 1,5 buts · pas de majorité 1N2 (sources partagées) · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Nuremberg 36 % · 1-3; Vitibet : Heidenheim 52 % · 2-1) ; probabilité estimée 85,5 % (modèle soccerstat, meilleure cote 1,13). Probabilité implicite de la cote : 88 %. Consensus sources : 2/2 source(s) soutiennent Plus de 1,5 buts · pas de majorité 1N2 (sources partagées) · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "werder-gladbach",
+        "time": "20:30",
+        "home": "Werder Brême",
+        "away": "Mönchengladbach",
+        "country": "Allemagne",
+        "countryCode": "DE",
+        "league": "Bundesliga",
+        "pick": "Plus de 1,5 buts",
+        "market": "O1.5",
+        "odds": 1.18,
+        "impliedProb": 0.8475,
+        "confidence": "Élevée",
+        "consensusScore": 100,
+        "consensusNote": "3/3 source(s) soutiennent Plus de 1,5 buts · 3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Werder Brême 59 % · 2-1; Vitibet : Werder Brême 58 % · 2-1; PredictZ : Werder Brême · 2-0) ; probabilité estimée 81,5 % (modèle soccerstat, meilleure cote 1,18). Probabilité implicite de la cote : 85 %. Consensus sources : 3/3 source(s) soutiennent Plus de 1,5 buts · 3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "levante-racing",
+        "time": "21:00",
+        "home": "Levante",
+        "away": "Racing Santander",
+        "country": "Espagne",
+        "countryCode": "ES",
+        "league": "Liga (D1 espagnole)",
+        "pick": "Plus de 1,5 buts",
+        "market": "O1.5",
+        "odds": 1.14,
+        "impliedProb": 0.8772,
+        "confidence": "Élevée",
+        "consensusScore": 85,
+        "consensusNote": "2/3 source(s) soutiennent Plus de 1,5 buts · 3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : Levante 38 % · 2-0; Vitibet : Levante 51 % · 2-1; PredictZ : Levante · 1-0) ; probabilité estimée 83,6 % (modèle soccerstat, meilleure cote 1,14). Probabilité implicite de la cote : 88 %. Consensus sources : 2/3 source(s) soutiennent Plus de 1,5 buts · 3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "leuven-kortrijk",
+        "time": "20:45",
+        "home": "OH Louvain",
+        "away": "Courtrai",
+        "country": "Belgique",
+        "countryCode": "BE",
+        "league": "Jupiler Pro League",
+        "pick": "Plus de 1,5 buts",
+        "market": "O1.5",
+        "odds": 1.22,
+        "impliedProb": 0.8197,
+        "confidence": "Élevée",
+        "consensusScore": 85,
+        "consensusNote": "2/3 source(s) soutiennent Plus de 1,5 buts · 3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1).",
+        "explanation": "2/3 source(s) IA compatibles avec ce pari (Forebet : OH Louvain 51 % · 2-0; Vitibet : OH Louvain 49 % · 2-1; PredictZ : OH Louvain · 1-0) ; probabilité estimée 78,8 % (modèle soccerstat, meilleure cote 1,22). Probabilité implicite de la cote : 82 %. Consensus sources : 2/3 source(s) soutiennent Plus de 1,5 buts · 3/3 sources indiquent 1 · concordance avec les cotes (favori 1N2 : 1)."
+      },
+      {
+        "matchId": "sonderjyske-brondby",
+        "time": "19:00",
+        "home": "Sønderjyske",
+        "away": "Brøndby",
+        "country": "Danemark",
+        "countryCode": "DK",
+        "league": "Superliga danoise",
+        "pick": "Plus de 1,5 buts",
+        "market": "O1.5",
+        "odds": 1.2,
+        "impliedProb": 0.8333,
+        "confidence": "Élevée",
+        "consensusScore": 67,
+        "consensusNote": "2/2 source(s) soutiennent Plus de 1,5 buts · 2/2 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2).",
+        "explanation": "2/2 source(s) IA compatibles avec ce pari (Forebet : Brøndby 48 % · 1-2; Vitibet : Brøndby 51 % · 1-2) ; probabilité estimée 80,6 % (modèle soccerstat, meilleure cote 1,20). Probabilité implicite de la cote : 83 %. Consensus sources : 2/2 source(s) soutiennent Plus de 1,5 buts · 2/2 sources indiquent 2 · concordance avec les cotes (favori 1N2 : 2)."
+      },
+      {
+        "matchId": "venezia-bologna",
+        "time": "20:45",
+        "home": "Venise",
+        "away": "Bologne",
+        "country": "Italie",
+        "countryCode": "IT",
+        "league": "Serie A",
+        "pick": "Moins de 3,5 buts",
+        "market": "U3.5",
+        "odds": 1.25,
+        "impliedProb": 0.8,
+        "confidence": "Moyenne +",
+        "consensusScore": 82,
+        "consensusNote": "3/3 source(s) soutiennent Moins de 3,5 buts · 2/3 sources indiquent 2 · double chance citée : X2 (1/3) · concordance avec les cotes (favori 1N2 : 2).",
+        "explanation": "3/3 source(s) IA compatibles avec ce pari (Forebet : Bologne 61 % · 0-3; Vitibet : nul ou Bologne · 1-2; PredictZ : Bologne · 0-2) ; probabilité estimée 75,6 % (modèle soccerstat, meilleure cote 1,25). Probabilité implicite de la cote : 80 %. Consensus sources : 3/3 source(s) soutiennent Moins de 3,5 buts · 2/3 sources indiquent 2 · double chance citée : X2 (1/3) · concordance avec les cotes (favori 1N2 : 2)."
+      }
+    ]
+  }
+}
