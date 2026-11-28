@@ -1,12 +1,12 @@
 {
   "date": "2026-11-28",
   "dateLabel": "Samedi 28 novembre 2026",
-  "generatedAt": "2026-11-28T11:15:00+01:00",
+  "generatedAt": "2026-11-28T10:20:00+01:00",
   "timezone": "Europe/Paris",
   "timezoneNote": "Horaires affichés à l’heure de Paris (CET, UTC+1).",
   "scoresRetrievedAt": null,
   "scoresNote": "Pronostics d’avant-match publiés le matin : aucun score n’est encore disponible. Cette appli est statique : les scores ne se mettent pas à jour tout seuls.",
-  "sourcesNote": "Pronostics et cotes du matin (page générée vers 11h15, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur football-stats.co.uk (ex-soccerstat.co.uk ; prix mis à jour le 28/11 vers 6h48 heure du site), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Modèles IA publics : Vitibet (27/29 matchs), Forebet (26), PredictZ (14), Opta Supercomputer (4 : Man United–Brentford, Leeds–Coventry, Ipswich–Aston Villa, Real Madrid–Alavés). WinDrawWin (HTTP 403), Betegy (injoignable) et SoccerVista (contenu dynamique) : non disponibles. KickoffAPI : pas de clé configurée. Probabilités par marché : modèle football-stats. Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
+  "sourcesNote": "Pronostics et cotes du matin (page générée vers 10h20, heure de Paris). Cotes indicatives : meilleures cotes du marché relevées sur football-stats.co.uk (ex-soccerstat.co.uk ; prix mis à jour le 28/11 vers 6h48 heure du site), souvent un peu plus hautes que chez les opérateurs agréés ANJ en France. Modèles IA publics : Vitibet (27/29 matchs), Forebet (26), PredictZ (14), Opta Supercomputer (4 : Man United–Brentford, Leeds–Coventry, Ipswich–Aston Villa, Real Madrid–Alavés). WinDrawWin (HTTP 403), Betegy (injoignable) et SoccerVista (contenu dynamique) : non disponibles. KickoffAPI : pas de clé configurée. Probabilités par marché : modèle football-stats. Aucun match, cote ou statistique n’a été inventé ; les champs manquants sont indiqués « non disponible ».",
   "context": "Samedi sans match international ni coupe d’Europe : 29 matchs analysés (Premier League, Liga, Serie A, Bundesliga, Ligue 1, Eredivisie, Primeira Liga, Jupiler Pro League, Premiership écossaise, Eliteserien, Championship et deux affiches de Coupe de France — Saint-Omer–Caen et Saint-Étienne–Villefranche), de 13h30 à 21h30 (heure de Paris). Une centaine d’autres matchs du jour (League One/Two, Serie B, Segunda, 2. Bundesliga, Coupe de France amateurs, Arabie saoudite…) figurent chez football-stats/Vitibet/PredictZ mais n’ont pas été retenus pour garder une analyse lisible. Cotes but/passe décisive : 3 seulement (Mbappé, Naderi, Noslin) ; cotes buteur « sec » pour ces matchs : non disponibles. Sélections avec une cote minimale de 1,10.",
   "responsibleGambling": {
     "title": "Jeu responsable — 18 ans et plus",
